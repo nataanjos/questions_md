@@ -1,0 +1,37 @@
+# q
+Em um experimento, colocou-se água até a metade da capacidade de um frasco de vidro e, em seguida, adicionaram-se três gotas de solução alcoólica de fenolftaleína. Adicionou-se bicarbonato de sódio comercial, em pequenas quantidades, até que a solução se tornasse rosa. Dentro do frasco, acendeu-se um palito de fósforo, o qual foi apagado assim que a cabeça terminou de queimar. Imediatamente, o frasco foi tampado. Em seguida, agitou-se o frasco tampado e observou-se o desaparecimento da cor rosa.
+
+MATEUS. A. L. Química na cabeça. Belo Horizonte. UFMG, 2001 (adaptado)
+
+A explicação para o desaparecimento da cor rosa é que, com a combustão do palito de fósforo, ocorreu o(a)
+
+# a
+formação de óxidos de caráter ácido.
+
+# b
+evaporação do indicador fenolftaleína.
+
+# c
+vaporização de parte da água do frasco.
+
+# d
+vaporização dos gases de caráter alcalino.
+
+# e
+aumento do pH da solução no interior do frasco.
+
+# r
+a
+
+# s
+Ao adicionar fenolftaleína na solução aquosa de bicarbonato de sódio, a cor ficou rosa devido à hidrólise do NaHCO3 que produz meio básico.
+
+$\ce{HCO3^{-} (aq) + HOH <=>> H2CO3 (aq) + OH^{–} (aq)}$
+
+A combustão do palito de fósforo produz óxidos ácidos como $\ce{CO2}$ e $\ce{SO2}$.
+
+A reação química que ocorre entre o $\ce{CO2}$ e a água presente no meio pode ser representada da seguinte forma:
+
+$\ce{CO2 (g) + H2O (l) <=>> H2CO3 (aq) <=>> H^{+} (aq) + HCO3^{-} (aq)}$
+
+Desta forma, ocorre a formação de íons $\ce{H^+ (aq)}$, o que resulta em um meio ácido, condição em que a fenolftaleína se torna incolor em solução aquosa.

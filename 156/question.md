@@ -1,0 +1,37 @@
+# q
+**Caña**
+
+El negro\
+junto al cañaveral.\
+El yanqui sobre el cañaveral.\
+La tierra\
+bajo el cañaveral.\
+¡Sangre\
+que se nos va!
+
+GUILLÉN, N. **Sóngoro cosongo**.\
+Disponível em: www.cervantesvirtual.com.\
+Acesso em: 28 fev. 2012 (fragmento).
+
+Nesse poema de Nicolás Guillén, no qual o poeta reflete sobre o plantio de cana-de-açúcar na América Latina, as preposições *junto*, *sobre* e *bajo* são usadas para indicar metaforicamente
+
+# a
+desordens na organização da lavoura de cana-de-açúcar.
+
+# b
+relações diplomáticas entre os países produtores de cana-de-açúcar.
+
+# c
+localidades da América Latina nas quais a cana-deaçúcar é cultivada.
+
+# d
+relações sociais dos indivíduos que vivem do plantio da cana-de-açúcar.
+
+# e
+funções particulares de cada profissional na lavoura da cana-de-açúcar.
+
+# r
+d
+
+# s
+Pela leitura do poema, deduzimos que as preposições *junto* (relacionado ao negro), *sobre* (relacionado ao ianque) e *bajo* (relacionado à terra) são usadas para indicar metaforicamente relações sociais dos indivíduos que vivem do plantio da cana-da-açúcar.

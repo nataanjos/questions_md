@@ -1,0 +1,25 @@
+# q
+O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.
+
+Essa fonte de energia subutilizada, citada no texto, é o
+
+# a
+etanol, obtido a partir da decomposição da matéria orgânica por bactérias.
+
+# b
+gás natural, formado pela ação de fungos decompositores da matéria orgânica.
+
+# c
+óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.
+
+# d
+gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica
+
+# e
+gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida.
+
+# r
+d
+
+# s
+Apenas a atividade decompositora das bactérias anaeróbias nos aterros sanitários resulta na liberação de gás metano, utilizado como biocombustível.

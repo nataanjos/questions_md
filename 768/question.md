@@ -1,0 +1,25 @@
+# q
+     Pesticidas são contaminantes ambientais altamente tóxicos aos seres vivos e, geralmente, com grande persistência ambiental. A busca por novas formas de eliminação dos pesticidas tem aumentado nos últimos anos, uma vez que as técnicas atuais são economicamente dispendiosas e paliativas. A biorremediação de pesticidas utilizando microrganismos tem se mostrado uma técnica muito promissora para essa finalidade, por apresentar vantagens econômicas e ambientais.
+
+Para ser utilizado nesta técnica promissora, um microrganismo deve ser capaz de
+
+# a
+transferir o contaminante do solo para a água.
+
+# b
+absorver o contaminante sem alterá-lo quimicamente.
+
+# c
+apresentar alta taxa de mutação ao longo das gerações.
+
+# d
+estimular o sistema imunológico do homem contra o contaminante.
+
+# e
+metabolizar o contaminante, liberando subprodutos menos tóxicos ou atóxicos.
+
+# r
+e
+
+# s
+Microrganismos utilizados nos processos de biorremediação, como certas espécies de bactérias, são capazes de transformar substâncias tóxicas, contaminantes do ambiente, em subprodutos menos tóxicos ou inócuos.

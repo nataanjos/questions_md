@@ -1,0 +1,33 @@
+# q
+Tudo no mundo começou com um sim. Uma molécula disse sim a outra molécula e nasceu a vida. Mas antes da pré-história havia a pré-história da pré-história e havia o nunca e havia o sim. Sempre houve. Não sei o quê, mas sei que o universo jamais começou.
+
+\[…]
+
+Enquanto eu tiver perguntas e não houver respostas continuarei a escrever. Como começar pelo início, se as coisas acontecem antes de acontecer? Se antes da pré-pré-história já havia os monstros apocalípticos? Se esta história não existe, passará a existir. Pensar é um ato. Sentir é um fato. Os dois juntos — sou eu que escrevo o que estou escrevendo. \[…] Felicidade? Nunca vi palavra mais doida, inventada pelas nordestinas que andam por aí aos montes. Como eu irei dizer agora, esta história será o resultado de uma visão gradual — há dois anos e meio venho aos poucos descobrindo os porquês. É visão da iminência de. De quê? Quem sabe se mais tarde saberei. Como que estou escrevendo na hora mesma em que sou lido. Só não inicio pelo m que justicaria o começo — como a morte parece dizer sobre a vida — porque preciso registrar os fatos antecedentes.
+
+LISPECTOR, C. A hora da estrela. Rio de Janeiro: Rocco, 1988 (fragmento).
+
+A elaboração de uma voz narrativa peculiar acompanha a trajetória literária de Clarice Lispector, culminada com a obra A hora da estrela, de 1977, ano da morte da escritora. Nesse fragmento, nota-se essa peculiaridade porque o narrador
+
+ 
+
+# a
+observa os acontecimentos que narra sob uma ótica distante, sendo indiferente aos fatos e às personagens.
+
+# b
+relata a história sem ter tido a preocupação de investigar os motivos que levaram aos eventos que a compõem.
+
+# c
+revela-se um sujeito que reete sobre questões existenciais e sobre a construção do discurso.
+
+# d
+admite a diculdade de escrever uma história em razão da complexidade para escolher as palavras exatas.
+
+# e
+propõe-se a discutir questões de natureza filosóca e metafísica, incomuns na narrativa de cção.
+
+# r
+c
+
+# s
+O romance A hora da estrela apresenta um narrador onisciente intruso, interferindo no destino da personagem e funcionando como uma espécie de alter ego de Clarice Lispector. A narrativa é construída em uma fragmentação ternária com as histórias interligadas — a da personagem, a do narrador e a própria história. No fragmento apresentado, o narrador promove uma reflexão existencial que se debruça sobre o fazer artístico por meio da metalinguagem do texto e trabalha a palavra como uma tentativa de resposta às suas próprias perguntas.

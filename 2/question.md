@@ -1,0 +1,29 @@
+# q
+     Primeiro surgiu o homem nu de cabeça baixa. Deus veio num raio. Então apareceram os bichos que comiam os homens. E se fez o fogo, as especiarias, a roupa, a espada e o dever. Em seguida se criou a filosofia, que explicava como não fazer o que não devia ser feito. Então surgiram os números racionais e a História, organizando os eventos sem sentido. A fome desde sempre, das coisas e das pessoas. Foram inventados o calmante e o estimulante. E alguém apagou a luz. E cada um se vira como pode, arrancando as cascas das feridas que alcança.
+
+BONASSI, F. 15 cenas do descobrimento de Brasis. In: MORICONI, Í. (Org.).** O cem melhores contos do século**. Rio de Janeiro: Objetiva, 2001.
+
+ 
+
+A narrativa enxuta e dinâmica de Fernando Bonassi configura um painel evolutivo da história da humanidade. Nele, a projeção do olhar contemporâneo manifesta uma percepção que
+
+# a
+recorre à tradição bíblica como fonte de inspiração para a humanidade.
+
+# b
+desconstrói o discurso da filosofia a fim de questionar o conceito de dever.
+
+# c
+resgata a metodologia da história para denunciar as atitudes irracionais.
+
+# d
+transita entre o humor e a ironia para celebrar o caos da vida cotidiana.
+
+# e
+satiriza a matemática e a medicina para desmistificar o saber científico.
+
+# r
+d
+
+# s
+A crônica de Fernando Bonassi, em frases sintéticas e tom irônico, resume “o caos da vida cotidiana”.

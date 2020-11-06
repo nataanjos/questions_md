@@ -1,0 +1,29 @@
+# q
+     Um produtor de café irrigado em Minas Gerais recebeu um relatório de consultoria estatística, constando, entre outras informações, o desvio padrão das produções de uma safra dos talhões de sua propriedade. Os talhões têm a mesma área de 30 000 $m^2$ e o valor obtido para o desvio padrão foi de 90 kg/talhão. O produtor deve apresentar as informações sobre a produção e a variância dessas produções em sacas de 60 kg por hectare (10 000 $m^2$).
+
+A variância das produções dos talhões expressa em $(sacas/hectare)^2$ é
+
+# a
+20,25.
+
+# b
+4,50.
+
+# c
+0,71.
+
+# d
+0,50.
+
+# e
+0,25.
+
+# r
+e
+
+# s
+Sendo σ o desvio padrão, $\sigma = \cfrac{90kg}{1\\,talhão} = \cfrac{\cfrac{90}{60}\\, sacas}{\cfrac{30000}{10000}\\,hectare} = 0,5\\,saca/hectare$
+
+Assim, a variância é:
+
+$\sigma^2 = (0,5saca/hectare)^2 = 0,25(saca/hectare)^2$

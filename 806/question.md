@@ -1,0 +1,49 @@
+# q
+     Em uma certa cidade, os moradores de um bairro carente de espaços de lazer reivindicam à prefeitura municipal a construção de uma praça. A prefeitura concorda com a solicitação e afirma que irá construí-la em formato retangular devido às características técnicas do terreno. Restrições de natureza orçamentária impõem que sejam gastos, no máximo, 180 m de tela para cercar a praça. A prefeitura apresenta aos moradores desse bairro as medidas dos terrenos disponíveis para a construção da praça:
+
+Terreno 1: 55 m por 45 m\
+Terreno 2: 55 m por 55 m\
+Terreno 3: 60 m por 30 m\
+Terreno 4: 70 m por 20 m\
+Terreno 5: 95 m por 85 m
+
+Para optar pelo terreno de maior área, que atenda às restrições impostas pela prefeitura, os moradores deverão escolher o terreno
+
+# a
+1\.
+
+# b
+2\.
+
+# c
+3\.
+
+# d
+4\.
+
+# e
+5\.
+
+# r
+c
+
+# s
+Do enunciado, temos que devem ser utilizados no máximo 180 m de tela para cercar o terreno. Calculando o perímetro de cada terreno, temos:
+
+Terreno 1 ----> 2x(55) + 2x(45) = 110 + 90 = 200 m
+
+Terreno 2 ----> 2x(55) + 2x(55) = 110 + 110 = 220 m
+
+Terreno 3 ----> 2x(60) + 2x(30) = 120 + 60 = 180 m
+
+Terreno 4 ----> 2x(70) + 2x(20) = 140 + 40 = 180 m
+
+Terreno 5 ----> 2x(95) + 2x(85) = 190 + 170 = 360 m
+
+Pelo perímetro, temos que os terrenos possíveis são o 3 ou o 4. Calculando a área de cada um:
+
+Terreno 3 ----> Área $60 \cdot 30 = 1800 m^2$
+
+Terreno 4 ----> Área $70 \cdot 20 = 1400 m^2$
+
+Logo, o melhor terreno é o de número 3.

@@ -1,0 +1,31 @@
+# q
+     Era um dos meus primeiros dias na sala de música. A fim de descobrirmos o que deveríamos estar fazendo ali, propus à classe um problema. Inocentemente perguntei: — O que é música?
+
+     Passamos dois dias inteiros tateando em busca de uma definição. Descobrimos que tínhamos de rejeitar todas as definições costumeiras porque elas não eram suficientemente abrangentes.
+
+     O simples fato é que, à medida que a crescente margem a que chamamos de vanguarda continua suas explorações pelas fronteiras do som, qualquer definição se torna difícil. Quando John Cage abre a porta da sala de concerto e encoraja os ruídos da rua a atravessar suas composições, ele ventila a arte da música com conceitos novos e aparentemente sem forma.
+
+SCHAFER, R. M. **O ouvido pensante.** São Paulo: Unesp, 1991 (adaptado).
+
+A frase “Quando John Cage abre a porta da sala de concerto e encoraja os ruídos da rua a atravessar suas composições”, na proposta de Schafer de formular uma nova conceituação de música, representa a
+
+# a
+acessibilidade à sala de concerto como metáfora, num momento em que a arte deixou de ser elitizada.
+
+# b
+abertura da sala de concerto, que permitiu que a música fosse ouvida do lado de fora do teatro.
+
+# c
+postura inversa à música moderna, que desejava se enquadrar em uma concepção conformista.
+
+# d
+intenção do compositor de que os sons extramusicais sejam parte integrante da música.
+
+# e
+necessidade do artista contemporâneo de atrair maior público para o teatro.
+
+# r
+d
+
+# s
+No contexto em que ocorre, o trecho em que John Cage “encoraja os ruídos da rua a atravessar suas composições” deve ser entendido como experiência musical de vanguarda, segundo a qual “sons extramusicais” se tornam elementos da música moderna. Trata-se de um argumento empregado pelo autor do texto para confirmar sua tese de que, diante de experiências inovadoras, como a do compositor americano, é difícil definir a música apenas com base nos cânones.

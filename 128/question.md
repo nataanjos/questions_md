@@ -1,0 +1,27 @@
+# q
+Um importante princípio da biologia, relacionado à transmissão de caracteres e à embriogênese humana, foi quebrado com a descoberta do microquimerismo fetal. Microquimerismo é o nome dado ao fenômeno biológico referente a uma pequena população de células ou DNA presente em um indivíduo, mas derivada de um organismo geneticamente distinto. Investigando-se a presença do cromossomo Y, foi revelado que diversos tecidos de mulheres continham células masculinas. A análise do histórico médico revelou uma correlação extremamente curiosa: apenas as mulheres que antes tiveram filhos homens apresentaram microquimerismo masculino. Essa correlação levou à interpretação de que existe uma troca natural entre células do feto e maternas durante a gravidez.
+
+MUOTRI, A. Você não é só você: carregamos células maternas na maioria de nossos órgãos. Disponível em: http://g1.globo.com. Acesso em: 4 dez. 2012 (adaptado).
+
+O princípio contestado com essa descoberta, relacionado ao desenvolvimento do corpo humano, é o de que
+
+# a
+o fenótipo das nossas células pode mudar por influência do meio ambiente.
+
+# b
+a dominância genética determina a expressão de alguns genes.
+
+# c
+as mutações genéticas introduzem variabilidade no genoma.
+
+# d
+as mitocôndrias e o seu DNA provêm do gameta materno.
+
+# e
+as nossas células corporais provêm de um único zigoto.
+
+# r
+e
+
+# s
+O princípio contestado é o de que as nossas células corporais provem de um único zigoto. O texto revela o fato de que mulheres, que tiveram filhos homens, podem apresentar o cromossomo y em diversos tecidos.

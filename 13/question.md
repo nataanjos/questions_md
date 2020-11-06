@@ -1,0 +1,33 @@
+# q
+Exmº Sr. Governador:\
+Trago a V. Exa. um resumo dos trabalhos realizados pela Prefeitura de Palmeira dos Índios em 1928.\
+\[...]\
+ADMINISTRAÇÃO\
+     Relativamente à quantia orçada, os telegramas custaram pouco. De ordinário vai para eles dinheiro considerável. Não há vereda aberta pelos matutos que prefeitura do interiornão ponha no arame, proclamando que a coisa foi feita por ela; comunicam-se as datas históricas ao Governo do Estado, que não precisa disso; todos os acontecimentos políticos são badalados. Porque se derrubou a Bastilha – um telegrama; porque se deitou pedra na rua – um telegrama; porque o deputado F. esticou a canela – um telegrama.\
+     Palmeira dos Índios, 10 de janeiro de 1929.\
+     GRACILlANO RAMOS
+
+RAMOS, G. **Viventes das Alagoas**. São Paulo: Martins Fontes, 1962
+
+O relatório traz a assinatura de Graciliano Ramos, na época, prefeito de Palmeira dos Índios, e é destinado ao governo do estado de Alagoas. De natureza oficial, o texto chama a atenção por contrariar a norma prevista para esse gênero, pois o autor
+
+# a
+emprega sinais de pontuação em excesso.
+
+# b
+recorre a termos e expressões em desuso no português.
+
+# c
+apresenta-se na primeira pessoa do singular, para conotar intimidade com o destinatário.
+
+# d
+privilegia o uso de termos técnicos, para demonstrar conhecimento especializado.
+
+# e
+expressa-se em linguagem mais subjetiva, com forte carga emocional.
+
+# r
+e
+
+# s
+É possível notar a ironia do autor ao criticar prefeituras do interior pelo excesso de telegramas enviados para comunicar fatos banais. Graciliano Ramos foge, assim, da objetividade burocrática que caracteriza a documentação oficial.

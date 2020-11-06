@@ -1,0 +1,39 @@
+# q
+**NOTICE OF BAGGAGE INSPECTION**
+
+To protect you and your fellow passengers, the Transportation Security Administration (TSA) is required by law to inspect all checked baggage.\
+As part of this process, some bags are opened and physically inspected. Your bag was among those selected for physical inspection.\
+During the inspection, your bag and its contents may have been searched for prohibited items. At the completion of the inspection, the contents were returned to your bag.\
+If the TSA security officer was unable to open your bag for inspection because it was locked, the officer may have been forced to break the locks on your bag. TSA sincerely regrets having to do this, however TSA is not liable for damage to your locks resulting from this necessary security precaution.\
+For packing tips and suggestions on how to secure your baggage during your next trip, please visit:
+
+**www.tsa.gov**
+
+–––––––––––––––––––––––––––––
+
+***Smart Security Saves Time***
+
+Transportation Security Administration. Disponível em: www.tsa.gov. Acesso em: 13 jan. 2010 (adaptado).
+
+As instituições públicas fazem uso de avisos como instrumento de comunicação com o cidadão. Esse aviso, voltado a passageiros, tem o objetivo de
+
+# a
+solicitar que as malas sejam apresentadas para inspeção.
+
+# b
+notificar o passageiro pelo transporte de produtos proibidos.
+
+# c
+informar que a mala foi revistada pelos oficiais de segurança.
+
+# d
+dar instruções de como arrumar malas de forma a evitar inspeções.
+
+# e
+apresentar desculpas pelo dano causado à mala durante a viagem.
+
+# r
+c
+
+# s
+As instituições públicas fazem uso de avisos como instrumento de comunicação com o cidadão. Esse aviso voltado a passageiros, tem o objetivo de informar que a mala foi revistada pelos oficiais de segurança. No texto: “As part of this process, some bags are opened and physically inspected. Your bag was among those selected for physical inspection.”

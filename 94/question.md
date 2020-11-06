@@ -1,0 +1,27 @@
+# q
+Bandeira do Brasil, és hoje a única. Hasteada a esta hora em todo o território nacional, única e só, não há lugar no coração do Brasil para outras flâmulas, outras bandeiras, outros símbolos. Os brasileiros se reuniram em torno do Brasil e decretaram desta vez com determinação de não consentir que a discórdia volte novamente a dividilo! Discurso do Ministro da Justiça Francisco Campos na cerimônia da festa da bandeira, em novembro de 1937.
+
+Apud OLIVEN G. R. A parte e o todo: a diversidade cultural do Brasil Nação. Petrópolis: Vozes, 1992.
+
+O discurso proferido em uma celebração em que as bandeiras estaduais eram queimadas diante da bandeira nacional revela o pacto nacional proposto pelo Estado Novo, que se associa
+
+# a
+supressão das diferenças socioeconômicas entre as regiões do Brasil, priorizando as regiões estaduais carentes.
+
+# b
+orientação do regime quanto ao reforço do federalismo, espelhando-se na experiência política norte-americana.
+
+# c
+adoção de práticas políticas autoritárias, considerando a contenção dos interesses regionais dispersivos.
+
+# d
+propagação de uma cultura política avessa aos ritos cívicos, cultivados pela cultura regional brasileira.
+
+# e
+ defesa da unidade do território nacional, ameaçado por movimentos separatistas contrários à política varguista.  
+
+# r
+C
+
+# s
+O Estado Novo, inspirado nas doutrinas autoritárias e centralizadoras de direita correntes na época, adotou para o Brasil uma estrutura unitarista, na qual não cabia a autonomia estadual de caráter federativo. Daí a valorização da unidade nacional e a consequente incineração das bandeiras dos estados.

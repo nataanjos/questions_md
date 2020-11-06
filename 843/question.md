@@ -1,0 +1,27 @@
+# q
+Cultivar um estilo de vida saudável é extremamente importante para diminuir o risco de infarto, mas também de problemas como morte súbita e derrame. Significa que manter uma alimentação saudável e praticar atividade física regularmente já reduz, por si só, as chances de desenvolver vários problemas. Além disso, é importante para o controle da pressão arterial, dos níveis de colesterol e de glicose no sangue. Também ajuda a diminuir o estresse e aumentar a capacidade física, fatores que, somados, reduzem as chances de infarto. Exercitar-se, nesses casos, com acompanhamento médico e moderação, é altamente recomendável.
+
+ATALIA, M. Nossa vida. Época. 23 mar. 2009.
+
+As ideias veiculadas no texto se organizam estabelecendo relações que atuam na construção do sentido. A esse respeito, identifica-se, no fragmento, que
+
+# a
+a expressão “Além disso” marca uma sequenciação de ideias
+
+# b
+o conectivo “mas também” inicia oração que exprime ideia de contraste.
+
+# c
+o termo “como”, em “como morte súbita e derrame”, introduz uma generalização.
+
+# d
+o termo “Também” exprime uma justificativa.
+
+# e
+o termo “fatores” retoma coesivamente “níveis de colesterol e de glicose no sangue”.
+
+# r
+a
+
+# s
+A expressão “Além disso“ introduz a enumeração de outros efeitos benéficos de ”manter uma alimenta- ção saudável e praticar atividade física regularmente”, marcando, portanto, uma sequenciação de ideias.

@@ -1,0 +1,43 @@
+# q
+Para resolver o problema de abastecimento de água foi decidida, numa reunião do condomínio, a construção de uma nova cisterna. A cisterna atual tem formato cilíndrico, com 3 m de altura e 2 m de diâmetro, e estimou-se que a nova cisterna deverá comportar 81 $m^3$ de água, mantendo o formato cilíndrico e a altura da atual. Após a inauguração da nova cisterna a antiga será desativada.
+
+Utilize 3,0 como aproximação para $\pi$.
+
+Qual deve ser o aumento, em metros, no raio da cisterna para atingir o volume desejado?
+
+# a
+0,5
+
+# b
+1,0
+
+# c
+2,0
+
+# d
+3,5
+
+# e
+8,0
+
+# r
+c
+
+# s
+I) A cisterna atual tem 1 m de raio na base e 3 m de altura.
+
+ 
+
+II) A nova cisterna deverá ter 81 $m^3$ de volume, 3 m de altura e raio R, em metros, tal que $\pi \cdot R^2\cdot 3= 81 $
+
+assim, para π = 3, temos :
+
+$3 \cdot R^2 \cdot 3= 81$
+
+ 
+
+$R^2 = 9$ => $R = 3$
+
+ 
+
+III) O aumento, em metros, no raio da cisterna deve ser 3 – 1 = 2

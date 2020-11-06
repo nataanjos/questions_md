@@ -1,0 +1,27 @@
+# q
+Três décadas — de 1884 a 1914 — separam o século XIX — que terminou com a corrida dos países europeus para a África e com o surgimento dos movimentos de unificação nacional na Europa — do século XX, que começou com a Primeira Guerra Mundial. É o período do Imperialismo, da quietude estagnante na Europa e dos acontecimentos empolgantes na Ásia e na África.
+
+ARENDT, H. As origens do totalitarismo. São Paulo Cia. das Letras, 2012.
+
+O processo histórico citado contribuiu para a eclosão da Primeira Grande Guerra na medida em que
+
+# a
+difundiu as teorias socialistas.
+
+# b
+acirrou as disputas territoriais.
+
+# c
+superou as crises económicas.
+
+# d
+multiplicou os confitos religiosos.
+
+# e
+conteve os sentimentos xenófobos.
+
+# r
+b
+
+# s
+As políticas imperialistas adotadas pelas potências tradicionais e ascendentes da Europa, a partir da metade do século XIX, no contexto da Segunda Revolução Industrial, deram-se como uma forma de suprir necessidades econômicas – fornecimento de matéria-prima para as indústrias e para o mercado consumidor  e demográficas. Assim, a conquista e a exploração de novos territórios na Ásia e na África, por meio do Neocolonialismo, mostraram-se fundamentais nessa nova fase do capitalismo.

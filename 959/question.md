@@ -1,0 +1,27 @@
+# q
+No dia 28 de fevereiro de 1985, era inaugurada a Estrada de Ferro Carajás, pertencente e diretamente operada pela Companhia Vale do Rio Doce (CVRD), na região Norte do país, ligando o interior ao principal porto da região, em São Luís. Por seus, aproximadamente, 900 quilômetros de linha, passam, hoje, 5353 vagões e 100 locomotivas.
+
+Disponível em: http://www.transportes.gov.br. Acesso em: 27 jul. 2010 (adaptado).
+
+A ferrovia em questão é de extrema importância para a logística do setor primário da economia brasileira, em especial para porções dos estados do Pará e Maranhão. Um argumento que destaca a importância estratégica dessa porção do território é a
+
+# a
+produção de energia para as principais áreas industriais do país.
+
+# b
+produção sustentável de recursos minerais não metálicos.
+
+# c
+capacidade de produção de minerais metálicos.
+
+# d
+logística de importação de matérias-primas industriais.
+
+# e
+produção de recursos minerais energéticos.
+
+# r
+c
+
+# s
+A Estrada de Ferro Carajás liga a principal província mineralógica do Brasil, na porção sudeste do estado do Pará, conhecida como Serra dos Carajás, aos portos situados em São Luís (MA). A região concentra a maior reserva de minério de ferro do país, cuja produção é escoada pela ferrovia para o mercado externo.

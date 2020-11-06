@@ -1,0 +1,33 @@
+# q
+**Azeite de oliva e óleo de linhaça: uma dupla imbatível​**
+
+*Rico em gorduras do bem, ela combate a obesidade, dá um chega pra lá no diabete e ainda livra o coração de entraves*
+
+     Ninguém precisa esquentar a cabeça caso não seja possível usar os dois óleos juntinhos, no mesmo dia. Individualmente, o duo também bate um bolão. Segundo um estudo recente do grupo EurOlive, formado por instituições de cinco países europeus, os polifenóis do azeite de oliva ajudam a frear a oxidação do colesterol LDL, considerado perigoso. Quando isso ocorre, reduz-se o risco de placas de gordura na parede dos vasos, a temida aterosclerose – doença por trás de encrencas como o infarto.
+
+MANARINI, T.** Saúde é vital.** n. 347, fev. 2012 (adaptado).
+
+ 
+
+Para divulgar conhecimento de natureza científica para um público não especializado, Manarini recorre à associação entre vocabulário formal e vocabulário informal. Altera-se ο grau de formalidade do seg mento no texto, sem alterar ο sentido da informação, com a substituição de
+
+# a
+“dá um chega pra lá no diabete” por “manda embora o diabete”.
+
+# b
+“esquentar a cabeça” por “quebrar a cabeça”.
+
+# c
+“bate um bolão” por “é um show”.
+
+# d
+“juntinhos” por "misturadinhos”.
+
+# e
+“por trás de encrencas” por “causadora de problemas”
+
+# r
+e
+
+# s
+A única substituição que mantém a formalidade, evitando o coloquialismo e não alterando o sentido original é “por trás de encrencas”.

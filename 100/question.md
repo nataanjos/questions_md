@@ -1,0 +1,27 @@
+# q
+Não nos resta a menor dúvida de que a principal contribuição dos diferentes tipos de movimentos sociais brasileiros nos últimos vinte anos foi no plano da reconstrução do processo de democratização do país. E não se trata apenas da reconstrução do regime político, da retomada da democracia e do fim do Regime Militar. Trata-se da reconstrução ou construção de novos rumos para a cultura do país, do preenchimento de vazios na condução da luta pela redemocratização, constituindo-se como agentes interlocutores que dialogam diretamente com a população e com o Estado.
+
+GOHN, M. G. M. Os sem-terras, ONGs e cidadania. São Paulo: Cortez, 2003 (adaptado).
+
+No processo da redemocratização brasileira, os novos movimentos sociais contribuíram para
+
+# a
+diminuir a legitimidade dos novos partidos políticos então criados.
+
+# b
+tornar a democracia um valor social que ultrapassa os momentos eleitorais.
+
+# c
+difundir a democracia representativa como objetivo fundamental da luta política.
+
+# d
+ampliar as disputas pela hegemonia das entidades de trabalhadores com os sindicatos.
+
+# e
+fragmentar as lutas políticas dos diversos atores sociais frente ao Estado.
+
+# r
+b
+
+# s
+O próprio título do livro de onde foi extraído o fragmento citado – Os sem-terras, ONGs e cidadania – dá a dimensão dos movimentos sociais brasileiros surgidos nas últimas décadas. Para o autor, tais movimentos, por meio de uma atuação continuada, contribuíram para alargar a democracia brasileira, até então restringida ao processo eleitoral e ao sistema de governo representativo

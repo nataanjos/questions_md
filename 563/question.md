@@ -1,0 +1,33 @@
+# q
+Excavarán plaza ceremonial del frontis norte de huaca de la Luna
+
+Trujillo, feb. 25 (ANDINA). Tras limpiar los escombros del saqueo colonial y de las excavaciones de los últimos años en huaca de la Luna, este año se intervendrá la plaza ceremonial del frontis norte, en donde se ubica la gran fachada del sitio arqueológico ubicado en Trujillo, La Libertad, informaron hoy fuentes culturales. Después de varias semanas de trabajo, el material fue sacado del sitio arqueológico para poder apreciar mejor la extensión y forma del patio que, según las investigaciones, sirvió hace unos 1 500 como escenario de extraños rituales.
+
+El codirector del Proyecto Arqueológico Huacas del Sol y la Luna, Ricardo Morales Gamarra, sostuvo que con la zona limpia de escombros, los visitantes conocerán la verdadera proporción de la imponente fachada, tal y como la conocieron los moches. Por su parte, el arqueólogo Santiago Uceda, también codirector del proyecto, dijo que las excavaciones se iniciarán este año para determinar qué otros elementos componían dicha área. “Hace poco nos sorprendió encontrar un altar semicircular escalonado. Era algo que no esperábamos. Por lo tanto, es difícil saber qué es lo que aún está escondido en la zona que exploraremos”, señaló Uceda a la Agencia Andina.
+
+La huaca de la Luna se localiza en el distrito trujillano de Moche. Es una pirámide de adobe adornada, en sus murales, con impresionantes imágenes mitológicas, muchas de ellas en alto relieve.
+
+Disponível em: www.andina.com.pe. Acesso em: 23 fev. 2012 (adaptado).
+
+O texto apresenta informações sobre um futuro trabalho de escavação de um sítio arqueológico peruano. Sua leitura permite inferir que
+
+# a
+a pirâmide huaca de la Luna foi construída durante o período colonial peruano
+
+# b
+o sítio arqueológico contém um altar semicircular bastante deteriorado
+
+# c
+a pirâmide huaca de la Luna foi construída com cerâmica
+
+# d
+o sítio arqueológico possui um pátio que foi palco de rituais.
+
+# e
+o sítio arqueológico mantém escombros deixados pela civilização moche.
+
+# r
+d
+
+# s
+A leitura do texto permite inferir que o sítio arqueológico possui um pátio que foi palco de rituais. Lê-se no texto: “…la extensión y forma del patio que, según las investigaciones, sirvió hace unos 1500 como escenario de extraños rituales.”

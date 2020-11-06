@@ -1,0 +1,27 @@
+# q
+O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração do ritmo de crescimento populacional nos grandes centros urbanos.
+
+BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado).
+
+Uma causa para o processo socioespacial mencionado no texto é o(a)
+
+# a
+carência de matérias-primas.
+
+# b
+degradação da rede rodoviária.
+
+# c
+aumento do crescimento vegetativo.
+
+# d
+centralização do poder político.
+
+# e
+realocação da atividade industrial.
+
+# r
+e
+
+# s
+O advento do processo produtivo pós-fordista levou a uma dispersão espacial da indústria, separando o gerenciamento do processo produtivo. Assim, as corporações industriais, em busca de maiores racionalidades econômicas, distribuem-se pelo espaço, revertendo o antigo processo de concentração que se observava no período fordista. Seguindo essa tendência, certas cidades, principalmente as grandes metrópoles do Brasil, estão com redução em seu processo de crescimento populacional, fazendo o crescimento urbano intensificar-se nas cidades de médio porte.

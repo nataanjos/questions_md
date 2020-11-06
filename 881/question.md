@@ -1,0 +1,35 @@
+# q
+     O prefeito de uma cidade deseja construir uma rodovia para dar acesso a outro município. Para isso, foi aberta uma licitação na qual concorreram duas empresas. A primeira cobrou R$ 100 000,00 por km construído (n), acrescidos de um valor fixo de R$ 350 000,00, enquanto a segunda cobrou R$ 120 000,00 por km construído (n), acrescidos de um valor fixo de R$ 150 000,00. As duas empresas apresentam o mesmo padrão de qualidade dos serviços prestados, mas apenas uma delas poderá ser contratada.
+
+Do ponto de vista econômico, qual equação possibilitaria encontrar a extensão da rodovia que tornaria indiferente para a prefeitura escolher qualquer uma das propostas apresentadas?
+
+# a
+100n + 350 = 120n + 150
+
+# b
+100n + 150 = 120n + 350
+
+# c
+100(n + 350) = 120(n + 150)
+
+# d
+100(n + 350 000) = 120(n + 150 000)
+
+# e
+350(n + 100 000) = 150(n + 120 000)
+
+# r
+a
+
+# s
+Sendo $C_I$ e $C\_{II}$ os valores cobrados, temos:
+
+$C_I = 100n + 350$
+
+$C\_{II} = 120n + 150$
+
+Do enunciado:
+
+$C_I = C\_{II}$
+
+$100n + 350 = 120n + 150$

@@ -1,0 +1,27 @@
+# q
+As secas e o apelo econômico da borracha — produto que no final do século XIX alcançava preços altos nos mercados internacionais — motivaram a movimentação de massas humanas oriundas do Nordeste do Brasil para o Acre. Entretanto, até o início do século XX, essa região pertencia à Bolívia, embora a maioria da sua população fosse brasileira e não obedecesse à autoridade boliviana. Para reagir à presença de brasileiros, o governo de La Paz negociou o arrendamento da região a uma entidade internacional, o Bolivian Syndicate, iniciando violentas disputas dos dois lados da fronteira. O conflito só terminou em 1903, com a assinatura do Tratado de Petrópolis, pelo qual o Brasil comprou o território por 2 milhões de libras esterlinas.
+
+Disponível em: www.mre.gov.br. Acesso em: 03 nov. 2008 (adaptado).
+
+Compreendendo o contexto em que ocorreram os fatos apresentados, o Acre tornou-se parte do território nacional brasileiro
+
+# a
+pela formalização do Tratado de Petrópolis, que indenizava o Brasil pela sua anexação.
+
+# b
+por meio do auxílio do Bolivian Syndicate aos emigrantes brasileiros na região.
+
+# c
+devido à crescente emigração de brasileiros que exploravam os seringais.
+
+# d
+em função da presença de inúmeros imigrantes estrangeiros na região.
+
+# e
+pela indenização que os emigrantes brasileiros pagaram à Bolívia.
+
+# r
+c
+
+# s
+O próprio texto esclarece o contexto histórico em que foi assinado o Tratado de Petrópolis, com a consequente incorporação do Acre ao território brasileiro: uma gigantesca massa humana, oriunda do nordeste, invadiu a Amazônia Boliviana para coletar látex, o que ocasionou uma crise militar, somente superada por meio, e ação diplomática e da assinatura do referido tratado.

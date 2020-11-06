@@ -1,0 +1,25 @@
+# q
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F457%2F229f9217-e7fa-23d5-8478-dec457b2dca6.png?alt=media\&token=16477f51-8fad-4090-8e63-66d33171b230)
+
+Pelas características da linguagem visual e pelas escolhas vocabulares, pode-se entender que o texto possibilita a reflexão sobre uma problemática contemporânea ao
+
+# a
+criticar o transporte rodoviário brasileiro, em razão da grande quantidade de caminhões nas estradas.
+
+# b
+ironizar a dificuldade de locomoção no trânsito urbano, devida ao grande fluxo de veículos.
+
+# c
+expor a questão do movimento como um problema existente desde tempos antigos, conforme frase citada.
+
+# d
+restringir os problemas de tráfego a veículos particulares, defendendo, como solução, o transporte público.
+
+# e
+propor a ampliação de vias nas estradas, detalhando o espaço exíguo ocupado pelos veículos nas ruas.
+
+# r
+b
+
+# s
+O texto sincrético apresentado pela banca, extraído de um *site *de filosofia, se utiliza das ideias de um filósofo (Parmênides) com vistas a ironizar uma problemática contemporânea: a dificuldade de locomoção no trânsito urbano devido ao grande fluxo de veículos.

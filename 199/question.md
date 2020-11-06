@@ -1,0 +1,57 @@
+# q
+Mas plantar pra dividir
+
+Não faço mais isso, não.
+
+Eu sou um pobre caboclo,
+
+Ganho a vida na enxada.
+
+O que eu colho é dividido
+
+Com quem não planta nada.
+
+Se assim continuar
+
+vou deixar o meu sertão,
+
+mesmo os olhos cheios d‘água
+
+e com dor no coração.
+
+Vou pró Rio carregar massas
+
+pros pedreiros em construção.
+
+Deus até está ajudando:
+
+está chovendo no sertão!
+
+Mas plantar pra dividir,
+
+Não faço mais isso, não.
+
+VALE, J; AQUINO, J. B. Sina de caboclo. São Paulo: Polygram, 1994 (fragmento).
+
+No trecho da canção, composta na década de 1960, retrata-se a insatisfação do trabalhador rural com
+
+# a
+a distribuição desigual da produção.
+
+# b
+os financiamentos feitos ao produtor rural.
+
+# c
+a ausência de escolas técnicas no campo.
+
+# d
+os empecilhos advindos das secas prolongadas.
+
+# e
+a precariedade de insumos no trabalho do campo.
+
+# r
+a
+
+# s
+De acordo com a canção “Sina de caboclo”, o sertanejo revela uma clara insatisfação com a distribuição desigual da produção, como pode ser atestada pelos seguintes versos: “Mas plantar pra dividir / Não faço mais isso não” e “O que eu colho é dividido / Com quem não planta nada”.

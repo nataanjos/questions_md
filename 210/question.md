@@ -1,0 +1,27 @@
+# q
+O índio era o único elemento então disponível para ajudar o colonizador como agricultor, pescador, guia, conhecedor da natureza tropical e, para tudo isso, deveria ser tratado como gente, ter reconhecidas sua inocência e alma na medida do possível. A discussão religiosa e jurídica em torno dos limites da liberdade dos índios se confundiu com uma disputa entre jesuítas e colonos. Os padres se apresentavam como defensores da liberdade, enfrentando a cobiça desenfreada dos colonos.
+
+CALDEIRA, J. A nação mercantilista. São Paulo: Editora 34, 1999 (adaptado).
+
+Entre os séculos XVI e XVIII, os jesuítas buscaram a conversão dos indígenas ao catolicismo. Essa aproximação dos jesuítas em relação ao mundo indígena foi mediada pela
+
+# a
+demarcação do território indígena.
+
+# b
+manutenção da organização familiar.
+
+# c
+valorização dos líderes religiosos indígenas.
+
+# d
+preservação do costume das moradias coletivas.
+
+# e
+comunicação pela língua geral baseada no tupi.
+
+# r
+e
+
+# s
+A catequisação dos índios pelos jesuítas, no domínio português na América, foi facilitada pelo esforço da Companhia de Jesus de compreender a língua do índio. Nesse contexto, o padre José de Anchieta criou um dicionário mesclando a língua Tupi com a gramática portuguesa, ficando esta conhecida como Língua Geral (baseada no Tupi).

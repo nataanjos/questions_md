@@ -1,0 +1,55 @@
+# q
+Uma padaria vende, em média, 100 pães especiais por dia e arrecada com essas vendas, em média, R$ 300,00. Constatou-se que a quantidade de pães especiais vendidos diariamente aumenta, caso o preço seja reduzido, de acordo com a equação
+
+q = 400 – 100p,
+
+na qual q representa a quantidade de pães especiais vendidos diariamente e p, o seu preço em reais.
+
+A fim de aumentar o fluxo de clientes, o gerente da padaria decidiu fazer uma promoção. Para tanto, modificará o preço do pão especial de modo que a quantidade a ser vendida diariamente seja a maior possível, sem diminuir a média de arrecadação diária na venda desse produto.
+
+O preço p, em reais, do pão especial nessa promoção deverá estar no intervalo
+
+# a
+R$ 0,50 $\leq p <$ R$ 1,50
+
+# b
+R$ 1,50 $\leq p <$ R$ 2,50
+
+# c
+R$ 2,50 $\leq p <$ R$ 3,50
+
+# d
+R$ 3,50 $\leq p <$ R$ 4,50
+
+# e
+R$ 4,50 $\leq p <$ R$ 5,50
+
+# r
+a
+
+# s
+Se o preço é p e a quantidade de pães vendida é q = 400 – 100p, a arrecadação média, em reais, em função do preço p, é dada por R(p) = (400 – 100p) . p Para que esta arrecadação seja de R$ 300,00, deve-se ter:
+
+ 
+
+(400 – 100p) . p = 300
+
+ 
+
+ 4p – $p^2$= 3
+
+ 
+
+ $p^2 - 4p + 3 = 0$
+
+ 
+
+p = 1 ou p = 3
+
+ 
+
+O preço atual é de R$ 3,00, pois $\cfrac{R$\\,300,00}{100} = R$\\,3,00$
+
+ 
+
+Para manter a arrecadação, o preço deverá ser baixado para R$ 1,00 (R$ 0,50 < R$ 1,00 < R$ 1,50)

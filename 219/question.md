@@ -1,0 +1,27 @@
+# q
+A urbanização brasileira, no início da segunda metade do século XX, promoveu uma radical alteração nas cidades. Ruas foram alargadas, túneis e viadutos foram construídos. O bonde foi a primeira vítima fatal. O destino do sistema ferroviário não foi muito diferente. O transporte coletivo saiu definitivamente dos trilhos.
+
+JANOT, L. F. A caminho de Guaratiba. Disponível em: www.iab.org.br. Acesso em: 9 jan. 2014 (adaptado).
+
+A relação entre transportes e urbanização é explicada, no texto, pela
+
+# a
+retirada dos investimentos estatais aplicados em transporte de massa.
+
+# b
+demanda por transporte individual ocasionada pela expansão da mancha urbana.
+
+# c
+presença hegemônica do transporte alternativo localizado nas periferias das cidades.
+
+# d
+aglomeração do espaço urbano metropolitano impedindo a construção do transporte metroviário.
+
+# e
+predominância do transporte rodoviário associado à penetração das multinacionais automobilísticas.
+
+# r
+e
+
+# s
+Assim, como ocorreu com o transporte de cargas no Brasil, o transporte urbano também foi influenciado pelo forte lobby das multinacionais automobilísticas que se instalaram no país após a segunda metade do século XX, priorizando o modal rodoviário em detrimento dos outros modais, situação que causa o gradativo sucateamento do sistema ferroviário, predominante até então.

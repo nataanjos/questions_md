@@ -1,0 +1,41 @@
+# q
+Segundo dados apurados no Censo 2010, para uma população de 101,8 milhões de brasileiros com 10 anos ou mais de idade e que teve algum tipo de rendimento em 2010, a renda média mensal apurada foi de R$ 1 202,00. A soma dos rendimentos mensais dos 10% mais pobres correspondeu a apenas 1,1 % do total de rendimentos dessa população considerada, enquanto que a soma dos rendimentos mensais dos 10% mais ricos correspondeu a 44,5% desse total.
+
+Disponivel em: www.estadao.com.br. Acesso em: 16 nov. 2011(adaptado).
+
+ 
+
+Qual foi a diferença, em reais, entre a renda média mensal de um brasileiro que estava na faixa dos 10% mais ricos e de um brasileiro que estava na faixa dos 10% mais pobres?
+
+# a
+240,40
+
+# b
+548,11
+
+# c
+1723,67
+
+# d
+4026,70
+
+# e
+5216,68
+
+# r
+e
+
+# s
+A receita gerada pela população p = 101,8 milhões de brasileiros com 10 anos ou mais de idade e que teve algum tipo de rendimento em 2010 foi R$ 1202,00. p. A receita gerada pelos 10% mais pobres foi de 1,1% . R$ 1202,00 . p e a renda média mensal de um brasileiro nesta faixa foi de
+
+ 
+
+$\frac{1,1\\% \cdot 1202 \cdot p}{10\\% \cdot p} = 132,32$
+
+ 
+
+A receita gerada pelos 10% mais ricos foi de 44,5% . R$ 1202,00 . p e a renda média mensal de um brasileiro nesta faixa de renda foi de
+
+$\frac{44,5\\% \cdot 1202 \cdot p}{10\\% \cdot p} = 5348,90$
+
+ 

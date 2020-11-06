@@ -1,0 +1,37 @@
+# q
+**TEXTO l**
+
+     João Guedes, um dos assíduos frequentadores do boliche do capitão, mudara-se da campanha havia três anos. Três anos de pobreza na cidade bastaram para o degradar. Ao morrer, não tinha um vintém nos bolsos e fazia dois meses que saíra da cadeia, onde estivera preso por roubo de ovelha.
+
+     A história de sua desgraça se confunde com a da maioria dos que povoam a aldeia de Boa Ventura, uma cidadezinha distante, triste e precocemente envelhecida, situada nos confins da fronteira do Brasil com o Uruguai.
+
+MARTINS, C. **Porteira fechada**. Porto Alegre: Movimento, 2001 (fragmento).
+
+**TEXTO II**
+
+**   **  Comecei a procurar emprego, já topando o que desse e viesse, menos complicação com os homens, mas não tava fácil. Fui na feira, fui nos bancos de sangue, fui nesses lugares que sempre dão para descolar algum, fui de porta em porta me oferecendo de faxineiro, mas tava todo mundo escabreado pedindo referências, e referências eu só tinha do diretor do presídio.
+
+FONSECA, R. **Feliz Ano Novo**. São Paulo: Cia. das Letras, 1989 (fragmento).
+
+A oposição entre campo e cidade esteve entre as temáticas tradicionais da literatura brasileira. Nos fragmentos dos dois autores contemporâneos, esse embate incorpora um elemento novo: a questão da violência e do desemprego. As narrativas apresentam confluência, pois nelas o(a)
+
+# a
+criminalidade é algo inerente ao ser humano, que sucumbe a suas manifestações.
+
+# b
+meio urbano, especialmente o das grandes cidades, estimula uma vida mais violenta.
+
+# c
+falta de oportunidades na cidade dialoga com a pobreza do campo rumo à criminalidade.
+
+# d
+êxodo rural e a falta de escolaridade são causas da violência nas grandes cidades.
+
+# e
+complacência das leis e a inércia das personagens são estímulos à prática criminosa.
+
+# r
+c
+
+# s
+Em ambos os textos, apresentam-se personagens próximas ao mundo da criminalidade e ao dos presídios, que enfrentam dificuldades de colocação no mercado de trabalho. No texto I, a referência ao campo se manifesta no espaço distante, “nos confins da fronteira do Brasil com o Uruguai”, e, também, na ação criminosa de João Guedes, ao roubar uma ovelha. Já no texto II, as referências aos bancos de sangue e aos vários lugares onde se pode encontrar ocupação permitem supor um espaço urbano mais desenvolvido. Assim, tanto o campo quanto a cidade são apresentados sob o viés de espaços hostis que podem direcionar à criminalidade.

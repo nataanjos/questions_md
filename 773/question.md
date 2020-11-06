@@ -1,0 +1,47 @@
+# q
+     Um consumidor desconfia que a balança do supermercado não está aferindo corretamente a massa dos produtos. Ao chegar a casa resolve conferir se a balança estava descalibrada. Para isso, utiliza um recipiente provido de escala volumétrica, contendo 1,0 litro d’água. Ele coloca uma porção dos legumes que comprou dentro do recipiente e observa que a água atinge a marca de 1,5 litro e também que a porção não ficara totalmente submersa, com $\cfrac{1}{3}$ de seu volume fora d’água. Para concluir o teste, o consumidor, com ajuda da internet, verifica que a densidade dos legumes, em questão, é a metade da densidade da água, onde, $\rho\_{água} = 1 \cfrac{g}{cm^3}$ . No supermercado a balança registrou a massa da porção de legumes igual a 0,500 kg (meio quilograma).
+
+Considerando que o método adotado tenha boa precisão, o consumidor concluiu que a balança estava descalibrada e deveria ter registrado a massa da porção de legumes igual a
+
+# a
+0,073 kg.
+
+# b
+0,167 kg.
+
+# c
+0,250 kg.
+
+# d
+0,375 kg.
+
+# e
+0,750 kg.
+
+# r
+d
+
+# s
+O enunciado não permite conhecer qual a situação hidrostática em que se encontra a porção de legumes dentro da água, de forma que $\cfrac{1}{3}$ de seu volume fique emerso.
+
+Os dados que podem ser extraídos do enunciado são:
+
+• densidade dos legumes: $d\_{leg} = \cfrac{1}{2}d\_{água} = \cfrac{1}{2}g/cm^3 = 0,5 \cdot 10^3 kg/m^3$
+
+• volume do líquido deslocado:$V\_{LD} = 0,5L = 0,5 \cdot 10^{-3}m^3$
+
+• relação entre o volume de líquido deslocado e o volume dos legumes: $V\_{LD} = \cfrac{2}{3}V\_{leg}$
+
+Assim :
+
+$0,5\cdot 10^{–3} = \cfrac{2}{3} V\_{leg}$
+
+$V\_{leg} = 0,75 \cdot 10^{-3} m^3$
+
+Aplicando a definição de densidade aos legumes:
+
+$d\_{leg} = \cfrac{m\_{leg}}{V\_{leg}}$
+
+$0,5 \cdot 10^3 = \cfrac{m\_{leg}}{0,75 \cdot 10^{-3}}$
+
+$m\_{leg} = 0,375\\,kg$

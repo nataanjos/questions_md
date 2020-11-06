@@ -1,0 +1,28 @@
+# q
+     Um instituto de pesquisa norte-americano divulgou recentemente ter criado uma “célula sintética”, uma bactéria chamada de Mycoplasma mycoides. Os pesquisadores montaram uma sequência de nucleotídeos, que formam o único cromossomo dessa bactéria, o qual foi introduzido em outra espécie de bactéria, a Mycoplasma capricolum. Após a introdução, o cromossomo da M. capricolum foi neutralizado e o cromossomo artificial da M. mycoides começou a gerenciar a célula, produzindo suas proteínas.
+
+GILBSON et al. Creation of a Bacterial Cell Controlled by a Chemically synthesized Genome.\
+**Science v.** 329, 2010 (adaptado).
+
+A importância dessa inovação tecnológica para a comunidade científica se deve à
+
+# a
+possibilidade de sequenciar os genomas de bactérias para serem usados como receptoras de cromossomos artificiais.
+
+# b
+capacidade de criação, pela ciência, de novas formas de vida, utilizando substâncias como carboidratos e lipídios.
+
+# c
+possibilidade de produção em massa da bactéria Mycoplasma capricolum para sua distribuição em ambientes naturais.
+
+# d
+possibilidade de programar geneticamente microrganismos ou seres mais complexos para produzir medicamentos, vacinas e combustíveis.
+
+# e
+capacidade da bactéria Mycoplasma capricolum de expressar suas proteínas na bactéria sintética e estas serem usadas na indústria.
+
+# r
+d
+
+# s
+O experimento descrito representa um novo passo rumo à possibilidade de produzir substâncias de interesse médico e de combustíveis por meio da manipulação de material genético de microrganismos.

@@ -1,0 +1,49 @@
+# q
+A diva
+
+Vamos ao teatro, Maria José?
+
+Quem me dera,
+
+desmanchei em rosca quinze kilos de farinha,
+
+tou podre. Outro dia a gente vamos.
+
+Falou meio triste, culpada,
+
+e um pouco alegre por recusar com orgulho.
+
+TEATRO! Disse no espelho.
+
+TEATRO! Mais alto, desgrenhada.
+
+TEATRO! E os cacos voaram
+
+sem nenhum aplauso.
+
+Perfeita.
+
+PRADO, A. Oráculos de maio. São Paulo: Siciliano, 1999.
+
+Os diferentes gêneros textuais desempenham funções sociais diversas, reconhecidas pelo leitor com base em suas características específicas, bem como na situação comunicativa em que ele é produzido. Assim, o texto A diva
+
+# a
+narra um fato real vivido por Maria José.
+
+# b
+surpreende o leitor pelo seu efeito poético.
+
+# c
+relata uma experiência teatral profissional.
+
+# d
+descreve uma ação típica de uma mulher sonhadora.
+
+# e
+defende um ponto de vista relativo ao exercício teatral.
+
+# r
+b
+
+# s
+O texto de Adélia Prado expõe o leitor a sucessivas surpresas. Seu início o coloca diante de um diálogo, embora as marcas comuns desse gênero (travessão ou aspas, por exemplo) não estejam claras. O uso da modalidade informal e popular da linguagem (“tou podre” e “a gente vamos”) também provoca estranheza, contribuindo para sugerir o estrato social das personagens envolvidas no diálogo. Da mesma forma, os sentimentos de Maria surpreendem por seu caráter contraditório: “Falou meio triste” e “um pouco alegre”. O texto culmina com o exercício íntimo da prática teatral por Maria, que diante do espelho vive a fantasia de ser uma atriz de sucesso — uma glória demarcada formalmente pela repetição da palavra “TEATRO” em caixa alta. Assim, o texto dá dimensão poética ao conflito humano entre o real e o imaginário.

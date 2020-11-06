@@ -1,0 +1,27 @@
+# q
+Para que não haja abuso, é preciso organizar as coisas de maneira que o poder seja contido pelo poder. Tudo estaria perdido se o mesmo homem ou o mesmo corpo dos principais, ou dos nobres, ou do povo, exercesse esses três poderes: o de fazer leis, o de executar as resoluções públicas e o de julgar os crimes ou as divergências dos indivíduos. Assim, criam-se os poderes Legislativo, Executivo e Judiciário, atuando de forma independente para a efetivação da liberdade, sendo que esta não existe se uma pessoa ou grupo exercer os referidos poderes concomitantemente.
+
+MONTESQUIEU, B. Do espírito das leis. São Paulo: Abril Cultural, 1979 (adaptado).
+
+A divisão e a independência entre os poderes são condições necessárias para que possa haver liberdade em um Estado. Isso pode ocorrer apenas sob um modelo político em que haja
+
+# a
+exercício de tutela sobre atividades jurídicas e políticas
+
+# b
+consagração do poder político pela autoridade religiosa
+
+# c
+concentração do poder nas mãos de elites técnicos-cientifícas.
+
+# d
+estabelecimento de limites aos atores públicos e às instituições do governo.
+
+# e
+reunião das funções de legislar, julgar e executar nas mãos de um governante eleito.
+
+# r
+d
+
+# s
+No contexto revolucionário da Europa do século XVIII, Montesquieu combateu o Absolutismo monárquico. Concebe uma teoria do Estado com base na divisão dos poderes em três instâncias autônomas. Na obra Do Espírito das leis, o pensador atribuiu o Poder Executivo ao rei, o Legislativo aos representantes do povo e o Judiciário às elites letradas da sociedade francesa de sua época. Tinha por meta uma estrutura do Estado caracterizada pelo equilíbrio e harmonia entre as classes sociais.

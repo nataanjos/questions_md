@@ -1,0 +1,31 @@
+# q
+Que é ilegal a faculdade que se atribui à autoridade real para suspender as leis ou seu cumprimento.
+
+Que é ilegal toda cobrança de impostos para a Coroa sem o concurso do Parlamento, sob pretexto de prerrogativa, ou em época e modo diferentes dos designados por ele próprio.
+
+Que é indispensável convocar com frequência os Parlamentos para satisfazer os agravos, assim como para corrigir, afirmar e conservar leis.
+
+Declaração de Direitos. Disponível em: http://disciplinas.stoa.usp.br. Acesso em: 20 dez. 2011 (adaptado).
+
+No documento de 1689, identifica-se uma particularidade da Inglaterra diante dos demais Estados europeus na Época Moderna. A peculiaridade inglesa e o regime político que predominavam na Europa continental estão indicados, respectivamente, em:
+
+# a
+Redução da influência do papa – Teocracia.
+
+# b
+Limitação do poder do soberano – Absolutismo.
+
+# c
+Ampliação da dominação da nobreza – República.
+
+# d
+Expansão da força do presidente – Parlamentarismo.
+
+# e
+Restrição da competência do congresso – Presidencialismo.
+
+# r
+b
+
+# s
+O documento citado é um fragmento da Declaração de Direitos, que foi jurada pelos reis ingleses Guilherme e Maria, no século XVII, consolidando a Revolução Gloriosa. A partir de então, o governo na Inglaterra passou a ser exercido pelo Parlamento, cabendo à monarquia, entre vários atributos, a chefia da Igreja e da nação. Contudo, nesse mesmo período as demais monarquias europeias mantinham-se fiéis ao absolutismo político, isto é, os reis possuíam poderes irrestritos.

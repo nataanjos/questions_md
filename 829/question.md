@@ -1,0 +1,33 @@
+# q
+Es posible reducir la basura
+
+En México se producen más de 10 millones de m3 de basura mensualmente, depositados en más de 50 mil tiraderos de basura legales y clandestinos, que afectan de manera directa nuestra calidad de vida, pues nuestros recursos naturales son utilizados desproporcionalmente, como materias primas que luego desechamos y tiramos convirtiéndolos en materiales inútiles y focos de infección.
+
+Todo aquello que compramos y consumimos tiene una relación directa con lo que tiramos. Consumiendo racionalmente, evitando el derroche y usando sólo lo indispensable, directamente colaboramos con el cuidado del ambiente.
+
+Si la basura se compone de varios desperdicios y si como desperdicios no fueron basura, si los separamos adecuadamente, podremos controlarlos y evitar posteriores problemas. Reciclar se traduce en importantes ahorros de energía, ahorro de agua potable, ahorro de materias primas, menor impacto en los ecosistemas y sus recursos naturales y ahorro de tiempo, dinero y esfuerzo. Es necesario saber para empezar a actuar…
+
+Disponível em: http://www.tododecarton.com. Acesso em: 27 abr. 2010 (adaptado).
+
+A partir do que se afirma no último parágrafo: “Es necesario saber para empezar a actuar…”, pode-se constatar que o texto foi escrito com a intenção de
+
+# a
+informar o leitor a respeito da importância da reciclagem para a conservação do meio ambiente.
+
+# b
+indicar os cuidados que se deve ter para não consumir alimentos que podem ser focos de infecção.
+
+# c
+denunciar o quanto o consumismo é nocivo, pois é o gerador dos dejetos produzidos no México.
+
+# d
+ensinar como economizar tempo, dinheiro e esforço a partir dos 50 mil depósitos de lixo legalizados.
+
+# e
+alertar a população mexicana para os perigos causados pelos consumidores de matéria-prima reciclável.
+
+# r
+a
+
+# s
+A questão se refere ao último parágrafo: ”Es necesario saber para empezar a actuar...“, que remete à preocupação com o lixo depositado nos lixões legais e clandestinos (focos de infecção e doenças) e ao nosso dever de separar e reciclar os materiais para melhor conservação do meio ambiente.

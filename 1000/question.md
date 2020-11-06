@@ -1,0 +1,29 @@
+# q
+Dejar de fumar engorda, pero seguir haciéndolo, también. Esa es la conclusión a la que han llegado investigadores de la Universidad de Navarra que han hecho un seguimiento de 7.565 personas durante 50 meses. Los datos “se han ajustado por edad, sexo, índice de masa corporal inicial y estilo de vida”, ha explicada el director del ensayo, Javier Basterra-Gortari, por lo que “el único factor que queda es el tabaquismo”. El estudio se ha publicado en la Revista Española de Cardiología.
+
+“El tabaco es un anorexígeno \[quita el apetito], y por eso las personas que dejan de fumar engordan", añade Basterra-Gortari. Eso hace mucho más relevante el hallazgo del estudio. Puesto en orden, los que más peso ganan son los que dejan de fumar, luego, los que siguen haciéndolo, y, por último, los que nunca han fumado, indica el investigador. “Por eso lo mejor para mantener una vida saludable es no fumar nunca”, añade.
+
+BENTO. E. Disponível em: http:www.elpais.com/articulo/sociedad. Acesso em: 23 abr. 2010 (fragmento).
+
+O texto jornalístico caracteriza-se basicamente por apresentar informações a respeito dos mais variados assuntos, e seu título antecipa o tema que será tratado. Tomando como base o fragmento, qual proposição identifica o tema central e poderia ser usada como título?
+
+# a
+Estudo de vida interfere no ganho de peso.
+
+# b
+Estudo mostra expectativa de vida dos fumantes.
+
+# c
+Pessoas que fumam podem se tornar anoréxicas.
+
+# d
+Fumantes engordam mais que não fumantes.
+
+# e
+Tabagismo como fator de emagrecimento.
+
+# r
+d
+
+# s
+A resposta correta é a (D), de acordo com o que se lê no texto “los que más peso ganan son los que dejan de fumar, luego, los que siguen haciendolo y por último los que nunca han fumado…”

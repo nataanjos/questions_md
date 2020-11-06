@@ -1,0 +1,27 @@
+# q
+     Há qualquer coisa de especial nisso de botar a cara na janela em crônica de jornal – eu não fazia isso há muitos anos, enquanto me escondia em poesia e ficção. Crônica algumas vezes também é feita, intencionalmente, para provocar. Além do mais, em certos dias mesmo o escritor mais escolado não está lá grande coisa. Tem os que mostram sua cara escrevendo para reclamar: moderna demais, antiquada demais. Alguns discorrem sobre o assunto, e é gostoso compartilhar ideias. Há os textos que parecem passar despercebidos, outros rendem um montão de recados: “Você escreveu exatamente o que eu sinto”, “Isso é exatamente o que falo com meus pacientes”, “É isso que digo para meus pais”, “Comentei com minha namorada”. Os estímulos são valiosos pra quem nesses tempos andava meio assim: é como me botarem no colo – também eu preciso. Na verdade, nunca fui tão posta no colo por leitores como na janela do jornal. De modo que está sendo ótima, essa brincadeira séria, com alguns textos que iam acabar neste livro, outros espalhados por aí. Porque eu levo a sério ser sério... mesmo quando parece que estou brincando: essa é uma das maravilhas de escrever. Como escrevi há muitos anos e continua sendo a minha verdade: palavras são meu jeito mais secreto de calar.
+
+LUFT, L. **Pensar é transgredir.** Rio de Janeiro: Record, 2004.
+
+Os textos fazem uso constante de recursos que permitem a articulação entre suas partes. Quanto à construção do fragmento, o elemento
+
+# a
+“nisso” introduz o fragmento “botar a cara na janela em crônica de jornal”.
+
+# b
+“assim” é uma paráfrase de “é como me botarem no colo”.
+
+# c
+“isso” remete a “escondia em poesia e ficção”.
+
+# d
+“alguns” antecipa a informação “É isso que digo para meus pais”.
+
+# e
+“essa” recupera a informação anterior “janela do jornal”.
+
+# r
+a
+
+# s
+O termo nisso é um catafórico, e, dessa maneira, tem por função antecipar informações do texto. No trecho em questão, o pronome se refere a “botar a cara na janela em crônicas de jornal”.

@@ -1,0 +1,65 @@
+# q
+Aqui é o país do futebol
+
+Brasil está vazio na tarde de domingo, né?
+
+Olha o sambão, aqui é o país do futebol
+
+\[...]
+
+No fundo desse país
+
+Ao longo das avenidas
+
+Nos campos de terra e grama
+
+Brasil só é futebol
+
+Nesses noventa minutos
+
+De emoção e alegria
+
+Esqueço a casa e o trabalho
+
+A vida fica lá fora
+
+Dinheiro fica lá fora
+
+A cama fica lá fora
+
+A mesa fica lá fora
+
+Salário fica lá fora
+
+A fome fica lá fora
+
+A comida fica lá fora
+
+A vida fica lá fora
+
+E tudo fica lá fora
+
+SIMONAL, W. Aqui é o país do futebol. Disponível em: www.vagalume.com.br. Acesso em: 27 out. 2011 (fragmento).
+
+Na letra da canção Aqui é o país do futebol, de Wilson Simonal, o futebol, como elemento da cultura corporal de movimento e expressão da tradição nacional, é apresentado de forma crítica e emancipada devido ao fato de
+
+# a
+reforçar a relação entre o esporte futebol e o samba.
+
+# b
+ser apresentado como uma atividade de lazer.
+
+# c
+ser identificado com a alegria da população brasileira.
+
+# d
+promover a reflexão sobre a alienação provocada pelo futebol.
+
+# e
+ser associado ao desenvolvimento do país.
+
+# r
+d
+
+# s
+O caráter “crítico” da letra da canção está em que ela destaca a alienação que o futebol promove, uma vez que, nas tardes de domingo, as pessoas distraídas com o espetáculo esportivo esquecem-se dos problemas pessoais, econômicos, sociais e afetivos, deixando-os do lado de fora da ilusão de felicidade que o futebol provoca.

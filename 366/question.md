@@ -1,0 +1,27 @@
+# q
+Então, a travessia das veredas sertanejas é mais exaustiva que a de uma estepe nua. Nesta, ao menos, o viajante tem o desafogo de um horizonte largo e a perspectiva das planuras francas. Ao passo que a outra o afoga; abrevia-lhe o olhar; agride-o e estonteia-o; enlaça-o na trama espinescente e não o atrai; repulsa-o com as folhas urticantes, com o espinho, com os gravetos estalados em lanças, e desdobra-se-lhe na frente léguas e léguas, imutável no aspecto desolado; árvore sem folhas, de galhos estorcidos e secos, revoltos, entrecruzados, apontando rijamente no espaço ou estirando-se exuosos pelo solo, lembrando um bracejar imenso, de tortura, da ora agonizante…
+
+CUNHA, E. Os sertões. Disponível em: http://pt.scribd.com. Acesso em: 2 jun. 2012.
+
+Os elementos da paisagem descritos no texto correspondem a aspectos biogeográcos presentes na
+
+# a
+composição de vegetação xeróla
+
+# b
+formação de orestas latifoliadas
+
+# c
+transição para mata de grande porte.
+
+# d
+adaptação à elevada salinidade.
+
+# e
+homogeneização da cobertura perenifólia.
+
+# r
+a
+
+# s
+Os elementos da paisagem descritos no texto correspondem aos aspectos biogeográficos presentes na caatinga. Tal composição botânica é formada por vegetação xerófila, ou seja, adaptada a locais com menor presença de água, como o Sertão nordestino, onde prevalece a formação em questão e que está sob a influência do clima semiárido, quente e com chuvas escassas e irregulares. A presença de espinhos torna ”a travessia das veredas sertanejas mais exaustivas que a de uma estepe nua“, por ela agredir o sertanejo.

@@ -1,0 +1,27 @@
+# q
+     A última edição deste periódico apresenta mais uma vez tema relacionado ao tratamento dado ao lixo caseiro, aquele que produzimos no dia a dia. A informação agora passa pelo problema do material jogado na estrada vicinal que liga o município de Rio Claro ao distrito de Ajapi. Infelizmente, no local em questão, a reportagem encontrou mais uma forma errada de destinação do lixo: material atirado ao lado da pista como se isso fosse o ideal. Muitos moradores, por exemplo, retiram o lixo de suas residências e, em vez de um destino correto, procuram dispensá-lo em outras regiões. Uma situação no mínimo incômoda. Se você sai de casa para jogar o lixo em outra localidade, por que não o fazer no local ideal? É muita falta de educação achar que aquilo que não é correto para sua região possa ser para outra. A reciclagem do lixo doméstico é um passo inteligente e de consciência. Olha o exemplo que passamos aos mais jovens! Quem aprende errado coloca em prática o errado. Um perigo!
+
+Disponível em: http://jornaldacidade.uol.com.br. Acesso em: 10 ago. 2012 (adaptado).
+
+Esse editorial faz uma leitura diferenciada de uma notícia veiculada no jornal. Tal diferença traz à tona uma das funções sociais desse gênero textual, que é
+
+# a
+apresentar fatos que tenham sido noticiados pelo próprio veículo.
+
+# b
+chamar a atenção do leitor para temas raramente abordados no jornal.
+
+# c
+provocar a indignação dos cidadãos por força dos argumentos apresentados.
+
+# d
+interpretar criticamente fatos noticiados e considerados relevantes para a opinião pública.
+
+# e
+trabalhar uma informação previamente apresentada com base no ponto de vista do autor da notícia.
+
+# r
+d
+
+# s
+Os textos veiculados em jornais podem ter natureza informativa ou opinativa. A reportagem é um gênero que produz efeito de objetividade, com função referencial ou informativa. O editorial, em contrapartida, produz efeito de subjetividade: a informação é analisada pelo enunciador, que expõe um ponto de vista crítico sobre os fatos mais significativos para opinião pública. No texto selecionado, o editorial discute criticamente um tema de relevância social: o tratamento do lixo caseiro. O problema é tratado como uma questão de cidadania: o texto desperta a atenção dos leitores para a importância de se dar uma destinação correta ao lixo produzido em casa.

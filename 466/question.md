@@ -1,0 +1,31 @@
+# q
+Própria dos festejos juninos, a quadrilha nasceu como dança aristocrática, oriunda dos salões franceses, depois difundida por toda a Europa.
+
+No Brasil, foi introduzida como dança de salão e, por sua vez, apropriada e adaptada pelo gosto popular. Para sua ocorrência, é importante a presença de um mestre “marcante” ou “marcador”, pois é quem determina as figurações diversas que os dançadores desenvolvem. Observa-se a constância das seguintes marcações: “Tour”, “En avant”, “Chez des dames”, “Chez des chevaliê”, “Cestinha de flor”, “Balancê”, “Caminho da roça”, “Olha a chuva”, “Garranchê”, “Passeio”, “Coroa de flores”, “Coroa de espinhos” etc.
+
+No Rio de Janeiro, em contexto urbano, apresenta transformações: surgem novas figurações, o francês aportuguesado inexiste, o uso de gravações substitui a música ao vivo, além do aspecto de competição, que sustenta os festivais de quadrilha, promovidos por órgãos de turismo.
+
+CASCUDO, L. C. Dicionário do folclore brasileiro. Rio de Janeiro: Melhoramentos, 1976.
+
+As diversas formas de dança são demonstrações da diversidade cultural do nosso país. Entre elas, a quadrilha é considerada uma dança folclórica por
+
+# a
+possuir como característica principal os atributos divinos e religiosos e, por isso, identificar uma nação ou região.
+
+# b
+abordar as tradições e costumes de determinados povos ou regiões distintas de uma mesma nação.
+
+# c
+apresentar cunho artístico e técnicas apuradas, sendo, também, considerada dança-espetáculo.
+
+# d
+necessitar de vestuário específico para a sua prática, o qual define seu país de origem.
+
+# e
+acontecer em salões e festas e ser influenciada por diversos gêneros musicais.
+
+# r
+b
+
+# s
+Por mais que as suas origens estejam relacionadas à cultura francesa, a quadrilha pode ser considerada uma expressão do folclore nacional porque foi “apropriada e adaptada pelo gosto popular” dos brasileiros. De acordo com o texto de L. C. Cascudo, a quadrilha assume, inclusive, contornos diferenciados em regiões específicas, como no citado caso da quadrilha carioca, o que demonstra a rica diversidade cultural do país.

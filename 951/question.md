@@ -1,0 +1,25 @@
+# q
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F951%2F7a653fee-fc5f-8864-8e28-da80c62c71ab.png?alt=media\&token=82fdaf13-c113-4043-958b-21e29d87c60b)
+
+Muitos processos erosivos se concentram nas encostas, principalmente aqueles motivados pela água e pelo vento. No entanto, os reflexos também são sentidos nas áreas de baixada, onde geralmente há ocupação urbana. Um exemplo desses reflexos na vida cotidiana de muitas cidades brasileiras é
+
+# a
+a maior ocorrência de enchentes, já que os rios assoreados comportam menos água em seus leitos.
+
+# b
+a contaminação da população pelos sedimentos trazidos pelo rio e carregados de matéria orgânica.
+
+# c
+o desgaste do solo em áreas urbanas, causado pela redução do escoamento superficial pluvial na encosta.
+
+# d
+a maior facilidade de captação de água potável para o abastecimento público, já que é maior o efeito do escoamento sobre a infiltração.
+
+# e
+o aumento da incidência de doenças como a amebíase na população urbana, em decorrência do escoamento de água poluída do topo das encostas.
+
+# r
+a
+
+# s
+As consequências do processo de erosão em encostas não se limitam apenas às áreas afetadas. Os sedimentos transportados pelas águas são levados para as áreas mais baixas e os leitos dos rios. O acúmulo de sedimentos nesses leitos, fenômeno conhecido como assoreamento, diminui o volume das suas calhas, produzindo, nos períodos de chuvas, enchentes de maiores proporções no local.

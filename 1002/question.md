@@ -1,0 +1,27 @@
+# q
+A biosfera, que reúne todos os ambientes onde se desenvolvem os seres vivos, se divide em unidades menores chamadas ecossistemas, que podem ser uma floresta, um deserto e até um lago. Um ecossistema tem múltiplos mecanismos que regulam o número de organismos dentro dele, controlando sua reprodução, crescimento e migrações.
+
+DUARTE, M. O guia dos curiosos. São Paulo: Companhia das Letras, 1995.
+
+Predomina no texto a função da linguagem
+
+# a
+emotiva, porque o autor expressa seu sentimento em relação à ecologia.
+
+# b
+fática, porque o texto testa o funcionamento do canal de comunicação.
+
+# c
+poética, porque o texto chama a atenção para os recursos de linguagem,
+
+# d
+conativa, porque o texto procura orientar comportamentos do leitor.
+
+# e
+referencial, porque o texto trata de noções e informações conceituais.
+
+# r
+e
+
+# s
+Trata-se da função referencial da linguagem porque a mensagem é centrada em seu referente e este é exterior à linguagem e ao processo de comunicação. A justificativa apresentada na alternativa de resposta não é precisa, pois, se as “noções e informações conceituais” se referissem à linguagem, não se trataria de função referencial, mas sim metalinguística.

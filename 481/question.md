@@ -1,0 +1,25 @@
+# q
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F481%2Fc20c6144-8319-c9d3-3c3a-6360813765bb.png?alt=media\&token=91f03d59-57a6-43c0-ac85-c76444420051)
+
+A contemporaneidade identificada na *performance */ instalação do artista mineiro Paulo Nazareth reside principalmente na forma como ele
+
+# a
+resgata conhecidas referências do modernismo mineiro.
+
+# b
+utiliza técnicas e suportes tradicionais na construção das formas.
+
+# c
+articula questões de identidade, território e códigos de linguagens.
+
+# d
+imita o papel das celebridades no mundo contemporâneo.
+
+# e
+camufla o aspecto plástico e a composição visual de sua montagem.
+
+# r
+c
+
+# s
+A contemporaneidade da *performance *pode ser depreendida pelas questões de códigos e linguagens com a utilização de suportes materiais inusitados, como bananas e uma Kombi em uma instalação artística. As questões sociais podem ser percebidas pelo nome da montagem: “mercado das artes / mercado das bananas” — uma crítica ao caráter acentuadamente comercial da expressão artística contemporânea. Além disso, a placa que o rapaz segura pede que suas origens humildes não sejam esquecidas quando for um nome importante. As questões de território podem ser depreendidas pelo fato de se tratar de uma obra de um artista brasileiro, exposta em Miami, com uma placa em espanhol, claro efeito da globalização.

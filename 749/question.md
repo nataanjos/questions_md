@@ -1,0 +1,27 @@
+# q
+Os três tipos de poder representam três diversos tipos de motivações: no poder tradicional, o motivo da obediência é a crença na sacralidade da pessoa do soberano; no poder racional, o motivo da obediência deriva da crença na racionalidade do comportamento conforme a lei; no poder carismático, deriva da crença nos dotes extraordinários do chefe.
+
+BOBBIO, N. Estado, Governo, Sociedade: para uma teoria geral da política. São Paulo: Paz e Terra, 1999 (adaptado).
+
+O texto apresenta três tipos de poder que podem ser identificados em momentos históricos distintos. Identifique o período em que a obediência esteve associada predominantemente ao poder carismático:
+
+# a
+República Federalista Norte-Americana.
+
+# b
+República Fascista Italiana no século XX.
+
+# c
+Monarquia Teocrática do Egito Antigo.
+
+# d
+Monarquia Absoluta Francesa no século XVII.
+
+# e
+Monarquia Constitucional Brasileira no século XIX.
+
+# r
+b
+
+# s
+O fascismo caracterizou-se por ser um governo totalitário, fundado no unipartidarismo e no carisma de um único líder. Benito Mussolini, denominado duce (condutor), possuía poderes ilimitados e expressiva popularidade sobre as massas. Contudo, durante o governo fascista, a Itália era uma Monarquia (o Rei Vitor Emanuel III ocupou o trono até 1943). Portanto, a alternativa B, que considera a Itália como República Fascista, é imprecisa.

@@ -1,0 +1,35 @@
+# q
+     Uma fábrica de fórmicas produz placas quadradas de lados de medida igual a y centímetros. Essas placas são vendidas em caixas com N unidades e, na caixa, é especificada a área máxima S que pode ser coberta pelas N placas.
+
+     Devido a uma demanda do mercado por placas maiores, a fábrica triplicou a medida dos lados de suas placas e conseguiu reuni-las em uma nova caixa, de tal forma que a área coberta S não fosse alterada.
+
+A quantidade X, de placas do novo modelo, em cada nova caixa será igual a:
+
+# a
+$\cfrac{N}{9}$
+
+# b
+$\cfrac{N}{6}$
+
+# c
+$\cfrac{N}{3}$
+
+# d
+$3N$
+
+# e
+$9N$
+
+# r
+a
+
+# s
+A quantidade de placas em cada caixa é dada pela área máxima que pode ser coberta dividida pela área de cada placa. Assim:
+
+$N = \cfrac{5}{y^2}$     **(i)**
+
+$x = \cfrac{S}{(3y)^2}$
+
+$x = \cfrac{S}{9y^2}$     **(ii)**
+
+De **(I)** e **(II)** tem-se que $x = \cfrac{N}{9}$

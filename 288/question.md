@@ -1,0 +1,25 @@
+# q
+Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.
+
+Uma característica da mitocôndria que sustenta essa teoria é a
+
+# a
+capacidade de produzir moléculas de ATP.
+
+# b
+presença de parede celular semelhante à de procariontes.
+
+# c
+presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.
+
+# d
+capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.
+
+# e
+presença de um sistema enzimático efciente às reações químicas do metabolismo aeróbio.
+
+# r
+d
+
+# s
+Segundo a hipótese endossimbiótica, mitocôndrias e cloroplastos surgiram a partir de organismos procariontes que se associaram as células eucarióticas. As principais evidências a favor dessa hipótese são a presença de material genético – DNA circular – no interior dessas organelas e sua capacidade de autoduplicação.

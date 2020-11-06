@@ -1,0 +1,27 @@
+# q
+A irrigação da agricultura é responsável pelo consumo de mais de 2/3 de toda a água retirada dos rios, lagos e lençóis freáticos do mundo. Mesmo no Brasil, onde achamos que temos muita água, os agricultores que tentam produzir alimentos também enfrentam secas periódicas e uma competição crescente por água.
+
+MARAFON, G. J. et al. O desencanto da terra: produção de alimentos, ambiente e sociedade. Rio de Janeiro: Garamond, 2011.
+
+No Brasil, as técnicas de irrigação utilizadas na agricultura produziram impactos socioambientais como
+
+# a
+redução do custo de produção.
+
+# b
+agravamento da poluição hídrica.
+
+# c
+compactação do material do solo.
+
+# d
+aceleração da fertilização natural.
+
+# e
+redirecionamento dos cursos fluviais.
+
+# r
+e
+
+# s
+Dentre os impactos socioambientais produzidos pelas técnicas de irrigação, no caso da agricultura brasileira, destaca-se o agravamento da poluição hídrica, causada pelo aumento de substâncias dissolvidas na água, que foram transportadas dos solos e das lavouras, em alguns casos contaminadas por agrotóxicos.

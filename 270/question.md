@@ -1,0 +1,27 @@
+# q
+     eu acho um fato interessante... né... foi como meu pai e minha mãe vieram se conhecer... né... que... minha mãe morava no Piauí com toda família... né... meu... meu avô... materno no caso... era maquinista... ele sofreu um acidente... infelizmente morreu... minha mãe tinha cinco anos... né... e o irmão mais velho dela... meu padrinho... tinha dezessete e ele foi obrigado a trabalhar... foi trabalhar no banco... e... ele foi... o banco... no caso... estava... com um número de funcionários cheio e ele teve que ir para outro local e pediu transferência prum local mais perto de Parnaíba que era a cidade onde eles moravam e por engano o... o... escrivão entendeu Paraíba... né... e meu... e minha família veio parar em Mossoró que era exatamente o local mais perto onde tinha vaga pra funcionário do Banco do Brasil e:: ela foi parar na rua do meu pai... né... e começaram a se conhecer... namoraram onze anos... né... pararam algum tempo... brigaram... é lógico... porque todo relacionamento tem uma briga... né... e eu achei esse fato muito interessante porque foi uma coincidência incrível... né... como vieram a se conhecer... namoraram e hoje... e até hoje estão juntos... dezessete anos de casados...
+
+CUNHA, M. A. F. (Org.). Corpus discurso & gramática: a língua falada e escrita na cidade do Natal. Natal: EdUFRN, 1998.
+
+Na transcrição de fala, há um breve relato de experiência pessoal, no qual se observa a frequente repetição de “né”. Essa repetição é um(a)
+
+# a
+índice de baixa escolaridade do falante.
+
+# b
+estratégia típica de manutenção da interação oral.
+
+# c
+marca de conexão lógica entre conteúdos na fala.
+
+# d
+manifestação característica da fala regional nordestina.
+
+# e
+recurso enfatizador da informação mais relevante da narrativa.
+
+# r
+b
+
+# s
+A linguagem oral apresenta muitas diferenças em relação à escrita: esta tem, por exemplo, um planejamento maior da progressão das ideias, da correção gramatical, da clareza; aquela, em contrapartida, é marcada por hesitações, repetições, retomadas de ideias e frases cortadas (isto é, sem sequência, interrompidas). O “né”, no texto dado, é uma das marcas características da linguagem oral, e exerce uma função fática, isto é, de manter a todo o momento a atenção do interlocutor.

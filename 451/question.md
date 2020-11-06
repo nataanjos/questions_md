@@ -1,0 +1,35 @@
+# q
+TEXTO I
+
+É evidente que a vitamina D é importante — mas como obtê-la? Realmente, a vitamina D pode ser produzida naturalmente pela exposição à luz do sol, mas ela também existe em alguns alimentos comuns. Entretanto, como fonte dessa vitamina, certos alimentos são melhores do que outros. Alguns possuem uma quantidade significativa de vitamina D, naturalmente, e são alimentos que talvez você não queira exagerar: manteiga, nata, gema de ovo e fígado.
+
+Disponível em: http://saude.hsw.uol.com.br. Acesso em: 31 jul. 2012.
+
+TEXTO II
+
+Todos nós sabemos que a vitamina D (colecalciferol) é crucial para sua saúde. Mas a vitamina D é realmente uma vitamina? Está presente nas comidas que os humanos normalmente consomem? Embora exista em algum percentual na gordura do peixe, a vitamina D não está em nossas dietas, a não ser que os humanos artificialmente incrementem um produto alimentar, como o leite enriquecido com vitamina D. A natureza planejou que você a produzisse em sua pele, e não a colocasse direto em sua boca. Então, seria a vitamina D realmente uma vitamina?
+
+Disponível em: www.umaoutravisao.com.br. Acesso em: 31 jul. 2012.
+
+Frequentemente circulam na mídia textos de divulgação científica que apresentam informações divergentes sobre um mesmo tema. Comparando os dois textos, constata-se que o Texto II contrapõe-se ao I quando
+
+# a
+comprova cientificamente que a vitamina D não é uma vitamina.
+
+# b
+demonstra a verdadeira importância da vitamina D para a saúde.
+
+# c
+enfatiza que a vitamina D é mais comumente produzida pelo corpo que absorvida por meio de alimentos.
+
+# d
+afirma que a vitamina D existe na gordura dos peixes e no leite, não em seus derivados.
+
+# e
+levanta a possibilidade de o corpo humano produzir artificialmente a vitamina D.
+
+# r
+c
+
+# s
+Ainda que o segundo texto ponha em dúvida se o que se chama de vitamina D é de fato uma vitamina, os dois textos afirmam que ela é necessária ao corpo humano e que este é capaz de produzi-la. A diferença é que o primeiro enfatiza a possibilidade de se obter essa vitamina por meio de certos alimentos, e o segundo afirma que ela não está presente em uma dieta comum.

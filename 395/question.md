@@ -1,0 +1,27 @@
+# q
+Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água etc. Ainda que o rumo tomado pelo crescimento urbano não tenha respondido satisfatoriamente a todas essas necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.
+
+MARICATO, E. Brasil, cidades: alternativas para a crise urbana. Petrópolis, Vozes, 2001.
+
+A dinâmica de transformação das cidades tende a apresentar como consequência a expansão das áreas periféricas pelo(a)
+
+# a
+crescimento da população urbana e aumento da especulação imobiliária.
+
+# b
+direcionamento maior do fluxo de pessoas, devido à existência de um grande número de serviços.
+
+# c
+delimitação de áreas para uma ocupação organizada do espaço físico, melhorando a qualidade de vida.
+
+# d
+implatação de políticas públicas que promovem a moradia e o direito à cidade aos seus moradores.
+
+# e
+reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os deslocamentos para a periferia.
+
+# r
+a
+
+# s
+O intenso crescimento da população urbana pode ser relacionado à excessiva valorização das áreas mais centrais das cidades brasileiras, que normalmente são atrativas por apresentarem melhor infraestrutura de abastecimento, transporte, saúde, energia, água, etc. Sendo assim, ocorre a segregação da população de baixa renda nas periferias, fato que causa a expansão dessas áreas.

@@ -1,0 +1,27 @@
+# q
+A filosofia grega parece começar com uma ideia absurda, com a proposição: a água é a origem e a matriz de todas as coisas. Será mesmo necessário deter-nos nela e levá-la a sério? Sim, e por três razões: em primeiro lugar, porque essa proposição enuncia algo sobre a origem das coisas; em segundo lugar, porque o faz sem imagem e fabulação; e enfim, em terceiro lugar, porque nela, embora apenas em estado de crisálida, está contido o pensamento: Tudo é um.
+
+NIETZSCHE. F. Crítica moderna. In: Os pré-socráticos. São Paulo: Nova Cultural. 1999
+
+O que, de acordo com Nietzsche, caracteriza o surgimento da filosofia entre os gregos?
+
+# a
+O impulso para transformar, mediante justificativas, os elementos sensíveis em verdades racionais.
+
+# b
+O desejo de explicar, usando metáforas, a origem dos seres e das coisas.
+
+# c
+A necessidade de buscar, de forma racional, a causa primeira das coisas existentes.
+
+# d
+A ambição de expor, de maneira metódica, as diferenças entre as coisas.
+
+# e
+A tentativa de justificar, a partir de elementos empíri - cos, o que existe no real.
+
+# r
+C
+
+# s
+Nietzsche refere-se a um grupo de filósofos pré-socráticos chamados naturalistas, ou filósofos da physis. Esses buscavam a realidade primeira fundamental numa perspectiva cosmológica. Nietzsche valoriza o esforço desse grupo por sondarem o real de forma racional, sem “imagem e fabulação” próprias da mitologia.

@@ -1,0 +1,27 @@
+# q
+Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo.
+
+BERCITO, D. Google muda tratamento de territórios palestinos. Folha de S.Paulo, 4 maio 2013 (adaptado).
+
+O gesto simbólico sinalizado pela mudança no status dos territórios palestinos signica o
+
+# a
+surgimento de um país binacional.
+
+# b
+fortalecimento de movimentos antissemitas
+
+# c
+esvaziamento de assentamentos judaicos.
+
+# d
+reconhecimento de uma autoridade jurídica.
+
+# e
+estabelecimento de fronteiras nacionais.
+
+# r
+d
+
+# s
+O gesto simbólico sinalizado pela mudança no status dos ”territórios palestinos“, por parte do gigante da indústria da internet, significa o reconhecimento de uma autoridade jurídica: ”A Palestina“. Esse gesto foi consequência, entre outros aspectos, do reconhecimento da ”Palestina“, por parte da Organização das Nações Unidas, como Estado observador.

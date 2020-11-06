@@ -1,0 +1,27 @@
+# q
+Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica.
+
+BIGARELLA, J. J. Estrutura e origem das paisagens tropicais e subtropicais. Florianópolis: UFSC, 2003 (adaptado).
+
+Em relação ao processo descrito, sua ocorrência é minimizada em locais onde há
+
+# a
+exposição do solo.
+
+# b
+drenagem eficiente.
+
+# c
+rocha matriz resistente.
+
+# d
+agricultura mecanizada.
+
+# e
+média pluviométrica elevada.
+
+# r
+b
+
+# s
+A questão descreve movimentos de massa, os quais deslocam solo e rocha pela vertente do relevo. Por influência gravitacional e encharcamento do solo, ocorrem os deslizamentos, que podem ser minimizados por uma drenagem eficiente.

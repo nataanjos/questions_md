@@ -1,0 +1,37 @@
+# q
+     Em um jogo disputado em uma mesa de sinuca, há 16 bolas: 1 branca e 15 coloridas, as quais, de acordo com a coloração, valem de 1 a 15 pontos (um valor para cada bola colorida).
+
+     O jogador acerta o taco na bola branca de forma que esta acerte as outras, com o objetivo de acertar duas das quinze bolas em quaisquer caçapas. Os valores dessas duas bolas são somados e devem resultar em um valor escolhido pelo jogador antes do início da jogada.
+
+     Arthur, Bernardo e Caio escolhem os números 12, 17 e 22 como sendo resultados de suas respectivas somas.
+
+Com essa escolha, quem tem a maior probabilidade de ganhar o jogo é
+
+# a
+Arthur, pois a soma que escolheu é a menor.
+
+# b
+Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 4 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.
+
+# c
+Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.
+
+# d
+Caio, pois há 10 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 8 possibilidades para a escolha de Bernardo.
+
+# e
+Caio, pois a soma que escolheu é a maior.
+
+# r
+c
+
+# s
+Os resultados favoráveis a cada um dos jogadores são dados por:
+
+Arthur: (1, 11); (2, 10); (3, 9); (4, 8); (5, 7).
+
+Bernardo: (2, 15); (3, 14); (4, 13); (5, 12); (6, 11); (7, 10); (8, 9).
+
+Caio: (7, 15); (8, 14); (9, 13); (10, 12).
+
+Do exposto acima, temos que a alternativa correta é **C**, pois Arthur tem 5 possibilidades, Bernardo 7 e Caio 4.

@@ -1,0 +1,41 @@
+# q
+Visando minimizar impactos ambientais, a legislação brasileira determina que resíduos químicos lançados diretamente no corpo receptor tenham pH entre 5,0 e 9,0. Um resíduo líquido aquoso gerado em um processo industrial tem concentração de íons hidroxila igual a  $1,0 \times 10^{-10}$ mol/L. Para atender a legislação, um químico separou as seguintes substâncias, disponibilizadas no almoxarifado da empresa:$\ce{CH3COOH,\\, Na2SO4, \\,CH3OH, \\,K2CO3\\,e\\, NH4Cl}$
+
+Para que o resíduo possa ser lançado diretamente no corpo receptor, qual substância poderia ser empregada no ajuste do pH?
+
+# a
+$\ce{CH3COOH}$
+
+# b
+$\ce{Na2SO4}$
+
+# c
+$\ce{CH3OH}$
+
+# d
+$\ce{K2CO3}$
+
+# e
+$\ce{NH4CI}$
+
+# r
+d
+
+# s
+Segundo o texto, o resíduo só pode ser lançado se possuir pH entre 5 e 9.
+
+O resíduo citado possui concentração de hidroxila igual a $1,0 \cdot 10^{-10}$ mol/L, ou seja :
+
+$\[OH^-] = 10^{-10}$mol/L
+
+pOH = 10
+
+pH = 4.
+
+Como esse pH está abaixo do valor mínimo, ele deve ser aumentado para que fique na faixa recomendada, o que é conseguido ao adicionar a esse resíduo alguma substância de caráter básico.
+
+Dentre as substâncias disponíveis, a única que possui tal característica é o $\ce{K2CO3}$
+
+Esse sal aumenta o pH do resíduo devido à hidrólise do ânion carbonato, de acordo com a equação:
+
+$\ce{CO3^{2-} (aq) + H2O (l) <=>> HCO3^{-} (aq) + OH^{-} (aq)}$

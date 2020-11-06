@@ -1,0 +1,31 @@
+# q
+A maior parte dos veículos de transporte atualmente é movida por motores a combustão que utilizam derivados de petróleo. Por causa disso, esse setor é o maior consumidor de petróleo do mundo, com altas taxas de crescimento ao longo do tempo. Enquanto outros setores têm obtido bons resultados na redução do consumo, os transportes tendem a concentrar ainda mais o uso de derivados do óleo.
+
+MURTA, A. Energia: o vício da civilização. Rio de Janeiro: Garamond, 2011 (adaptado).
+
+Um impacto ambiental da tecnologia mais empregada pelo setor de transportes e uma medida para promover a redução do seu uso, estão indicados, respectivamente, em:
+
+# a
+Aumento da poluição sonora – construção de barreiras acústicas.
+
+# b
+Incidência da chuva ácida – estatização da indústria automobilística.
+
+# c
+Derretimento das calotas polares – incentivo aos transportes de massa.
+
+# d
+Propagação de doenças respiratórias – distribuição de medicamentos gratuitos.
+
+# e
+Elevação das temperaturas médias – criminalização da emissão de gás carbônico.
+
+# r
+c
+
+# s
+Nas últimas décadas o consumo de petróleo e seus derivados tem se elevado, com destaque para o setor de transportes, o que agrava a emissão de gases de efeito estufa, como o CO2.
+
+Dentre os impactos ambientais gerados por esse aumento da concentração de gases estufa, estariam o aquecimento global e o derretimento das calotas polares.
+
+Uma possibilidade para atenuar tais impactos é o incentivo ao uso de sistemas de transporte coletivo, cuja emissão per capita de gases de efeito estufa é menor em relação ao transporte automotivo individual.

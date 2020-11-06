@@ -1,0 +1,27 @@
+# q
+De ponta a ponta, é tudo praia-palma, muito chã e muito formosa. Pelo sertão nos pareceu, vista do mar, muito grande, porque, a estender olhos, não podíamos ver senão terra com arvoredos, que nos parecia muito longa. Nela, até agora, não pudemos saber que haja ouro, nem prata, nem coisa alguma de metal ou ferro; nem lho vimos. Porém a terra em si é de muito bons ares \[...]. Porém o melhor fruto que dela se pode tirar me parece que será salvar esta gente.
+
+Carta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. História moderna através de textos. São Paulo: Contexto, 2001.
+
+A carta de Pero Vaz de Caminha permite entender o projeto colonizador para a nova terra. Nesse trecho, o relato enfatiza o seguinte objetivo:
+
+# a
+Valorizar a catequese a ser realizada sobre os povos nativos.
+
+# b
+Descrever a cultura local para enaltecer a prosperidade portuguesa.
+
+# c
+Transmitir o conhecimento dos indígenas sobre o potencial econômico existente.
+
+# d
+Realçar a pobreza dos habitantes nativos para demarcar a superioridade europeia.
+
+# e
+Criticar o modo de vida dos povos autóctones para evidenciar a ausência de trabalho.
+
+# r
+a
+
+# s
+No trecho da carta de Pero Vaz de Caminha está evidente a valorização do projeto de catequese dos índios, especialmente na última frase em que o autor se refere à “salvação” dos nativos.

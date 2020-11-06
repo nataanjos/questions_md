@@ -1,0 +1,31 @@
+# q
+É muito raro que um novo modo de comunicação ou de expressão suplante completamente os anteriores. Fala-se menos desde que a escrita foi inventada? Claro que não. Contudo, a função da palavra viva mudou, uma parte de suas missões nas culturas puramente orais tendo sido preenchida pela escrita: transmissão dos conhecimentos e das narrativas, estabelecimento de contratos, realização dos principais atos rituais ou sociais etc. Novos estilos de conhecimento (o conhecimento “teórico”, por exemplo) e novos gêneros (o código de leis, o romance etc.) surgiram. A escrita não fez com que a palavra desaparecesse, ela complexificou e reorganizou o sistema da comunicação e da memória social.
+
+A fotografia substituiu a pintura? Não, ainda há pintores ativos. As pessoas continuam, mais do que nunca, a visitar museus, exposições e galerias, compram as obras dos artistas para pendurá-las em casa. Em contrapartida, é verdade que os pintores, os desenhistas, os gravadores, os escultores não são mais – como foram até o século XIX – os únicos produtores de imagens.
+
+LÉVY, P. Cibercultura. São Paulo. Ed. 34. 1999 (fragmento)
+
+A substituição pura e simples do antigo pelo novo ou do natural pelo técnico tem sido motivo de preocupação de muita gente. O texto encaminha uma discussão em torno desse temor ao
+
+# a
+considerar as relações entre o conhecimento teórico e o conhecimento empírico e acrescenta que novos gêneros textuais surgiram com o progresso.
+
+# b
+observar que a língua escrita não é uma transcrição fiel da língua oral e explica que as palavras antigas devem ser utilizadas para preservar a tradição.
+
+# c
+perguntar sobre a razão das pessoas visitarem museus, exposições etc., e reafirma que os fotógrafos são os únicos responsáveis pela produção de obras de arte.
+
+# d
+reconhecer que as pessoas temem que o avanço dos meios de comunicação, inclusive on-line, substitua o homem e leve alguns profissionais ao esquecimento.
+
+# e
+revelar o receio das pessoas em experimentar novos meios de comunicação, com medo de sentirem retrógradas.
+
+# r
+a
+
+# s
+Resposta oficial ENEM: A
+
+Não há, neste teste, nenhuma alternativa aceitável, a alternativa a é a menos errada, embora não se possa aceitar o que ela afirma quanto ao fato de o texto “considerar as relações entre o conhecimento teórico e o conhecimento empírico”. Tais relações não são sequer mencionadas no texto e nada têm a ver com ele.

@@ -1,0 +1,25 @@
+# q
+     Para a identificação de um rapaz vítima de acidente, fragmentos de tecidos foram retirados e submetidos à extração de DNA nuclear, para comparação com o DNA disponível dos possíveis familiares (pai, avô materno, avó materna, filho e filha). Como o teste com o DNA nuclear não foi conclusivo, os peritos optaram por usar também DNA mitocondrial, para dirimir dúvidas.
+
+Para identificar o corpo, os peritos devem verificar se há homologia entre o DNA mitocondrial do rapaz e o DNA mitocondrial do(a)
+
+# a
+pai.
+
+# b
+filho.
+
+# c
+filha.
+
+# d
+avó materna.
+
+# e
+avô materno.
+
+# r
+d
+
+# s
+As mitocôndrias são herdadas exclusivamente por meio da linhagem materna. Assim, na ausência da mãe da vítima, seria possível proceder-se à análise comparativa de seu DNA mitocondrial com o de sua avó materna.

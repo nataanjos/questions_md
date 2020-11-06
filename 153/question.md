@@ -1,0 +1,37 @@
+# q
+**How fake images change our memory and behaviour**
+
+     For decades, researchers have been exploring just how unreliable our own memories are. Not only is memory fickle when we access it, but it’s also quite easily subverted and rewritten. Combine this susceptibility with modern image-editing software at our fingertips like Photoshop, and it’s a recipe for disaster. In a world where we can witness news and world events as they unfold, fake images surround us, and our minds accept these pictures as real, and remember them later. These fake memories don’t just distort how we see our past, they affect our current and future behaviour too – from what we eat, to how we protest and vote. The problem is there’s virtually nothing we can do to stop it.\
+     Old memories seem to be the easiest to manipulate. In one study, subjects were showed images from their childhood. Along with real images, researchers snuck in manipulated photographs of the subject taking a hot-air balloon ride with his or her family. After seeing those images, 50% of subjects recalled some part of that hot-air balloon ride – though the event was entirely made up.
+
+EVELETH. R. Disponível em: www.bbc.com.\
+Acesso em: 10 jan. 2013 (adaptado).
+
+A reportagem apresenta consequências do uso de novas tecnologias para a mente humana. Nesse contexto, a memória das pessoas é influenciada pelo(a)
+
+# a
+alteração de imagens.
+
+# b
+exposição ao mundo virtual.
+
+# c
+acesso a novas informações.
+
+# d
+fascinio por *softwares* inovadores.
+
+# e
+interferência dos meios de comunicação.
+
+# r
+a
+
+# s
+A reportagem apresenta consequências do uso de novas tecnologias para a mente humana. Nesse contexto, a memória das pessoas é influenciada pela alteração de imagens.
+
+No texto: “These fake memories don’t just distort how we see our past, they affect our current and future behaviour too – from what we eat, to how we protest and vote. The problem is there’s virtually nothing we can do to stop it.”
+
+• fake – falso, alterado\
+• to distort – distorcer\
+• current – atual

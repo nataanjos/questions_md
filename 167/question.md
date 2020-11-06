@@ -1,0 +1,47 @@
+# q
+Um garoto foi à loja comprar um estilingue e encontrou dois modelos: um com borracha mais “dura” e outro com borracha mais “mole”. O garoto concluiu que o mais adequado seria o que proporcionasse maior alcance horizontal, D, para as mesmas condições de arremesso, quando submetidos à mesma força aplicada. Sabe-se que a constante elástica $k_d$ (do estilingue mais “duro”) é o dobro da constante elástica $k_m$ (do estilingue mais “mole”). A razão entre os alcances $\cfrac{D_d}{D_m}$, referentes aos estilingues com borrachas “dura” e “mole”, respectivamente, é igual a
+
+# a
+$\cfrac{1}{4}$.
+
+# b
+$\cfrac{1}{2}$.
+
+# c
+$1$.
+
+# d
+$2$.
+
+# e
+$4$.
+
+# r
+b
+
+# s
+Conservação da energia mecânica na transfor - mação de energia elástica em cinética:
+
+$E_c = E_e$
+
+$\cfrac{mV\_0^2}{2} = \cfrac{kx^2}{2}$
+
+Como $x = \cfrac{F}{k}$, então :
+
+$\cfrac{k}{2} \cdot \cfrac{F^2}{k^2}$
+
+$V\_0^2 = \cfrac{F^2}{km}$
+
+O alcance horizontal D é dado por:
+
+$D = \cfrac{V\_0^2}{g}\cdot sen2\theta$
+
+$D = \cfrac{F^2}{km\\,g}\cdot sen 2\theta$
+
+Para a mesma força F e mesmas condições de lan - ça mento de projéteis de mesma massa, o alcance D é inversamente proporcional à constante elástica da borracha do estilingue.
+
+$k_d = 2k_m$
+
+$D_d = \cfrac{1}{2}D_m$
+
+$\cfrac{D_d}{D_m} = \cfrac{1}{2}$

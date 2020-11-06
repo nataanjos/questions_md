@@ -1,0 +1,27 @@
+# q
+A introdução de novas tecnologias desencadeou uma série de efeitos sociais que afetaram os trabalhadores e sua organização. O uso de novas tecnologias trouxe a diminuição do trabalho necessário que se traduz na economia líquida do tempo de trabalho, uma vez que, com a presença da automação microeletrônica, começou a ocorrer a diminuição dos coletivos operários e uma mudança na organização dos processos de trabalho.
+
+Revista Eletrônica de Geografia Y Ciências Sociales. Universidad de Barcelona. No 170(9), 1 ago. 2004.
+
+A utilização de novas tecnologias tem causado inúmeras alterações no mundo do trabalho. Essas mudanças são observadas em um modelo de produção caracterizado
+
+# a
+pelo uso intensivo do trabalho manual para desenvolver produtos autênticos e personalizados.
+
+# b
+pelo ingresso tardio das mulheres no mercado de trabalho no setor industrial.
+
+# c
+pela participação ativa das empresas e dos próprios trabalhadores no processo de qualificação laboral.
+
+# d
+pelo aumento na oferta de vagas para trabalhadores especializados em funções repetitivas.
+
+# e
+pela manutenção de estoques de larga escala em função da alta produtividade.
+
+# r
+c
+
+# s
+Entre as inúmeras alterações no mundo do trabalho provocadas pela utilização de novas tecnologias, estão: a substituição do trabalho manual e repetitivo, seja de homens, seja de mulheres, por máquinas automáticas ou robôs; o aumento planejado da produtividade, que reduz (e não aumenta) os estoques de mercadorias; e, finalmente, a exigência de trabalhadores cada vez mais qualificados, aptos a lidar com toda a sofisticação tecnológica dos tempos atuais.

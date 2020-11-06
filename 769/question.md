@@ -1,0 +1,29 @@
+# q
+     Medidas de saneamento básico são fundamentais no processo de promoção de saúde e qualidade de vida da população. Muitas vezes, a falta de saneamento está relacionada com o aparecimento de várias doenças. Nesse contexto, um paciente dá entrada em um pronto atendimento relatando que há 30 dias teve contato com águas de enchente. Ainda informa que nesta localidade não há rede de esgoto e drenagem de águas pluviais e que a coleta de lixo é inadequada. Ele apresenta os seguintes sintomas: febre, dor de cabeça e dores musculares.
+
+Disponível em: http://portal.saude.gov.br. Acesso em: 27 fev. 2012 (adaptado).
+
+Relacionando os sintomas apresentados com as condições sanitárias da localidade, há indicações de que o paciente apresenta um caso de
+
+# a
+difteria.
+
+# b
+botulismo.
+
+# c
+tuberculose.
+
+# d
+leptospirose.
+
+# e
+meningite meningocócica.
+
+# r
+d
+
+# s
+Os dados fornecidos no enunciado da questão permitem concluir que a doença apresentada pelo paciente é a leptospirose, causada por bactérias veiculadas pela urina de ratos contaminados.
+
+**Observação**: Embora a descrição das condições que levaram à doença do paciente seja sufi ciente para apontar a leptospirose, seria desejável uma indicação mais precisa — por exemplo, com a informação de que a doença é transmitida pela urina de ratos.

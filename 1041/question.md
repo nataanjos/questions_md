@@ -1,0 +1,29 @@
+# q
+Capítulo III
+
+Um criado trouxe o café. Rubião pegou na xícara e, enquanto lhe deitava açúcar, ia disfarçadamente mirando a bandeja, que era de prata lavrada. Prata, ouro, eram os metais que amava de coração; não gostava de bronze, mas o amigo Palha disse-lhe que era matéria de preço, e assim se explica este par de figuras que aqui está na sala: um Mefistófeles e um Fausto. Tivesse, porém, de escolher, escolheria a bandeja, – primor de argentaria, execução fina e acabada. O criado esperava teso e sério. Era espanhol; e não foi sem resistência que Rubião o aceitou das mãos de Cristiano; por mais que lhe dissesse que estava acostumado aos seus crioulos de Minas, e não queria línguas estrangeiras em casa, o amigo Palha insistiu, demonstrando-lhe a necessidade de ter criados brancos. Rubião cedeu com pena. O seu bom pajem, que ele queria pôr na sala, como um pedaço da província, nem o pôde deixar na cozinha, onde reinava um francês, Jean; foi degradado a outros serviços.
+
+ASSIS, M. Quincas Borba. In: Obra completa. V.1. Rio de Janeiro: Nova Aguilar, 1993 (fragmento).
+
+Quincas Borba situa-se entre as obras-primas do autor e da literatura brasileira. No fragmento apresentado, a peculiaridade do texto que garante a universalização de sua abordagem reside
+
+# a
+no conflito entre o passado pobre e o presente rico, que simboliza o triunfo da aparência sobre a essência.
+
+# b
+no sentimento de nostalgia do passado devido à substituição da mão de obra escrava pela dos imigrantes.
+
+# c
+na referência a Fausto e Mefistófeles, que representam o desejo de eternização de Rubião.
+
+# d
+na admiração dos metais por parte de Rubião, que metaforicamente representam a durabilidade dos bens produzidos pelo trabalho.
+
+# e
+na resistência de Rubião aos criados estrangeiros, que reproduz o sentimento de xenofobia.
+
+# r
+a
+
+# s
+Rubião tem de se afastar de sua origem pobre e mineira, assim como dos gestos que traz dela, para corresponder às exigências de representação que, segundo o amigo Palha, a nova situação social lhe impõe.

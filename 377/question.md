@@ -1,0 +1,29 @@
+# q
+Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios manipular a justiça conforme seus interesses. Em 451 a.C., porém, os plebeus conseguiram eleger uma comissão de dez pessoas — os decênviros — para escrever as leis. Dois deles viajaram a Atenas, na Grécia, para estudar a legislação de Sólon.
+
+COULANGES, F. A cidade antiga. São Paulo: Martins Fontes, 2000.
+
+A superação da tradição jurídica oral no mundo antigo, descrita no texto, esteve relacionada à
+
+# a
+adoção do sufrágio universal masculino.
+
+# b
+extensão da cidadania aos homens livres.
+
+# c
+armação de instituições democráticas.
+
+# d
+implantação de direitos sociais.
+
+# e
+tripartição dos poderes políticos.
+
+# r
+d
+
+# s
+A transição da tradição jurídica oral para um sistema de leis escritas na Antiguidade Clássica dificultava a manipulação da justiça pela aristocracia e, apesar de ampliar a participação dos homens livres na vida pública, ainda não estendia, num primeiro momento, a cidadania a todos eles.
+
+Por outro lado, o próprio surgimento das leis escritas, que facilitava o acesso igual a elas, e a possibilidade de eleger representantes, como apontado no texto, podem ser interpretados como uma afirmação de instituições democráticas.

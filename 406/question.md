@@ -1,0 +1,27 @@
+# q
+A escravidão não há de ser suprimida no Brasil por uma guerra servil muito menos por insurreições ou atentados locais. Não deve sê-lo tampouco, por uma guerra civil, como o foi nos Estados Unidos. Ela poderia desaparecer, talvez, depois de uma revolução, como aconteceu na França, sendo essa revolução obra exclusiva da população livre. É no Parlamento e não em fazendas ou quilombos do interior, nem nas ruas e praças das cidades, que se há de ganhar, ou perder, a causa da liberdade.
+
+NABUCO, J. O abolicionismo \[1883]. Rio de Janeiro: Nova Fronteira; São Paulo: Publifolha 2000 (adaptado).
+
+No texto, Joaquim Nabuco defende um projeto político sobre como deveria ocorrer o fim da escravidão no Brasil, no qual
+
+# a
+copiava o modelo haitiano de emancipação negra.
+
+# b
+incentivava a conquista de alforrias por meio de ações judiciais.
+
+# c
+optava pela via legalista de libertação.
+
+# d
+priorizava a negociação em torno das indenizações aos senhores.
+
+# e
+antecipava a libertação paternalista dos cativos.
+
+# r
+c
+
+# s
+O texto de Joaquim Nabuco demonstra uma postura mais moderada em relação aos rumos do processo abolicionista no Brasil. O autor defende que o fim da escravidão seja decorrência de uma via legal, legislativa (uma concessão das elites), e não fruto da participação popular.

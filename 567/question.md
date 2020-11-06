@@ -1,0 +1,25 @@
+# q
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F567%2Fb224cab2-e9bf-ab10-53c0-7683eca99821.png?alt=media\&token=141d5531-4695-49ff-b3a8-e0da71d234da)
+
+A personagem Susanita, no último quadro, inventa o vocábulo mujerez, utilizando-se de um recurso de formação de palavra existente na língua espanhola. Na concepção da personagem, o sentido do vocábulo mujerez remete à
+
+# a
+falta de feminilidade das mulheres que não se dedicam às tarefas domésticas.
+
+# b
+valorização das mulheres que realizam todas as tarefas domésticas.
+
+# c
+inferioridade das mulheres que praticam as tarefas domésticas.
+
+# d
+relevância social das mulheres que possuem empregados para realizar as tarefas domésticas.
+
+# e
+independência das mulheres que não se prendem apenas às tarefas domésticas.
+
+# r
+b
+
+# s
+A personagem Susanita inventa o vocábulo “mujerez” para indicar a valorização das mulheres que realizam as tarefas domésticas.

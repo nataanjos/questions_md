@@ -1,0 +1,27 @@
+# q
+Milhares de pessoas estavam morrendo de varíola humana no final do século XVIII. Em 1796, o médico Edward Jenner (1749-1823) inoculou em um menino de 8 anos o pus extraído de feridas de vacas contaminadas com o vírus da varíola bovina, que causa uma doença branda em humanos. O garoto contraiu uma infecção benigna e, dez dias depois, estava recuperado. Meses depois, Jenner inoculou, no mesmo menino, o pus varioloso humano, que causava muitas mortes. O menino não adoeceu.
+
+Disponível em: www.bbc.co.uk. Acesso em: 5 dez. 2012 (adaptado).
+
+Considerando o resultado do experimento, qual a contribuição desse médico para a saúde humana?
+
+# a
+A prevenção de diversas doenças infectocontagiosas em todo o mundo.
+
+# b
+A compreensão de que vírus podem se multiplicar em matéria orgânica.
+
+# c
+O tratamento para muitas enfermidades que acometem milhões de pessoas.
+
+# d
+O estabelecimento da ética na utilização de crianças em modelos experimentais.
+
+# e
+A explicação de que alguns vírus de animais podem ser transmitidos para os humanos.
+
+# r
+a
+
+# s
+O experimento de Jenner estabeleceu os princípios do método de vacinação, possibilitando a prevenção de diversas doenças infectocontagiosas.

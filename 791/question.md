@@ -1,0 +1,29 @@
+# q
+     Os tubos de PVC, material organoclorado sintético, são normalmente utilizados como encanamento na construção civil. Ao final da sua vida útil, uma das formas de descarte desses tubos pode ser a incineração. Nesse processo libera-se HCℓ (g), cloreto de hidrogênio, dentre outras substâncias. Assim, é necessário um tratamento para evitar o problema da emissão desse poluente.
+
+Entre as alternativas possíveis para o tratamento, é apropriado canalizar e borbulhar os gases provenientes da incineração em
+
+# a
+água dura.
+
+# b
+água de cal.
+
+# c
+água salobra.
+
+# d
+água destilada.
+
+# e
+água desmineralizada.
+
+# r
+b
+
+# s
+Como no processo de incineração do PVC há liberação de HCl(g), esse gás deve ser borbulhado em uma solução alcalina capaz de neutralizá-lo.
+
+Entre as alternativas, a única que apresenta uma solução com características básicas é a **B**, água de cal.
+
+$\ce{2HCl(g) + Ca(OH)2(aq) -> CaCl2(aq) + 2H2O(l)}$

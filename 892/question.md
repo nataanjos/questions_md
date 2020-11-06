@@ -1,0 +1,35 @@
+# q
+     Nos últimos cinco anos, 32 mil mulheres de 20 a 24 anos foram internadas nos hospitais do SUS por causa de AVC. Entre os homens da mesma faixa etária, houve 28 mil internações pelo mesmo motivo.
+
+**Época.** 26 abr. 2010 (adaptado).
+
+Suponha que, nos próximos cinco anos, haja um acréscimo de 8 mil internações de mulheres e que o acréscimo de internações de homens por AVC ocorra na mesma proporção.
+
+De acordo com as informações dadas, o número de homens que seriam internados por AVC, nos próximos cinco anos, corresponderia a
+
+# a
+4 mil.
+
+# b
+9 mil.
+
+# c
+21 mil.
+
+# d
+35 mil.
+
+# e
+39 mil.
+
+# r
+d
+
+# s
+Do enunciado, temos que a porcentagem de crescimento das mulheres é de:
+
+$\cfrac{8.000}{32.000} = 0,25$ ou $25 \\%$.
+
+Como o acréscimo do número de internações de homens é o mesmo que o de mulheres, então o número de homens com AVC será:
+
+$28 000 \cdot 1,25 = 35 000$ homens

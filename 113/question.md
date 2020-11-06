@@ -1,0 +1,39 @@
+# q
+**Voz do sangue**
+
+Palpitam-me os sons do batuque e os ritmos melancólicos do blue.
+
+Ó negro esfarrapado do Harlem ó dançarino de Chicago ó negro servidor do South
+
+Ó negro da África negros de todo o mundo
+
+Eu junto ao vosso magnífico canto a minha pobre voz os meus humildes ritmos.
+
+Eu vos acompanho pelas emaranhadas áfricas do nosso Rumo.
+
+Eu vos sinto negros de todo o mundo eu vivo a nossa história meus irmãos.
+
+Disponivel em: www.agostinhoneto.org. Acesso em: 30 jun. 2015.
+
+Nesse poema, o líder angolano Agostinho Neto, na década de 1940, evoca o pan-africanismo com o objetivo de
+
+# a
+incitar a luta por políticas de ações afirmativas na América e na África.
+
+# b
+reconhecer as desigualdades sociais entre os negros de Angola e dos Estados Unidos.
+
+# c
+descrever o quadro de pobreza após os processos de independência no continente africano.
+
+# d
+solicitar o engajamento dos negros estadunidenses na luta armada pela independência em Angola.
+
+# e
+conclamar as populações negras de diferentes países a apoiar as lutas por igualdade e independência.
+
+# r
+e
+
+# s
+O poema “Voz do sangue” de Agostinho Neto, ao evocar o pan-africanismo, conclama as populações negras de todo o mundo – “Ó negro da África / negros de todo o mundo” – a apoiar as lutas por igualdade e independência.

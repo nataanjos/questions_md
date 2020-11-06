@@ -1,0 +1,43 @@
+# q
+Quando Deus redimiu da tirania\
+Da mão do Faraó endurecido\
+O Povo Hebreu amado, e esclarecido,\
+Páscoa ficou da redenção o dia.
+
+Páscoa de flores, dia de alegria\
+Àquele Povo foi tão afligido\
+O dia, em que por Deus foi redimido;\
+Ergo sois vós, Senhor, Deus da Bahia.
+
+Pois mandado pela alta Majestade\
+Nos remiu de tão triste cativeiro,\
+Nos livrou de tão vil calamidade.
+
+Quem pode ser senão um verdadeiro\
+Deus, que veio estirpar desta cidade\
+O Faraó do povo brasileiro.
+
+DAMASCENO, D. (Org.).** Melhores poemas: Gregório de Matos.** São Paulo: Globo, 2006.
+
+Com uma elaboração de linguagem e uma visão de mundo que apresentam princípios barrocos, o soneto de Gregório de Matos apresenta temática expressa por
+
+# a
+visão cética sobre as relações sociais.
+
+# b
+preocupação com a identidade brasileira.
+
+# c
+crítica velada à forma de governo vigente.
+
+# d
+reflexão sobre os dogmas do cristianismo.
+
+# e
+questionamento das práticas pagãs na Bahia.
+
+# r
+c
+
+# s
+No poema de Gregório de Matos, poeta do barroco (séc. XVII), observa-se uma crítica ao governo da Bahia, personificado na figura do governador, caracterizado como “O Faraó do povo brasileiro”. A postura crítica, entretanto, não é completamente velada, uma vez que os leitores da época conseguiriam com tranquilidade ligar a figura do governador à do Faraó.

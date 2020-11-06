@@ -1,0 +1,23 @@
+# q
+Após estudar na Europa, Anita Malfatti retornou ao Brasil com uma mostra que abalou a cultura nacional do início do século XX. Elogiada por seus mestres na Europa, Anita se considerava pronta para mostrar seu trabalho no Brasil, mas enfrentou as duras críticas de Monteiro Lobato. Com a intenção de criar uma arte que valorizasse a cultura brasileira, Anita Malfatti e outros artistas modernistas
+
+# a
+buscaram libertar a arte brasileira das normas acadêmicas europeias, valorizando as cores, a originalidade e os temas nacionais.
+
+# b
+defenderam a liberdade limitada de uso da cor, até então utilizada de forma irrestrita, afetando a criação artística nacional.
+
+# c
+representaram a ideia de que a arte deveria copiar fielmente a natureza, tendo como finalidade a prática educativa.
+
+# d
+mantiveram de forma fiel a realidade nas figuras retratadas, defendendo uma liberdade artística ligada à tradição acadêmica.
+
+# e
+buscaram a liberdade na composição de suas figuras, respeitando limites de temas abordados.
+
+# r
+a
+
+# s
+Os artistas modernistas, principalmente em sua primeira geração, buscavam libertar as artes do academicismo europeu e criar uma expressão artística que valorizasse a cultura brasileira.

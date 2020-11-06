@@ -1,0 +1,27 @@
+# q
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F416%2F664ef600-6f4b-8be4-c695-f7a07248845b.png?alt=media\&token=b04a5401-cc7a-47ac-97b4-be89840663f2)
+
+*A imagem foi publicada no jornal *Correio da Manhã*, no dia de Finados de 1965. Sua relação com os direitos **políticos existentes no período revela a*
+
+# a
+*extinção dos partidos nanicos.*
+
+# b
+*retomada dos partidos estaduais.*
+
+# c
+*adoção do bipartidarismo regulado.*
+
+# d
+*superação do siologismo tradicional.*
+
+# e
+*valorização da representação parlamentar.*
+
+# r
+c
+
+# s
+A imagem publicada no jornal *Correio da Manhã*, no dia de Finados, em 1965, faz menção à extinção de todos os partidos políticos pelo Ato Institucional no 2 (AI-2), outorgado pela ditadura civil-militar em outubro desse ano.
+
+Por ato complementar do Mal. Castello Branco foi adotado, então, o regime bipartidário. A partir de 1966, a disputa política entre a ARENA e o MDB contribuiu para disfarçar a existência de um Estado autoritário.

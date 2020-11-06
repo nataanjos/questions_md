@@ -1,0 +1,29 @@
+# q
+Estamos testemunhando o reverso da tendência histórica da assalariação do trabalho e socialização da produção, que foi característica predominante na era industrial. A nova organização social e econômica baseada nas tecnologias da informação visa à administração descentralizadora, ao trabalho individualizante e aos mercados personalizados. As novas tecnologias da informação possibilitam, ao mesmo tempo, a descentralização das tarefas e sua coordenação em uma rede interativa de comunicação em tempo real, seja entre continentes, seja entre os andares de um mesmo edifício.
+
+CASTELLS, M. A sociedade em rede. São Paulo: Paz e Terra, 2006 (adaptado).
+
+No contexto descrito, as sociedades vivenciam mudanças constantes nas ferramentas de comunicação que afetam os processos produtivos nas empresas. Na esfera do trabalho, tais mudanças têm provocado
+
+# a
+o aprofundamento dos vínculos dos operários com as linhas de montagem sob influência dos modelos orientais de gestão.
+
+# b
+o aumento das formas de teletrabalho como solução de larga escala para o problema do desemprego crônico.
+
+# c
+o avanço do trabalho flexível e da terceirização como respostas às demandas por inovação e com vistas à mobilidade dos investimentos.
+
+# d
+a autonomização crescente das máquinas e computadores em substituição ao trabalho dos especialistas técnicos e gestores.
+
+# e
+o fortalecimento do diálogo entre operários, gerentes, executivos e clientes com a garantia de harmonização das relações de trabalho.
+
+# r
+c
+
+# s
+O avanço dos meios de comunicação potencializa o fluxo de informações entre os diferentes espaços geográficos, permitindo uma maior flexibilização das atividades produtivas, como a descentralização administrativa. Além disso, amplia a terceirização dos serviços, permitindo que algumas atividades sejam realizadas por empresas localizadas em diferentes países, por meio de uma rede interativa de comunicação.
+
+Vale destacar que os avanços das tecnologias de informação facilitam a circulação de capital entre os diversos mercados financeiros do mundo, uma das características marcantes da atual fase da globalização.

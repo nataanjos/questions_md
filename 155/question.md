@@ -1,0 +1,34 @@
+# q
+**En el día del amor, ¡no a la violencia contra la mujer!**
+
+     Hoy es el día de la amistad y del amor. Pero, parece que este día es puro floro, porque en nuestro país aún existen muchos casos de maltrato entre las parejas, sobre todo hacia las mujeres. Por eso, el Ministerio de la Mujer y Poblaciones Vulnerables (MIMP) lanza la segunda etapa de la campaña “Si te quieren, que te quieran bien”.\
+     Esta campaña busca detener de una vez el maltrato contra la mujer y para eso, concientizar sobre la importancia de denunciar estos casos. Y es que las cifras son preocupantes. Cada hora se denuncian 17 casos de violencia contra la mujer y en total los Centros de Emergencia de la Mujer (CEM) y el MIMP atendieron en un año a más de 36 mil denuncias de las cuales 7 mil eran de niñas y adolescentes menores de 17 años. Un abuso.\
+     Si eres testigo o víctima de algún tipo de violencia ya sea física, psicológica o sexual debes llamar gratuitamente a la línea 100 desde un teléfono fijo o celular.
+
+Disponível em: http://napa.com.pe.\
+Acesso em: 14 fev. 2012 (adaptado).
+
+Pela expressão *puro floro*, infere-se que o autor considera a comemoração pelo dia do amor e da amizade, no Peru, como uma oportunidade para
+
+# a
+proteger as populações mais vulneráveis.
+
+# b
+evidenciar as eficazes ações do governo.
+
+# c
+camuflar a violência de gênero existente no país.
+
+# d
+atenuar os maus-tratos cometidos por alguns homens.
+
+# e
+enaltecer o sucesso das campanhas de conscientização feminina.
+
+# r
+c
+
+# s
+Pela expressão puro floro, infere-se que o autor considera a comemoração pelo dia do amor e da amizade, no Peru, como uma oportunidade para camuflar a violência de gênero existente no país. Lê-se no texto: “Pero, parece que este día es puro floro, porque en nuestro país aún existen muchos casos de maltrato entre las parejas, sobre todo hacia las mujeres. Por eso, el Ministerio de la Mujer y Poblaciones Vulnerables (MIMP) lanza la segunda etapa de la campaña “Si te quieren, que te quieran bien”.”
+
+• puro floro = pura embromação

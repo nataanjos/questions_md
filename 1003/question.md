@@ -1,0 +1,29 @@
+# q
+Câncer 21/06 a 21/07
+
+O eclipse em seu signo vai desencadear mudanças na sua autoestima e no seu modo de agir. O corpo indicará onde você falha – se anda engolindo sapos, a área gástrica se ressentirá. O que ficou guardado virá à tona para ser transformado, pois este novo ciclo exige uma “desintoxicação”. Seja comedida em suas ações, já que precisará de energia para se recompor. Há preocupação com a família, e a comunicação entre os irmãos trava. Lembre-se: palavra preciosa é palavra dita na hora certa. Isso ajuda também na vida amorosa, que será testada. Melhor conter as expectativas e ter calma, avaliando as próprias carências de modo maduro. Sentirá vontade de olhar além das questões materiais – sua confiança virá da intimidade com os assuntos da alma.
+
+Revista Cláudia. N.° 7, ano 48, jul. 2009.
+
+O reconhecimento dos diferentes gêneros textuais, seu contexto de uso, sua função social específica, seu objetivo comunicativo e seu formato mais comum relacionam-se aos conhecimentos construídos socioculturalmente. A análise dos elementos constitutivos desse texto demonstra que sua função é
+
+# a
+vender um produto anunciado.
+
+# b
+informar sobre astronomia.
+
+# c
+ensinar os cuidados com a saúde.
+
+# d
+expor a opinião de leitores em um jornal.
+
+# e
+aconselhar sobre amor, família, saúde, trabalho.
+
+# r
+e
+
+# s
+O aconselhamento existencial é função típica das colunas de astrologia (“horóscopo”) frequentes na imprensa.

@@ -1,0 +1,31 @@
+# q
+Los fallos de software en aparatos médicos, como marcapasos, van a ser una creciente amenaza para la salud pública, según el informe de Software Freedom Law Center (SFLC) que ha sido presentado hoy en Portland (EEUU), en la Open Source Convention (OSCON).
+
+La ponencia “Muerto por el código: transparencia de software en los dispositivos médicos implantables” aborda el riesgo potencialmente mortal de los defectos informáticos en los aparatos médicos implantados en las personas.
+
+Según SFLC, millones de personas con condiciones crónicas del corazón, epilepsia, diabetes, obesidad e, incluso, la depresión dependen de implantes, pero el software permanece oculto a los pacientes y sus médicos. La SFLC recuerda graves fallos informáticos ocurridos en otros campos, como en elecciones, en la fabricación de coches, en las líneas aéreas comerciales o en los mercados financieros.
+
+Disponível em: http://www.elpais.com. Acesso em: 24 jul. 2010 (adaptado).
+
+O título da palestra, citado no texto, antecipa o tema que será tratado e mostra que o autor tem a intenção de
+
+# a
+relatar novas experiências em tratamento de saúde.
+
+# b
+alertar sobre os riscos mortais de determinados softwares de uso médico para o ser humano.
+
+# c
+denunciar falhas médicas na implantação de softwares em seres humanos.
+
+# d
+divulgar novos softwares presentes em aparelhos médicos lançados no mercado.
+
+# e
+apresentar os defeitos mais comuns de softwares em aparelhos médicos.
+
+# r
+b
+
+# s
+Logo no 1o parágrafo aparece o alerta de que falhas em softwares usados na medicina podem trazer riscos para os seres humanos — afetando, por exemplo, aparelhos implantados.

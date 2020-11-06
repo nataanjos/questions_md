@@ -1,0 +1,35 @@
+# q
+     Um dia, meu pai tomou-me pela mão, minha mãe beijou-me a testa, molhando-me de lágrimas os cabelos e eu parti.
+
+     Duas vezes fora visitar o Ateneu antes da minha instalação.
+
+     Ateneu era o grande colégio da época. Afamado por um sistema de nutrido reclame, mantido por um diretor que de tempos a tempos reformava o estabelecimento, pintando-o jeitosamente de novidade, como os negociantes que liquidam para recomeçar com artigos de última remessa; o Ateneu desde muito tinha consolidado crédito na preferência dos pais, sem levar em conta a simpatia da meninada, a cercar de aclamações o bombo vistoso dos anúncios.
+
+     O Dr. Aristarco Argolo de Ramos, da conhecida família do Visconde de Ramos, do Norte, enchia o império com o seu renome de pedagogo. Eram boletins de propaganda pelas províncias, conferências em diversos pontos da cidade, a pedidos, à substância, atochando a imprensa dos lugarejos, caixões, sobretudo, de livros elementares, fabricados às pressas com o ofegante e esbaforido concurso de professores prudentemente anônimos, caixões e mais caixões de volumes cartonados em Leipzig, inundando as escolas públicas de toda a parte com a sua invasão de capas azuis, róseas, amarelas, em que o nome de Aristarco, inteiro e sonoro, oferecia-se ao pasmo venerador dos esfaimados de alfabeto dos confins da pátria. Os lugares que os não procuravam eram um belo dia surpreendidos pela enchente, gratuita, espontânea, irresistível! E não havia senão aceitar a farinha daquela marca para o pão do espírito.
+
+POMPEIA, R. **O Ateneu**. São Paulo: Scipione, 2005.
+
+ 
+
+Ao descrever o Ateneu e as atitudes de seu diretor, o narrador revela um olhar sobre a inserção social do colégio demarcado pela
+
+# a
+ideologia mercantil da educação, repercutida nas vaidades pessoais.
+
+# b
+interferência afetiva das famílias, deterrninantes no processo educacional.
+
+# c
+produção pioneira de material didático, responsável pela facilitação do ensino.
+
+# d
+ampliação do acesso à educação, com a negociação dos custos escolares.
+
+# e
+cumplicidade entre educadores e famílias, unidos pelo interesse comum do avanço social.
+
+# r
+a
+
+# s
+A ideologia mercantil que repercute na vaidade pessoal personifica-se no personagem Aristarco, diretor do Ateneu. Isso fica evidente no trecho “Afamado por um sistema de nutrido reclame, mantido por um diretor que de tempo a tempos reformara o estabelecimento, pintando-o jeitosamente de novidade, como os negociantes que liquidam para recomeçar com artigos de última remessa”.

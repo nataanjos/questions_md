@@ -1,0 +1,22 @@
+# q
+Todo o poder criativo da mente se reduz a nada mais do que a faculdade de compor, transpor, aumentar ou diminuir os materiais que nos fornecem os sentidos e a experiência. Quando pensamos em uma montanha de ouro, não fazemos mais do que juntar duas ideias consistentes, ouro e montanha, que já conhecíamos. Podemos conceber um cavalo virtuoso, porque somos capazes de conceber a virtude a partir de nossos próprios sentimentos, e podemos unir a isso a figura e a forma de um cavalo, animal que nos é familiar.
+
+HUME, D. Investigação sobre o entendimento humano. São Paulo: Abril Cultural, 1995.
+
+Hume estabelece um vínculo entre pensamento e impressão ao considerar que
+
+# a
+
+# b
+
+# c
+
+# d
+
+# e
+
+# r
+a
+
+# s
+Para Hume, as impressões e ideias são nossos conteúdos mentais. As impressões resultam diretamente da experiência imediata; e as ideias são as cópias fracas e desbotadas das impressões. Para Hume, o acaso não existe, não passando de um efeito aparente de uma causa desconhecida e oculta.

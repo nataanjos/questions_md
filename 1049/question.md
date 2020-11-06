@@ -1,0 +1,27 @@
+# q
+     O etanol é considerado um biocombustível promissor, pois, sob o ponto de vista do balanço de carbono, possui uma taxa de emissão praticamente igual a zero. Entretanto, esse não é o único ciclo biogeoquímico associado à produção de etanol. O plantio da cana-de-açúcar, matéria-prima para a produção de etanol, envolve a adição de macronutrientes como enxofre, nitrogênio, fósforo e potássio, principais elementos envolvidos no crescimento de um vegetal.
+
+**Revista Química Nova na Escola.** nº 28, 2008.
+
+O nitrogênio incorporado ao solo, como consequência da atividade descrita anteriormente, é transformado em nitrogênio ativo e afetará o meio ambiente, causando
+
+# a
+o acúmulo de sais insolúveis, desencadeando um processo de salinificação do solo.
+
+# b
+a eliminação de microrganismos existentes no solo responsáveis pelo processo de desnitrificação.
+
+# c
+a contaminação de rios e lagos devido à alta solubilidade de íons como $\ce{NO^{–}3}$ e $\ce{NH^{+}4}$ em água.
+
+# d
+a diminuição do pH do solo pela presença de $\ce{NH3}$, que reage com a água, formando o $\ce{NH4OH(aq)}$.
+
+# e
+a diminuição da oxigenação do solo, uma vez que o nitrogênio ativo forma espécies químicas do tipo $\ce{NO2, NO^{–}3 , N2O}$.
+
+# r
+c
+
+# s
+Ao atingir rios e lagos, os compostos nitrogenados citados contaminam esses ambientes.

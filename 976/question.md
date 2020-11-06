@@ -1,0 +1,25 @@
+# q
+Após a abdicação de D. Pedro I, o Brasil atravessou um período marcado por inúmeras crises: as diversas forças políticas lutavam pelo poder e as reivindicações populares eram por melhores condições de vida e pelo direito de participação na vida política do país. Os conflitos representavam também o protesto contra a centralização do governo. Nesse período, ocorreu também a expansão da cultura cafeeira e o surgimento do poderoso grupo dos “barões do café”, para o qual era fundamental a manutenção da escravidão e do tráfico negreiro.
+
+O contexto do Período Regencial foi marcado
+
+# a
+por revoltas populares que reclamavam a volta da monarquia.
+
+# b
+por várias crises e pela submissão das forças políticas ao poder central.
+
+# c
+pela luta entre os principais grupos políticos que reivindicavam melhores condições de vida.
+
+# d
+pelo governo dos chamados regentes, que promoveram a ascensão social dos “barões do café”.
+
+# e
+pela convulsão política e por novas realidades econômicas que exigiam o reforço de velhas realidades sociais.
+
+# r
+e
+
+# s
+O período regencial foi marcado por uma série de revoltas políticas e sociais e também pelo avanço da cafeicultura pelo Vale do Paraíba. A nova realidade econômica criada pela cafeicultura exigiu o reforço da escravidão para atender às novas demandas produtivas..

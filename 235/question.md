@@ -1,0 +1,31 @@
+# q
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F235%2Ff8423b4b-66d3-53d9-e4dd-3e09b01bc4f9.png?alt=media\&token=bea0cad8-03ac-4254-aa67-1ef7d2018aa0)
+
+**TEXTO II**
+
+A Índia deu um passo alto no setor de teleatendimento para países mais desenvolvidos, como os Estados Unidos e as nações europeias. Atualmente mais de 245 mil indianos realizam ligações para todas as partes do mundo a fim de oferecer cartões de créditos ou telefones celulares ou cobrar contas em atraso.
+
+Disponível em: www.conectacallcenter.com.br. Acesso em: 12 nov. 2013 (adaptado).
+
+Ao relacionar os textos, a explicação para o processo de territorialização descrito está no(a)
+
+# a
+aceitação das diferenças culturais.
+
+# b
+adequação da posição geográfica.
+
+# c
+incremento do ensino superior.
+
+# d
+qualidade da rede logística.
+
+# e
+custo da mão de obra local.
+
+# r
+e
+
+# s
+O sudeste Asiático, área destacada no texto I, é a região mais populosa do planeta, fato que determina o barateamento da mão de obra na maioria dos países da região. A Índia, segundo país mais populoso do mundo, é uma referência mundial no setor de serviços de teleatendimento. Além disso, uma grande parcela da população fala inglês, o que facilita a comunicação com os Estados Unidos e as nações europeias.

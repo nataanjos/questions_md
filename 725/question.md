@@ -1,0 +1,29 @@
+# q
+O fenômeno de ilha de calor é o exemplo mais marcante da modificação das condições iniciais do clima pelo processo de urbanização, caracterizado pela modificação do solo e pelo calor antropogênico, o qual inclui todas as atividades humanas inerentes à sua vida na cidade.
+
+BARBOSA, R. V. R. Áreas verdes e qualidade térmica em ambientes urbanos: estudo em microclimas em Maceió. São Paulo: EdUSP, 2005.
+
+O texto exemplifica uma importante alteração socioambiental, comum aos centros urbanos. A maximização desse fenômeno ocorre
+
+# a
+pela reconstrução dos leitos originais dos cursos d’água antes canalizados.
+
+# b
+pela recomposição de áreas verdes nas áreas centrais dos centros urbanos.
+
+# c
+pelo uso de materiais com alta capacidade de reflexão no topo dos edifícios.
+
+# d
+pelo processo de impermeabilização do solo nas áreas centrais das cidades.
+
+# e
+pela construção de vias expressas e gerenciamento de tráfego terrestre.
+
+# r
+d
+
+# s
+O fenômeno de ilha de calor pode ser maximizado pelo processo de impermeabilização do solo nas regiões centrais das cidades.
+
+A implementação de vias de circulação e de edificações insere, no ambiente, materiais que absorvem mais radiação, como asfalto e concreto, o que contribui para a elevação da temperatura do ar. A retirada de cobertura vegetal provoca a diminuição da umidade atmosférica, o que eleva a temperatura do ar.

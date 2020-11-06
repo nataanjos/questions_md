@@ -1,0 +1,27 @@
+# q
+O Centro-Oeste apresentou-se como extremamente receptivo aos novos fenômenos da urbanização, já que era  poraticamente virgem. Pôde, assim, receber uma infraestrutura nova, totalmente a serviço de uma economia moderna.
+
+SANTOS, M. A Urbanização Brasileira. São Paulo: EdUSP, 2005 (adaptado).
+
+O texto trata da ocupação de uma parcela do território brasileiro. O processo econômico diretamente associado a essa ocupação foi o avanço da
+
+# a
+industrialização voltada para o setor de base.
+
+# b
+economia da borracha no sul da Amazônia.
+
+# c
+fronteira agropecuária que degradou parte do cerrado.
+
+# d
+exploração mineral na Chapada dos Guimarães.
+
+# e
+extrativismo na região pantaneira.
+
+# r
+c
+
+# s
+A partir dos anos de 1960, a região Centro-Oeste inicia forte processo de ocupação e integração ao restante do território nacional. A construção de Brasília e as rodovias de integração, entre outras estratégias do Estado, foram importantes agentes desse processo. A expansão da fronteira agropecuária sobre as áreas do cerrado foi uma das causas da ocupação dessa região. Expansão econômica e demográfica regional necessitou da implantação de uma infraestrutura mais moderna, que suportasse aquela nova realidade socioeconômica.

@@ -1,0 +1,55 @@
+# q
+Soneto
+
+Já da morte o palor me cobre o rosto,
+
+Nos lábios meus o alento desfalece,
+
+Surda agonia o coração fenece,
+
+E devora meu ser mortal desgosto!
+
+Do leito embalde no macio encosto
+
+Tento o sono reter!... já esmorece
+
+O corpo exausto que o repouso esquece...
+
+Eis o estado em que a mágoa me tem posto!
+
+O adeus, o teu adeus, minha saudade,
+
+Fazem que insano do viver me prive
+
+E tenha os olhos meus na escuridade.
+
+Dá-me a esperança com que o ser mantive!
+
+Volve ao amante os olhos por piedade,
+
+Olhos por quem viveu quem já não vive!
+
+AZEVEDO, A. Obra completa. Rio de Janeiro: Nova Aguilar, 2000.
+
+O núcleo temático do soneto citado é típico da segunda geração romântica, porém configura um lirismo que o projeta para além desse momento específico. O fundamento desse lirismo é
+
+# a
+a angústia alimentada pela constatação da irreversibilidade da morte.
+
+# b
+a melancolia que frustra a possibilidade de reação diante da perda.
+
+# c
+o descontrole das emoções provocado pela autopiedade.
+
+# d
+o desejo de morrer como alívio para a desilusão amorosa.
+
+# e
+o gosto pela escuridão como solução para o sofrimento.
+
+# r
+b
+
+# s
+O fundamento da melancolia que frusta a possibilidade de reação diante da perda, como evidenciam, dentre outros, os versos “O adeus, o teu adeus, minha saudade, / Fazem que insano do viver me prive/ E tenha os olhos meus na escuridade”. Nota-se, portanto, que a rejeição amorosa traz a falta de possibilidades diante da perda para o eu lírico.

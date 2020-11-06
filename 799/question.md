@@ -1,0 +1,25 @@
+# q
+     Osmose é um processo espontâneo que ocorre em todos os organismos vivos e é essencial à manutenção da vida. Uma solução 0,15 mol/L de NaCℓ (cloreto de sódio) possui a mesma pressão osmótica das soluções presentes nas células humanas.
+
+A imersão de uma célula humana em uma solução 0,20 mol/L de NaCℓ tem, como consequência, a
+
+# a
+adsorção de íons Na+ sobre a superfície da célula.$\ce{Na^{+}}$
+
+# b
+difusão rápida de íons $\ce{Na^{+}}$ para o interior da célula.
+
+# c
+diminuição da concentração das soluções presentes na célula.
+
+# d
+transferência de íons $\ce{Na^{+}}$ da célula para a solução.
+
+# e
+transferência de moléculas de água do interior da célula para a solução.
+
+# r
+e
+
+# s
+Considerando que a pressão osmótica das soluções presentes nas células humanas é equivalente à de uma solução de NaCl de concentração 0,15mol/L, a imersão destas células em meios hipertônicos, ou seja, de maior concentração (0,20mol/L de NaCl), faz com que ocorra transferência de moléculas de água do interior das células para a solução.

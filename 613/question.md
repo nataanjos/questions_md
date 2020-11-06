@@ -1,0 +1,27 @@
+# q
+Química Verde pode ser definida como a criação, o desenvolvimento e a aplicação de produtos e processos químicos para reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana e ao ambiente. Sabe-se que algumas fontes energéticas desenvolvidas pelo homem exercem, ou têm potencial para exercer, em algum nível, impactos ambientais negativos.
+
+CORRÊA, A. G.; ZUIN, V. G. (Orgs.). **Química Verde**: fundamentos e aplicações. São Carlos: EdUFSCar, 2009.
+
+À luz da Química Verde, métodos devem ser desenvolvidos para eliminar ou reduzir a poluição do ar causada especialmente pelas
+
+# a
+hidrelétricas.
+
+# b
+termelétricas.
+
+# c
+usinas geotérmicas.
+
+# d
+fontes de energia solar.
+
+# e
+fontes de energia eólica.
+
+# r
+b
+
+# s
+Segundo o texto, a Química Verde busca reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana. Apesar de as usinas hidrelétricas e geotérmicas causarem grande impacto ambiental, elas não ferem o preceito da Química Verde apresentado no texto. As usinas termelétricas, porém, geram energia a partir de reações químicas de combustão, o que provoca grandes emissões de óxidos gasosos na atmosfera, que podem ser nocivos à saúde humana.

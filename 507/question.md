@@ -1,0 +1,27 @@
+# q
+Não ignoro a opinião antiga e muito difundida de que o que acontece no mundo é decidido por Deus e pelo acaso. Essa opinião é muito aceita em nossos dias, devido às grandes transformações ocorridas, e que ocorrem diariamente, as quais escapam à conjectura humana. Não obstante, para não ignorar inteiramente o nosso livre-arbítrio, creio que se pode aceitar que a sorte decida metade dos nossos atos, mas \[o livre-arbítrio] nos permite o controle sobre a outra metade.
+
+MAQUIAVEL, N. O Príncipe. Brasília: EdUnB, 1979 (adaptado).
+
+Em O Príncipe, Maquiavel refletiu sobre o exercício do poder em seu tempo. No trecho citado, o autor demonstra o vínculo entre o seu pensamento político e o humanismo renascentista ao
+
+# a
+valorizar a interferência divina nos acontecimentos definidores do seu tempo.
+
+# b
+rejeitar a intervenção do acaso nos processos políticos.
+
+# c
+afirmar a confiança na razão autônoma como fundamento da ação humana.
+
+# d
+romper com a tradição que valorizava o passado como fonte de aprendizagem.
+
+# e
+redefinir a ação política com base na unidade entre fé e razão.
+
+# r
+c
+
+# s
+Apesar de o fragmento de Maquiavel tratar da presença do acaso e da religiosidade no rumo dos acontecimentos, ele enfatiza o livre-arbítrio nas ações humanas, marca do humanismo renascentista.

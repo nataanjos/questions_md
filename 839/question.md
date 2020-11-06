@@ -1,0 +1,27 @@
+# q
+Conceitos e importância das lutas Antes de se tornarem esporte, as lutas ou as artes marciais tiveram duas conotações principais: eram praticadas com o objetivo guerreiro ou tinham um apelo filosófico como concepção de vida bastante significativo. Atualmente, nos deparamos com a grande expansão das artes marciais em nível mundial. As raízes orientais foram se disseminando, ora pela necessidade de luta pela sobrevivência ou para a “defesa pessoal”, ora pela possibilidade de ter as artes marciais como própria filosofia de vida.
+
+CARREIRO, E. A. Educação Física na escola: Implicações para a prática pedagógica. Rio de Janeiro: Guanabara Koogan, 2008 (fragmento).
+
+Um dos problemas da violência que está presente principalmente nos grandes centros urbanos são as brigas e os enfrentamentos de torcidas organizadas, além da formação de gangues, que se apropriam de gestos das lutas, resultando, muitas vezes, em fatalidades. Portanto, o verdadeiro objetivo da aprendizagem desses movimentos foi mal compreendido, afinal as lutas
+
+# a
+se tornaram um esporte, mas eram praticadas com o objetivo guerreiro a fim de garantir a sobrevivência.
+
+# b
+apresentam a possibilidade de desenvolver o autocontrole, o respeito ao outro e a formação do caráter.
+
+# c
+possuem como objetivo principal a “defesa pessoal” por meio de golpes agressivos sobre o adversário.
+
+# d
+sofreram transformações em seus princípios filosóficos em razão de sua disseminação pelo mundo.
+
+# e
+se disseminaram pela necessidade de luta pela sobrevivência ou como filosofia pessoal de vida.
+
+# r
+b
+
+# s
+A expansão das artes marciais em nível mundial está bastante vinculada ao seu “apelo filosófico como concepção de vida”: além de seu caráter esportivo, as lutas são utilizadas para incutir nos jovens não só a capacidade do autocontrole, mas também valores fundamentais à formação do caráter, como o respeito ao próximo. Ao utilizarem os movimentos dessas lutas para o mero enfrentamento, para a prática gratuita da violência, membros de torcidas organizadas relevam má compreensão das artes marciais.

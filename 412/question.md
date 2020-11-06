@@ -1,0 +1,35 @@
+# q
+TEXTO I
+
+Ela acorda tarde depois de ter ido ao teatro e à dança; ela lê romances, além de desperdiçar o tempo a olhar para a rua da sua janela ou da sua varanda; passa horas no toucador a arrumar o seu complicado penteado; um número igual de horas praticando piano e mais outra na sua aula de francês ou de dança.
+
+Comentário do Padre Lopes da Gama acerca dos costumes femininos \[1839] apud SILVA, T. V. Z.Mulheres, cultura e literatura brasileira. Ipotesi — Revista dos Estudos Literários, Juiz de Fora, v. 2. n. 2, 1998.
+
+TEXTO II
+
+As janelas e portas gradeadas com treliças não eram cadeias confessas, positivas; mas eram, pelo aspecto e pelo seu destino, grande gaiolas, onde os pais e maridos zelavam, sonegadas à sociedade, as lhas e as esposas.
+
+MACEDO, J.M. Memória da Rua do Ouvidor \[1878]. Disponível em: www.dominiopublico.gov.br. Acesso em: 20 maio 2013 (adaptado).
+
+A representação social do feminino comum aos dois textos é o(a)
+
+# a
+submissão de gênero, apoiada pela concepção patriarcal de família.
+
+# b
+acesso aos produtos de beleza, decorrência da abertura dos portos.
+
+# c
+ampliação do espaço de entretenimento, voltado às distintas classes sociais
+
+# d
+proteção da honra, medida pela disputa masculina em relação às damas da corte
+
+# e
+valorização do casamento cristão, respaldado pelos interesses vinculados à herança
+
+# r
+a
+
+# s
+Os textos propostos apresentam duas descrições do universo feminino no século XIX, que foi marcado pela submissão, acomodação e limitação imposta à vida da mulher (por tradições patriarcais consolidadas desde séculos precedentes). Essa condição respondia à manutenção e reprodução dos interesses dominantes, relegando às mulheres os chamado ”deveres do lar“, a reprodução e os cuidados com a família, tipicamente patriarcal.

@@ -1,0 +1,41 @@
+# q
+**Poesia quentinha​**\
+*Projeto literário publica poemas em\
+ sacos de pão na capital mineira*
+
+     Se a literatura é mesmo o alimento da alma, então os mineiros estão diante de um verdadeiro banquete. Mais do que um pãozinho com manteiga, os moradores do bairro de Barreiro, em Belo Horizonte (MG), estão consumindo poesia brasileira no café da manhã. Graças ao projeto “Pão e Poesia”, que faz do saquinho de pão um espaço para veiculação de poemas, escritores como Affonso Romano de Sant’Anna e Fernando Brant dividem espaço com estudantes que passaram por oficinas de escrita poética. São ao todo 250 mil embalagens, distribuídas em padarias da região de Belo Horizonte, que trazem a boa literatura para o cotidiano de pessoas, além de dar uma chance a escritores novatos de verem seus textos impressos. Criado em 2008 por um analista de sistemas apaixonado por literatura, o “Pão e Poesia” já recebeu dois prêmios do Ministério da Cultura.
+
+**Língua Portuguesa**, n. 71, set. 2011.
+
+ 
+
+A proposta de um projeto como o “Pão e Poesia” objetiva inovar em sua área de atuação, pois
+
+# a
+privilegia novos escritores em detrimento daqueles já consagrados.
+
+# b
+resgata poetas que haviam perdido espaços de publicação impressa.
+
+# c
+prescinde de critérios de seleção em prol da popularização da literatura.
+
+# d
+propõe acesso à literatura a públicos diversos.
+
+# e
+alavanca projetos de premiações antes esquecidos.
+
+# r
+d
+
+# s
+**a) Incorreta.** O projeto apenas possibilita que escritores novos sejam conhecidos pelo público; não há prejuízo para autores experientes, pois estes também circulam nas embalagens, como Fernando Brant.
+
+**b) Incorreta.** Não se trata de resgate, mas de divulgação da poesia.
+
+**c) Incorreta.** Os critérios de seleção não são discutidos pelo texto; sabe-se apenas que autores renomados e novatos são igualmente publicados nas embalagens.
+
+**d) Correta.** O texto democratiza o acesso à poesia ao difundir gratuitamente os textos, por meio das embalagens de pão.
+
+**e) Incorreta.** Como informa o texto, no último parágrafo, o projeto já foi premiado, mas não trata de premiações.

@@ -1,0 +1,43 @@
+# q
+Quem construiu a Tebas de sete portas?
+
+Nos livros estão nomes de reis.
+
+Arrastaram eles os blocos de pedra?
+
+E a Babilônia várias vezes destruída.
+
+Quem a reconstruiu tantas vezes?
+
+Em que casas da Lima dourada moravam os construtores?
+
+Para onde foram os pedreiros, na noite em que a Muralha da China ficou pronta?
+
+A grande Roma está cheia de arcos do triunfo. Quem os ergueu?
+
+Sobre quem triunfaram os césares?
+
+BRECHT, B. Perguntas de um trabalhador que lê. Disponível em: http://recantodasletras.uol.com.br Acesso em: 28 abr. 2010.
+
+Partindo das reflexões de um trabalhador que lê um livro de História, o autor censura a memória construída sobre determinados monumentos e acontecimentos históricos. A crítica refere-se ao fato de que
+
+# a
+os agentes históricos de uma determinada sociedade deveriam ser aqueles que realizaram feitos heroicos ou grandiosos e, por isso, ficaram na memória.
+
+# b
+a História deveria se preocupar em memorizar os nomes de reis ou dos governantes das civilizações que se desenvolveram ao longo do tempo.
+
+# c
+os grandes monumentos históricos foram construídos por trabalhadores, mas sua memória está vinculada aos governantes das sociedades que os construíram.
+
+# d
+os trabalhadores consideram que a História é uma ciência de difícil compreensão, pois trata de sociedades antigas e distantes no tempo.
+
+# e
+as civilizações citadas no texto, embora muito importantes, permanecem sem terem sido alvos de pesquisas históricas.
+
+# r
+c
+
+# s
+O autor B. Brecht critica a visão histórica elitista, segundo a qual reis, césares e líderes são considerados responsáveis por grandes feitos e obras, enquanto os trabalhadores, que de fato os realizaram, não são valorizados.

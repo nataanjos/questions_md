@@ -1,0 +1,25 @@
+# q
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F418%2F76360c8d-9269-53fb-39d9-11bc07d7f8d1.png?alt=media\&token=c797b6d8-7a7d-445b-a337-5c548bde78e9)
+
+*A charge revela uma crítica aos meios de comunicação, em especial à internet, porque*
+
+# a
+*questiona a integração das pessoas nas redes virtuais de relacionamento.*
+
+# b
+*considera as relações sociais como menos importantes que as virtuais.*
+
+# c
+*enaltece a pretensão do homem de estar em todos os lugares ao mesmo tempo.*
+
+# d
+*descreve com precisão as sociedades humanas no mundo globalizado.*
+
+# e
+*concebe a rede de computadores como o espaço mais ecaz para a construção de relações sociais.*
+
+# r
+a
+
+# s
+A utilização cada vez mais ampla das novas tecnologias de telecomunicações disponíveis tem sido objeto de estudos, haja vista o paradoxo gerado no plano da chamada globalização. Se, por um lado, as redes sociais criadas na internet viabilizam maior aproximação entre os indivíduos, por outro lado, as relações pessoais têm se caracterizado por distanciamentos acentuados e o isolamento das pessoas, fato frequentemente constatadona atualidade.

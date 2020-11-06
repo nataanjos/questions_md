@@ -1,0 +1,43 @@
+# q
+**Até quando?**
+
+Não adianta olhar pro céu
+
+Com muita fé e pouca luta
+
+Levanta aí que você tem muito protesto pra fazer
+
+E muita greve, você pode, você deve, pode crer
+
+Não adianta olhar pro chão
+
+Virar a cara pra não ver
+
+Se liga aí que te botaram numa cruz e só porque Jesus
+
+Sofreu não quer dizer que você tenha que sofrer!
+
+GABRIEL, O PENSADOR. Seja você mesmo (mas não seja sempre o mesmo). Rio de Janeiro: Sony Music, 2001 (fragmento).
+
+As escolhas linguísticas feitas pelo autor conferem ao texto
+
+# a
+caráter atual, pelo uso de linguagem própria da internet.
+
+# b
+cunho apelativo, pela predominância de imagens metafóricas.
+
+# c
+tom de diálogo, pela recorrência de gírias.
+
+# d
+espontaneidade, pelo uso da linguagem coloquial.
+
+# e
+originalidade, pela concisão da linguagem.
+
+# r
+d
+
+# s
+A linguagem coloquial, típica do gênero textual, o rap, confere à letra da canção forte efeito de espontaneidade.

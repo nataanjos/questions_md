@@ -1,0 +1,40 @@
+# q
+     Nos Estados Unidos a unidade de medida de volume mais utilizada em latas de refrigerante é a onça fluida (fl oz), que equivale a aproximadamente 2,95 centilitros (cL).
+
+     Sabe-se que o centilitro é a centésima parte do litro e que a lata de refrigerante usualmente comercializada no Brasil tem capacidade de 355 mL.
+
+Assim, a medida do volume da lata de refrigerante de 355 mL, em onça fluida (fl oz), é mais próxima de
+
+# a
+0,83.
+
+# b
+1,20.
+
+# c
+12,03.
+
+# d
+104,73.
+
+# e
+120,34.
+
+# r
+c
+
+# s
+Convertendo todas as grandezas para a unidade litro (L), temos:
+
+1fl oz = 2,95cL = $2,95 \cdot 10^{-2} L$
+
+$355mL = 3,55 \cdot 10^{–3}\\,L$
+
+Logo, por regra de três, tem-se:
+
+1fl oz –––––––––– $2,95 \cdot 10^{-2} L$\
+      x –––––––––– $3,55 \cdot 10^{–3}\\,L$
+
+Assim:
+
+$\cfrac{3,55 \cdot 10^{-3}}{2,95 \cdot 10^{-2}} \approx 12,03$ fl oz

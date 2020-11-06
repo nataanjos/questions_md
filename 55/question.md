@@ -1,0 +1,27 @@
+# q
+Na sociedade contemporânea, onde as relações sociais tendem a reger-se por imagens midiáticas, a imagem de um indivíduo, principalmente na indústria do espetáculo, pode agregar valor econômico na medida de seu incremento técnico: amplitude do espelhamento e da atenção pública. Aparecer é então mais do que ser; o sujeito é famoso porque é falado. Nesse âmbito, a lógica circulatória do mercado, ao mesmo tempo que acena democraticamente para as massas com os supostos “ganhos distributivos” (a informação ilimitada, a quebra das supostas hierarquias culturais), afeta a velha cultura disseminada na esfera pública. A participação nas redes sociais, a obsessão dos selfies, tanto falar e ser falado quanto ser visto são índices do desejo de “espelhamento”.
+
+SODRÉ, M. Disponível em: http://aulas.estadao.com.br. Acesso em: 9 fev. 2015 (adaptado).
+
+A crítica contida no texto sobre a sociedade contemporânea enfatiza
+
+# a
+a prática identitária autorreferente.
+
+# b
+a dinâmica política democratizante.
+
+# c
+a produção instantânea de notícias.
+
+# d
+os processos difusores de informações.
+
+# e
+os mecanismos de convergência tecnológica.
+
+# r
+A
+
+# s
+“Aparecer é então mais do que ser”, relações sociais que são regidas pela imagem de um indivíduo. A participação nas redes sociais e a obsessão dos selfies, ser visto e falado, estão entre os maiores desejos da atualidade. O autor não está criticando os processos difusores de informação nem a produção instantânea de notícias, mas sim a sua utilização na autopromoção, numa identidade não de reconhecimento público por mérito, mas autorreferente.

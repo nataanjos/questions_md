@@ -1,0 +1,42 @@
+# q
+     Para analisar o desempenho de um método diagnóstico, realizam-se estudos em populações contendo pacientes sadios e doentes. Quatro situações distintas podem acontecer nesse contexto de teste:
+
+1\) Paciente TEM a doença e o resultado do teste é POSITIVO.\
+2\) Paciente TEM a doença e o resultado do teste é NEGATIVO.\
+3\) Paciente NÃO TEM a doença e o resultado do teste é POSITIVO.\
+4\) Paciente NÃO TEM a doença e o resultado do teste é NEGATIVO.
+
+     Um índice de desempenho para avaliação de um teste diagnóstico é a sensibilidade, definida como a probabilidade de o resultado do teste ser POSITIVO se o paciente estiver com a doença.
+
+     O quadro refere-se a um teste diagnóstico para a doença A, aplicado em uma amostra composta por duzentos indivíduos.
+
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F387%2F913748e1-ba14-4eab-87be-4ec3e4b087a1.png?alt=media\&token=9800fb50-1fb9-4db3-a86d-3eae7c996717)
+
+BENSEÑOR, I. M.; LOTUFO, P. A. Epidemiologia: abordagem prática. São Paulo: Sarvier, 2011 (adaptado).
+
+Conforme o quadro do teste proposto, a sensibilidade dele é de
+
+# a
+47,5%.
+
+# b
+85,0%.
+
+# c
+86,3%.
+
+# d
+94,4%.
+
+# e
+95,0%.
+
+# r
+e
+
+# s
+O novo espaço amostral é formado por 95 + 5 = 100 pacientes que estão com a doença.
+
+A probabilidade de o teste ser positivo nesse caso é de $\cfrac{95}{100} = 95\\%$..
+
+A sensibilidade dele é de 95%.

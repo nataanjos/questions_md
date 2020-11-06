@@ -1,0 +1,41 @@
+# q
+Minha vida é andar
+
+Por esse país
+
+Pra ver se um dia
+
+Descanso feliz
+
+Guardando as recordações
+
+Das terras onde passei
+
+Andando pelos sertões
+
+E dos amigos que lá deixei
+
+GONZAGA, L.; CORDOVIL. H. A vida de viajante, 1953. Disponível em: www.recife.pe.gov.br. Acesso em: 20 fev. 2012 (fragmento).
+
+A letra dessa canção reflete elementos identitários que representam a
+
+# a
+valorização das características naturais do Sertão nordestino.
+
+# b
+denúncia da precariedade social provocada pela seca.
+
+# c
+experiência de deslocamento vivenciada pelo migrante.
+
+# d
+profunda desigualdade social entre as regiões brasileiras.
+
+# e
+discriminação dos nordestinos nos grandes centros urbanos.
+
+# r
+c
+
+# s
+Ao longo dos ciclos econômicos brasileiros e do processo de concentração espacial, houve expressivos deslocamentos populacionais no país. A obra de Luiz Gonzaga faz referência a essas migrações, perpassando por conteúdos geográficos, como nesta que relata sentimentos da experiência vivida por um migrante.

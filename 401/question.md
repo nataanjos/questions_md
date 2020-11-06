@@ -1,0 +1,27 @@
+# q
+Até hoje admitia-se que nosso conhecimento se devia regular pelos objetos; porém todas as tentativas para descobrir, mediante conceitos, algo que ampliasse nosso conhecimento, malogravam-se com esse pressuposto. Tentemos, pois, uma vez, experimentar se não se resolverão melhor as tarefas da metafísica, admitindo que os objetos se deveriam regular pelo nosso conhecimento.
+
+KANT, I. Crítica da razão pura. Lisboa: Calouste-Gulbenkian, 1994 (adaptado).
+
+O trecho em questão é uma referência ao que ficou conhecido como revolução copernicana na filosofia. Nele, confrontam-se duas posições filosóficas que
+
+# a
+assumem pontos de vista opostos acerca da natureza do conhecimento.
+
+# b
+defendem que o conhecimento é impossível, restando-nos somente o ceticismo.
+
+# c
+revelam a relação de interdependência entre os dados da experiência e a reflexão filosófica
+
+# d
+apostam, no que diz respeito às tarefas da filosofia, na primazia das ideias em relação aos objetos
+
+# e
+refutam-se mutuamente quanto à natureza do nosso conhecimento e são ambas recusadas por Kant.
+
+# r
+a
+
+# s
+A síntese kantiana das tradições do empirismo e do racionalismo incluiu a absorção e a superação dos seus pontos de vista, cada um deles considerado como o oposto do outro.

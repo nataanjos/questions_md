@@ -1,0 +1,25 @@
+# q
+A soda cáustica pode ser usada no desentupimento de encanamentos domésticos e tem, em sua composição, o hidróxido de sódio como principal componente, além de algumas impurezas. A soda normalmente é comercializada na forma sólida, mas que apresenta aspecto "derretido" quando exposta ao ar por certo período.
+
+O fenômeno de “derretimento” decorre da
+
+# a
+absorção da umidade presente no ar atmosférico.
+
+# b
+fusão do hidróxido pela troca de calor com o ambiente.
+
+# c
+reação das impurezas do produto com o oxigênio do ar.
+
+# d
+adsorção de gases atmosféricos na superfície do sólido.
+
+# e
+reação do hidróxido de sódio com o gás nitrogênio presente no ar.
+
+# r
+a
+
+# s
+O hidróxido de sódio (NaOH) é um composto higroscópico, ou seja, possui a capacidade de reter vapor d’água da atmosfera. A intensidade de absorção é tamanha, que se forma água líquida, a qual dissolve parcialmente o composto, gerando o aspecto derretido, mencionado no enunciado.

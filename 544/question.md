@@ -1,0 +1,49 @@
+# q
+     Em um sistema de dutos, três canos iguais, de raio externo 30 cm, são soldados entre si e colocados dentro de um cano de raio maior, de medida R. Para posteriormente ter fácil manutenção, é necessário haver uma distância de 10 cm entre os canos soldados e o cano de raio maior. Essa distância é garantida por um espaçador de metal, conforme a figura:
+
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F544%2Fa811db8a-bc24-cfef-41d9-0110cdcbd804.png?alt=media\&token=57e676d4-ddf6-409f-8c9b-8275814d57c9)
+
+Utilize 1,7 como aproximação para $\sqrt{3}$.
+
+O valor de R, em centímetros, é igual a
+
+# a
+64,0.
+
+# b
+65,5.
+
+# c
+74,0.
+
+# d
+81,0.
+
+# e
+91,0.
+
+# r
+c
+
+# s
+Do enunciado, tem-se a figura, cotada em cm.
+
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F544%2Fa89a70bc-b327-4ce1-dff1-24fe33885a76.png?alt=media\&token=e1a815d8-86f0-428b-b4c9-9ea8d4ee7915)
+
+No triângulo OAP, tem-se:
+
+$cos30º = \cfrac{AP}{OA}$
+
+$\cfrac{\sqrt{3}}{2} = \cfrac{30}{OA}$
+
+$OA = 20\sqrt{3}$
+
+Assim, a medida R, em centímetros, é dada por:
+
+R = OA + AD + DE
+
+$R = 20\sqrt{3} + 30 + 10$
+
+$R = 20 \cdot 1,7 + 30 + 10$
+
+$R = 74$

@@ -1,0 +1,41 @@
+# q
+Negrinha
+
+Negrinha era uma pobre órfã de sete anos. Preta? Não; fusca, mulatinha escura, de cabelos ruços e olhos assustados.
+
+Nascera na senzala, de mãe escrava, e seus primeiros anos vivera-os pelos cantos escuros da cozinha, sobre velha esteira e trapos imundos. Sempre escondida, que a patroa não gostava de crianças.
+
+Excelente senhora, a patroa. Gorda, rica, dona do mundo, amimada dos padres, com lugar certo na igreja e camarote de luxo reservado no céu. Entaladas as banhas no trono (uma cadeira de balanço na sala de jantar), ali bordava, recebia as amigas e o vigário, dando audiências, discutindo o tempo. Uma virtuosa senhora em suma – “dama de grandes virtudes apostólicas, esteio da religião e da moral”, dizia o reverendo.
+
+Ótima, a dona Inácia.
+
+Mas não admitia choro de criança. Ai! Punha-lhe os nervos em carne viva.
+
+\[...]
+
+A excelente dona Inácia era mestra na arte de judiar de crianças. Vinha da escravidão, fora senhora de escravos – e daquelas ferozes, amigas de ouvir cantar o bolo e estalar o bacalhau. Nunca se afizera ao regime novo – essa indecência de negro igual.
+
+LOBATO, M. Negrinha. In: MORICONE, I. Os cem melhores contos brasileiros do século. Rio de Janeiro: Objetiva, 2000 (fragmento).
+
+A narrativa focaliza um momento histórico-social de valores contraditórios. Essa contradição infere-se, no contexto, pela
+
+# a
+falta de aproximação entre a menina e a senhora, preocupada com as amigas.
+
+# b
+receptividade da senhora para com os padres, mas deselegante para com as beatas.
+
+# c
+ironia do padre a respeito da senhora, que era perversa com as crianças.
+
+# d
+resistência da senhora em aceitar a liberdade dos negros, evidenciada no final do texto.
+
+# e
+rejeição aos criados por parte da senhora, que preferia tratá-los com castigos.
+
+# r
+d
+
+# s
+A resistência de Dona Inácia em aceitar a libertação dos escravos fica evidente na passagem “Nunca se afizera ao regime novo – essa indecência de negro igual”. Frise-se a ironia de Monteiro Lobato, em relação não só aos atos cruéis da renitente escravocrata Dona Inácia, como também aos que viam nela “uma virtuosa senhora”, “esteio da religião e da moral”.

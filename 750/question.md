@@ -1,0 +1,35 @@
+# q
+     No Japão, um movimento nacional para a promoção da luta contra o aquecimento global leva o slogan: **1 pessoa, 1 dia, 1 kg de $\ce{CO2}$ a menos!** A ideia é cada pessoa reduzir em 1 kg a quantidade de CO2 emitida todo dia, por meio de pequenos gestos ecológicos, como diminuir a queima de gás de cozinha.
+
+**Um hamburguer ecológico? É pra já! **Disponível em: http://lqes.iqm.unicamp.br. Acesso em: 24 fev. 2012 (adaptado).
+
+Considerando um processo de combustão completa de um gás de cozinha composto exclusivamente por butano (C4H10), a mínima quantidade desse gás que um japonês deve deixar de queimar para atender à meta diária, apenas com esse gesto, é de
+
+Dados: **$\ce{CO2}$** (44 g/mol); $\ce{C4H10}$ (58 g/mol)
+
+# a
+0,25 kg.
+
+# b
+0,33 kg.
+
+# c
+1,0 kg.
+
+# d
+1,3 kg.
+
+# e
+3,0 kg.
+
+# r
+b
+
+# s
+$\ce{C4H10 +\cfrac{13}{2} O2 -> 4CO2 + 5H2O}$
+
+1mol                                     4mol\
+ 58g –––––––––––––– 4(44g)\
+     x –––––––––––––– 1kg
+
+$x = \cfrac{58g \cdot 1kg}{4 \cdot 44g} = 0,33kg$

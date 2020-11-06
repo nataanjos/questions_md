@@ -1,0 +1,27 @@
+# q
+Nós, brasileiros, estamos acostumados a ver juras de amor, feitas diante de Deus, serem quebradas por traição, interesses financeiros e sexuais. Casais se separam como inimigos, quando poderiam ser bons amigos, sem traumas. Bastante interessante a reportagem sobre separação. Mas acho que os advogados consultados, por sua competência, estão acostumados a tratar de grandes separações. Será que a maioria dos leitores da revista tem obras de arte que precisam ser fotografadas antes da separação? Não seria mais útil dar conselhos mais básicos? Não seria interessante mostrar que a separação amigável não interfere no modo de partilha dos bens? Que, seja qual for o tipo de separação, ela não vai prejudicar o direito à pensão dos filhos? Que acordo amigável deve ser assinado com atenção, pois é bastante complicado mudar suas cláusulas? Acho que essas são dicas que podem interessar ao leitor médio.
+
+Disponível em: http://revistaepoca.globo.com. Acesso em: 26 fev. 2012 (adaptado).
+
+O texto foi publicado em uma revista de grande circulação na seção de carta do leitor. Nele, um dos leitores manifestase acerca de uma reportagem publicada na edição anterior. Ao fazer sua argumentação, o autor do texto
+
+# a
+faz uma síntese do que foi abordado na reportagem.
+
+# b
+discute problemas conjugais que conduzem à separação.
+
+# c
+aborda a importância dos advogados em processos de separação
+
+# d
+oferece dicas para orientar as pessoas em processos de separação.
+
+# e
+rebate o enfoque dado ao tema pela reportagem, lançando novas ideias.
+
+# r
+e
+
+# s
+O autor da carta questiona o enfoque dado ao tema na reportagem, voltada para a situação de uma minoria (os casais com grandes recursos financeiros), e sugere uma abordagem do assunto que levasse em conta situações mais comuns, para as quais apresenta suas sugestões.

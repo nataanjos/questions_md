@@ -1,0 +1,32 @@
+# q
+**Obesidade causa doença**
+
+     A obesidade tornou-se uma epidemia global, segundo a Organização Mundial da Saúde, ligada à Organização das Nações Unidas. O problema vem atingindo um número cada vez maior de pessoas em todo o mundo, e entre as principais causas desse crescimento estão o modo de vida sedentário e a má alimentação.\
+     Segundo um médico especialista em cirurgia de redução de estômago, a taxa de mortalidade entre homens obesos de 25 a 40 anos é 12 vezes maior quando compa - rada à taxa de mortalidade entre indivíduos de peso normal. O excesso de peso e de gordura no corpo desenca deia e piora problemas de saúde que poderiam ser evitados. Em alguns casos, a boa notícia é que a perda de peso leva à cura, como no caso da asma, mas em outros, como o infarto, não há solução.
+
+FERREIRA, T. Disponível em: http://revistaépoca.globo .com. Acesso em: 2 ago. 2012 (adaptado).
+
+ 
+
+O texto apresenta uma reflexão sobre saúde e aponta o excesso de peso e de gordura corporal dos indivíduos como um problema, relacionando-o ao
+
+# a
+padrão estético, pois o modelo de beleza dominante na sociedade requer corpos magros.
+
+# b
+equilíbrio psíquico da população, pois esse quadro interfere na autoestima das pessoas.
+
+# c
+quadro clínico da população, pois a obesidade é um fator de risco para o surgimento de diversas doenças crônicas.
+
+# d
+preconceito contra a pessoa obesa, pois ela sofre discriminação em diversos espaços sociais.
+
+# e
+desempenho na realização das atividades cotidianas, pois a obesidade interfere na performance.
+
+# r
+c
+
+# s
+O texto afirma que o “excesso de peso e de gordura no corpo desencadeia e piora problemas de saúde que poderiam ser evitados”, sendo a obesidade, portanto, um fator de risco para o surgimento de diversas doenças crônicas, como afirma a alternativa c.

@@ -1,0 +1,37 @@
+# q
+Diante de ameaças surgidas com a engenharia genética de alimentos, vários grupos da sociedade civil conceberam o chamado “princípio da precaução”. O fundamento desse princípio é: quando uma tecnologia ou produto comporta alguma ameaça à saúde ou ao ambiente, ainda que não se possa avaliar a natureza precisa ou a magnitude do dano que venha a ser causado por eles, deve-se evitá-los ou deixá-los de quarentena para maiores estudos e avaliações antes de sua liberação.
+
+SEVCENKO, N. A corrida para o século XXI: no loop da montanha-russa. São Paulo: Cia. das Letras, 2001 (adaptado).
+
+O texto expõe uma tendência representativa do pensa - mento social contemporâneo, na qual o desenvolvimento de mecanismos de acautelamento ou administração de riscos tem como objetivo
+
+# a
+priorizar os interesses econômicos em relação aos seres humanos e à natureza.
+
+# b
+negar a perspectiva científica e suas conquistas por causa de riscos ecológicos.
+
+# c
+instituir o diálogo público sobre mudanças tecnoló - gicas e suas consequências.
+
+# d
+combater a introdução de tecnologias para travar o curso das mudanças sociais.
+
+# e
+romper o equilíbrio entre benefícios e riscos do avanço tecnológico e científico.
+
+# r
+C
+
+# s
+O texto se reporta à questão do “princípio da precaução”, relacionado com a engenharia genética dos alimentos e possíveis ameaças à saúde e ao ambiente, como tendências do pensamento social, e com a criação de mecanismos preventivos aos riscos possíveis. Trata-se, portanto, de estabelecer um diálogo público acerca das mudanças empreendidas pelo uso de tecnologias científicas e suas decorrentes consequências.
+
+**a) Incorreta.** O conteúdo dessa alternativa contradiz o princípio da precaução apontado pelo texto, uma vez que priorizar interesses econômicos significaria subjugar a saúde das pessoas e o meio ambiente.
+
+**b) Incorreta.** O princípio da precaução aparece justamente num contexto de desenvolvimento científico. Além disso, a alternativa trata apenas dos riscos ecológicos, enquanto o texto aborda também os riscos oferecidos às pessoas.
+
+**c) Correta.** A ideia de “instituir o diálogo público” está implícito no texto ao afirmar que, quando há dúvida sobre os danos de um produto ou tecnologia, “deve-se evitá-los ou deixá-los em quarentena para maiores estudos e avaliações”.
+
+**d) Incorreta.** As mudanças científicas de modo geral trazem um avanço, e não um travamento (como diz o texto da alternativa) do curso das mudanças sociais. Nesse sentido, não haveria razão de combater a introdução de novas tecnologias.
+
+**e) Incorreta.** Os mecanismos de acautelamento não tem por objetivo romper o equilíbrio entre os benefícios e riscos do avanço tecnológico, mas sim manter os benefícios e conter ou minimizar os riscos.

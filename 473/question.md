@@ -1,0 +1,31 @@
+# q
+Art. 2º Considera-se criança, para os efeitos desta Lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade. \[...]
+
+Art. 3º A criança e o adolescente gozam de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, assegurando-se-lhes, por lei ou por outros meios, todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento físico, mental, moral, espiritual e social, em condições de liberdade e de dignidade.
+
+Art. 4º É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária. \[...]
+
+BRASIL. Lei n. 8 069, de 13 de julho de 1990. Estatuto da criança e do adolescente. Disponível em: www.planalto.gov.br (fragmento).
+
+Para cumprir sua função social, o Estatuto da criança e do adolescente apresenta características próprias desse gênero quanto ao uso da língua e quanto à composição textual. Entre essas características, destaca-se o emprego de
+
+# a
+repetição vocabular para facilitar o entendimento.
+
+# b
+palavras e construções que evitem ambiguidade.
+
+# c
+expressões informais para apresentar os direitos.
+
+# d
+frases na ordem direta para apresentar as informações mais relevantes.
+
+# e
+exemplificações que auxiliem a compreensão dos conceitos formulados.
+
+# r
+b
+
+# s
+O Estatuto da Criança e do Adolescente é exemplo de um gênero textual bastante estável, próprio do universo jurídico — o texto de lei —, caracterizado por marcas linguísticas convencionais que lhe dão identidade. A denotação, o sentido preciso das palavras, o registro linguístico formal e construções frasais que evitem a ambiguidade são características do trecho do ECA, que o ajudam a cumprir sua função social de nortear direitos e deveres relativos a crianças e adolescentes no Brasil.

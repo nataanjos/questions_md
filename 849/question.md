@@ -1,0 +1,27 @@
+# q
+No Brasil, a condição cidadã, embora dependa da leitura e da escrita, não se basta pela enunciação do direito, nem pelo domínio desses instrumentos, o que, sem dúvida, viabiliza melhor participação social. A condição cidadã depende, seguramente, da ruptura com o ciclo da pobreza, que penaliza um largo contingente populacional.
+
+Formação de leitores e construção da cidadania, memória e presença do PROLER. Rio de Janeiro: FBN, 2008.
+
+Ao argumentar que a aquisição das habilidades de leitura e escrita não são suficientes para garantir o exercí- cio da cidadania, o autor
+
+# a
+critica os processos de aquisição da leitura e da escrita.
+
+# b
+fala sobre o domínio da leitura e da escrita no Brasil.
+
+# c
+incentiva a participação efetiva na vida da comunidade.
+
+# d
+faz uma avaliação crítica a respeito da condição cidadã do brasileiro.
+
+# e
+define instrumentos eficazes para elevar a condição social da população do Brasil
+
+# r
+d
+
+# s
+De acordo com o autor, leitura e escrita (ainda que viabilizem a participação social) são insuficientes para garantir a condição cidadã. Faz-se necessária, para o exercício da cidadania, a ruptura com o ciclo de pobreza que aflige grande parte da população brasileira. A análise global do texto permite verificar uma avaliação crítica sobre a condição cidadã no Brasil.

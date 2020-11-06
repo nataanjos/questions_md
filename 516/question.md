@@ -1,0 +1,27 @@
+# q
+A interface clima/sociedade pode ser considerada em termos de ajustamento à extensão e aos modos como as sociedades funcionam em uma relação harmônica com seu clima. O homem e suas sociedades são vulneráveis às variações climáticas. A vulnerabilidade é a medida pela qual uma sociedade é suscetível de sofrer por causas climáticas.
+
+AYOADE, J. O. Introdução a climatologia para os trópicos. Rio de Janeiro: Bertrand Brasil, 2010 (adaptado).
+
+Considerando o tipo de relação entre ser humano e condição climática apresentado no texto, uma sociedade torna-se mais vulnerável quando
+
+# a
+concentra suas atividades no setor primário.
+
+# b
+apresenta estoques elevados de alimentos.
+
+# c
+possui um sistema de transportes articulado.
+
+# d
+diversifica a matriz de geração de energia.
+
+# e
+introduz tecnologias à produção agrícola.
+
+# r
+a
+
+# s
+Alterações climáticas afetam diretamente populações cujas atividades econômicas vinculam-se ao meio natural, como é o caso das sociedades que concentram suas atividades no setor primário, embora avanços técnicos e tecnológicos tenham contribuído para diminuir sua vulnerabilidade frente às adversidades naturais.

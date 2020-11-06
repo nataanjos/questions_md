@@ -1,0 +1,33 @@
+# q
+Futebol: “A rebeldia é que muda o mundo”
+
+Conheça a história de Afonsinho, o primeiro jogador do futebol brasileiro a derrotar a cartolagem e a conquistar o Passe Livre, há exatos 40 anos
+
+Pelé estava se aposentando pra valer pela primeira vez, então com a camisa do Santos (porque depois voltaria a atuar pelo New York Cosmos, dos Estados Unidos), em 1972, quando foi questionado se, finalmente, sentia-se um homem livre. O Rei respondeu sem titubear: — Homem livre no futebol só conheço um: o Afonsinho. Este sim pode dizer, usando as suas palavras, que deu o grito de independência ou morte. Ninguém mais. O resto é conversa.
+
+Apesar de suas declarações serem motivo de chacota por parte da mídia futebolística e até dos torcedores brasileiros, o Atleta do Século acertou. E provavelmente acertaria novamente hoje. Pela admiração por um de seus colegas de clube daquele ano. Pelo reconhecimento do caráter e personalidade de um dos jogadores mais contestadores do futebol nacional. E principalmente em razão da história de luta — e vitória — de Afonsinho sobre os cartolas.
+
+ANDREUCCI, R. Disponível em: http://carosamigos.terra.com.br. Acesso em: 19 ago. 2011.
+
+O autor utiliza marcas linguísticas que dão ao texto um caráter informal. Uma dessas marcas é identificada em:
+
+# a
+“\[...] o Atleta do Século acertou.”
+
+# b
+“O Rei respondeu sem titubear \[...]”.
+
+# c
+“E provavelmente acertaria novamente hoje.”
+
+# d
+“Pelé estava se aposentando pra valer pela primeira vez \[...]”.
+
+# e
+“Pela admiração por um de seus colegas de clube daquele ano.”
+
+# r
+d
+
+# s
+De todas as alternativas apresentadas pela banca, a única que inequivocamente apresenta uma expressão de caráter informal é a D. A expressão “pra valer”, que corresponderia a “seriamente”, confere esse caráter informal logo no início do texto.

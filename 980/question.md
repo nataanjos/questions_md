@@ -1,0 +1,59 @@
+# q
+Opinião
+
+Podem me prender
+
+Podem me bater
+
+Podem até deixar-me sem comer
+
+Que eu não mudo de opinião.
+
+ Aqui do morro eu não saio não
+
+Aqui do morro eu não saio não.
+
+Se não tem água
+
+Eu furo um poço
+
+Se não tem carne
+
+Eu compro um osso e ponho na sopa
+
+E deixa andar, deixa andar...
+
+Falem de mim
+
+Quem quiser falar
+
+Aqui eu não pago aluguel
+
+Se eu morrer amanhã seu doutor,
+
+Estou pertinho do céu
+
+Zé Ketti. Opinião. Disponível em: http:/www.mpbnet.com.br. Acesso em: 28 abr. 2010.
+
+Essa música fez parte de um importante espetáculo teatral que estreou no ano de 1964, no Rio de Janeiro. O papel exercido pela Música Popular Brasileira (MPB) nesse contexto, evidenciado pela letra de música citada, foi o de
+
+# a
+entretenimento para os grupos intelectuais.
+
+# b
+valorização do progresso econômico do país.
+
+# c
+crítica à passividade dos setores populares.
+
+# d
+denúncia da situação social e política do país.
+
+# e
+mobilização dos setores que apoiavam a Ditadura Militar.
+
+# r
+d
+
+# s
+Com o golpe político-militar, deflagrado em março de 1964, a música popular brasileira passa a ser veículo de protesto com suas letras metaforizadas. A letra da música “Opinião” denuncia claramente a situação social, sobretudo no Rio de Janeiro, expressa nos versos “Se não tem água”, “Se não tem carne”, e a situação política do país, caracterizada pela repressão, abordada nos versos “Podem me prender”, “Podem me bater”.

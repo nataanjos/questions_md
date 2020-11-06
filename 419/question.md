@@ -1,0 +1,25 @@
+# q
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F419%2Fac47bf70-4115-e047-0c75-e5678d2f19d7.png?alt=media\&token=b1154044-7737-4056-81d6-24fced30af4d)
+
+*Na imagem, visualiza-se um método de cultivo e as transformações provocadas no espaço geográco. O objetivo i**mediato da técnica agrícola utilizada é*
+
+# a
+*controlar a erosão laminar.*
+
+# b
+*preservar as nascentes -uviais.*
+
+# c
+*diminuir a contaminação química.*
+
+# d
+*incentivar a produção transgênica.*
+
+# e
+*implantar a mecanização intensiva.*
+
+# r
+a
+
+# s
+A ilustração mostra a técnica agrícola do terraceamento, utilizada para diminuir a erosão laminar em áreas de alta declividade, graças à construção de rampas niveladas que diminuem a velocidade do escoamento superficial da água. Vale ressaltar que a implantação dessa forma de cultivo requer conhecimento técnico e baixa utilização de máquinas, devido às dificuldades impostas pela declividade do relevo.

@@ -1,0 +1,30 @@
+# q
+     Ao se apossarem do novo território, os europeus ignoraram um universo de antiga sabedoria, povoado por homens e bens unidos por um sistema integrado. A recusa em se inteirar dos valores culturais dos primeiros habitantes levou-os a uma descrição simplista desses grupos e à sua sucessiva destruição.\
+     Na verdade, não existe uma distinção entre a nossa arte e aquela produzida por povos tecnicamente menos desenvolvidos. As duas manifestações devem ser encaradas como expressões diferentes dos modos de sentir e pensar das várias sociedades, mas também como equivalentes, por resultarem de impulsos humanos comuns.
+
+SCATAMACHIA, M. C. M. In: AGUILAR, N. (Org.).** Mostra do redescobrimento**: arqueologia. São Paulo: Fundação Bienal de São Paulo – Associação Brasil 500 anos artes visuais, 2000.
+
+ 
+
+De acordo com o texto, inexiste distinção entre as artes produzidas pelos colonizadores e pelos colonizados, pois ambas compartilham o(a)
+
+# a
+suporte artístico.
+
+# b
+nível tecnológico.
+
+# c
+base antropológica.
+
+# d
+concepção estética.
+
+# e
+referencial temático.
+
+# r
+c
+
+# s
+Segundo o texto, a arte dos povos considerados mais e menos desenvolvidos resulta “de impulsos humanos comuns”, ou seja, ele tem origem em uma mesma base antro pológica.

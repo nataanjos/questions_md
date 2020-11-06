@@ -1,0 +1,27 @@
+# q
+A língua de que usam, por toda a costa, carece de três letras; convém a saber, não se acha nela F, nem L, nem R, coisa digna de espanto, porque assim não têm Fé, nem Lei, nem Rei, e dessa maneira vivem desordenadamente, sem terem além disto conta, nem peso, nem medida.
+
+GÂNDAVO, P M. A primeira história do Brasil: história da província de Santa Cruz a que vulgarmente chamamos Brasil. Rio de Janeiro: Zahar, 2004 (adaptado).
+
+A observação do cronista português Pero de Magalhães de Gândavo, em 1576, sobre a ausência das letras F, L e R na língua mencionada, demonstra a
+
+# a
+simplicidade da organização social das tribos brasilei - ras.
+
+# b
+dominação portuguesa imposta aos índios no início da colonização.
+
+# c
+superioridade da sociedade europeia em relação à sociedade indígena.
+
+# d
+incompreensão dos valores socioculturais indígenas pelos portugueses.
+
+# e
+dificuldade experimentada pelos portugueses no apren - dizado da língua nativa.
+
+# r
+d
+
+# s
+Questão recorrente em exames vestibulares, alusiva à incompreensão dos europeus para com os habitantes do Novo Mundo. Nesse choque de culturas, tendia a prevalecer o enfoque etnocêntrico dos colonizadores, defensores da civilização “europeia” em face da barbárie dos gentios (pagãos).

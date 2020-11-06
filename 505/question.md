@@ -1,0 +1,29 @@
+# q
+De repente, sente-se uma vibração que aumenta rapidamente; lustres balançam, objetos se movem sozinhos e somos invadidos pela estranha sensação de medo do imprevisto. Segundos parecem horas, poucos minutos são uma eternidade. Estamos sentindo os efeitos de um terremoto, um tipo de abalo sísmico.
+
+ASSAD, L. Os (não tão) imperceptíveis movimentos da Terra. ComCiência: Revista Eletrônica de Jornalismo Científico, n. 117, abr. 2010. Disponível em: http://comciencia.br. Acesso em: 2 mar. 2012.
+
+O fenômeno físico descrito no texto afeta intensamente as populações que ocupam espaços próximos às áreas de
+
+# a
+alívio da tensão geológica.
+
+# b
+desgaste da erosão superficial.
+
+# c
+atuação do intemperismo químico.
+
+# d
+formação de aquíferos profundos.
+
+# e
+acúmulo de depósitos sedimentares.
+
+# r
+a
+
+# s
+Os abalos sísmicos são uma consequência do alívio da tensão geológica, vinculados normalmente aos movimentos das placas tectônicas.
+
+Esse alívio da tensão se intensifica próximo ao limite das placas, onde a liberação de energia acontece de maneira mais eficiente.

@@ -1,0 +1,45 @@
+# q
+Manta que costura causos e histórias no seio de uma família serve de metáfora da memória em obra escrita por autora portuguesa
+
+O que poderia valer mais do que a manta para aquela família? Quadros de pintores famosos? Joias de rainha? Palácios? Uma manta feita de centenas de retalhos de roupas velhas aquecia os pés das crianças e a memória da avó, que a cada quadrado apontado por seus netos resgatava de suas lembranças uma história. Histórias fantasiosas como a do vestido com um bolso que abrigava um gnomo comedor de biscoitos; histórias de traquinagem como a do calção transformado em farrapos no dia em que o menino, que gostava de andar de bicicleta de olhos fechados, quebrou o braço; histórias de saudades, como o avental que carregou uma carta por mais de um mês... Muitas histórias formavam aquela manta. Os protagonistas eram pessoas da família, um tio, uma tia, o avô, a bisavó, ela mesma, os antigos donos das roupas. Um dia, a avó morreu, e as tias passaram a disputar a manta, todas a queriam, mais do que aos quadros, joias e palácios deixados por ela. Felizmente, as tias conseguiram chegar a um acordo, e a manta passou a ficar cada mês na casa de uma delas. E os retalhos, à medida que iam se acabando, eram substituídos por outros retalhos, e novas e antigas histórias foram sendo incorporadas à manta mais valiosa do mundo.
+
+LASEVICIUS, A. Língua Portuguesa, São Paulo, n. 76, 2012 (adaptado).
+
+A autora descreve a importância da manta para aquela família, ao verbalizar que “novas e antigas histórias foram sendo incorporadas à manta mais valiosa do mundo”. Essa valorização evidencia-se pela
+
+# a
+oposição entre os objetos de valor, como joias, palácios e quadros, e a velha manta.
+
+# b
+descrição detalhada dos aspectos físicos da manta, como cor e tamanho dos retalhos.
+
+# c
+valorização da manta como objeto de herança familiar disputado por todos.
+
+# d
+comparação entre a manta que protege do frio e a manta que aquecia os pés das crianças.
+
+# e
+correlação entre os retalhos da manta e as muitas histórias de tradição oral que os formavam.
+
+# r
+e
+
+# s
+RESPOSTA OFICIAL DO ENEM E
+
+O fato de aquela família desejar mais a manta do que joias, palácios e quadros evidencia que ela é a manta mais valiosa do mundo.
+
+Observação:
+
+A decisão final pela A foi tomada com base nos seguintes argumentos:
+
+• O comando nuclear da questão vem exposto neste enunciado: “Essa valorização evidencia-se pela…”.
+
+• O anafórico “essa” não deixa dúvida: “valorização” tem como referência a “importância” que a família atribuía à manta.
+
+• O texto e o próprio enunciado da questão fazem uso da comparação para pôr em evidência a superlativa “importância” (ou “valorização”) da manta: “a manta mais valiosa do mundo”.
+
+• Considerou-se que “evidenciar”, a partir da sua etimologia, tem o sentido de fazer saltar à “vista”, manifestar uma clareza que se impõe ao olhar, exibir como irrefutável…
+
+Em vista desse encadeamento argumentativo, nenhuma das alternativas “evidencia” melhor a maior valorização da velha manta do que aquela que a considera “a mais valiosa do mundo”, até mesmo acima de objetos de valor proverbial, como “quadros de pintores famosos, joias de rainha, palácios”.

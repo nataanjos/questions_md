@@ -1,0 +1,37 @@
+# q
+Para Carr, internet atua no comércio da distração
+
+Autor de “A Geração Superficial” analisa a influência da tecnologia na mente
+
+O jornalista americano Nicholas Carr acredita que a internet não estimula a inteligência de ninguém. O autor explica descobertas científicas sobre o funcionamento do cérebro humano e teoriza sobre a influência da internet em nossa forma de pensar.
+
+Para ele, a rede torna o raciocínio de quem navega mais raso, além de fragmentar a atenção de seus usuários.
+
+Mais: Carr afirma que há empresas obtendo lucro com a recente fragilidade de nossa atenção. “Quanto mais tempo passamos on-line e quanto mais rápido passamos de uma informação para a outra, mais dinheiro as empresas de internet fazem”, avalia.
+
+“Essas empresas estão no comércio da distração e são experts em nos manter cada vez mais famintos por informação fragmentada em partes pequenas. É claro que elas têm interesse em nos estimular e tirar vantagem da nossa compulsão por tecnologia.”
+
+ROXO, E. Folha de S. Paulo, 18 fev. 2012 (adaptado).
+
+A crítica do jornalista norte-americano que justifica o título do texto é a de que a internet
+
+# a
+mantém os usuários cada vez menos preocupados com a qualidade da informação.
+
+# b
+torna o raciocínio de quem navega mais raso, além de fragmentar a atenção de seus usuários.
+
+# c
+desestimula a inteligência, de acordo com descobertas científicas sobre o cérebro.
+
+# d
+influencia nossa forma de pensar com a superficialidade dos meios eletrônicos.
+
+# e
+garante a empresas a obtenção de mais lucro com a recente fragilidade de nossa atenção.
+
+# r
+e
+
+# s
+Nos dois primeiros parágrafos, o jornalista apresenta a tese de que “a internet não estimula a inteligência de ninguém.”. A causa desse mal está fundamentada nos dois últimos parágrafos, em que o próprio Nicholas Carr denuncia que haveria empresas obtendo lucro com a fragilidade de nossa atenção, justificando o título do texto.

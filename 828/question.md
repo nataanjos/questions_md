@@ -1,0 +1,35 @@
+# q
+El tango
+
+Ya sea como danza, música, poesía o cabal expresión de una filosofía de vida, el tango posee una larga y valiosa trayectoria, jalonada de encuentros y desencuentros, amores y odios, nacida desde lo más hondo de la historia argentina.
+
+El nuevo ambiente es el cabaret, su nuevo cultor la clase media porteña, que ameniza sus momentos de diversión con nuevas composiciones, sustituyendo el carácter malevo del tango primitivo por una nueva poesía más acorde con las concepciones estéticas provenientes de Londres y París.
+
+Ya en la década del ’20 el tango se anima incluso a traspasar las fronteiras del país, recalando en lujosos salones parisinos donde es aclamado por públicos selectos que adhieren entusiastas a la sensualidad del nuevo baile. Ya no es privativo de los bajos fondos porteños; ahora se escucha y se baila en salones elegantes, clubs y casas particulares.
+
+El tango revive con juveniles fuerzas en ajironadas versiones de grupos rockeros, presentaciones en elegantes reductos de San Telmo, Barracas y La Boca y películas foráneas que lo divulgan por el mundo entero.
+
+Disponível em: http://www.elpolvorin.over-blog.es. Acesso em: 22 jun. 2011 (adaptado).
+
+Sabendo-se que a produção cultural de um país pode influenciar, retratar ou, inclusive, ser reflexo de acontecimentos de sua história, o tango, dentro do contexto histórico argentino, é reconhecido por
+
+# a
+manter-se inalterado ao longo de sua história no país.
+
+# b
+influenciar os subúrbios, sem chegar a outras regiões.
+
+# c
+sobreviver e se difundir, ultrapassando as fronteiras do país.
+
+# d
+manifestar seu valor primitivo nas diferentes camadas sociais.
+
+# e
+ignorar a influência de países europeus, como Inglaterra e França.
+
+# r
+c
+
+# s
+O texto informa sobre a origem do tango, na Argentina, e sobre as influências e transformações que ele sofreu, ultrapassando as fronteiras para chegar a ser aclamado inclusive na Europa.

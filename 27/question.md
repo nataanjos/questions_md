@@ -1,0 +1,29 @@
+# q
+     Embora particularidades na produção mediada pela tecnologia aproximem a escrita da oralidade, isso não significa que as pessoas estejam escrevendo errado. Muitos buscam, tão somente, adaptar o uso da linguagem ao suporte utilizado: “O contexto é que define o registro de língua. Se existe um limite de espaço, naturalmente, o sujeito irá usar mais abreviaturas, como faria no papel”, afirma um professor do Departamento de Linguagem e Tecnologia do Cefet-MG. Da mesma forma, é preciso considerar a capacidade do destinatário de interpretar corretamente a mensagem emitida. No entendimento do pesquisador, a escola, às vezes, insiste em ensinar um registro utilizado apenas em contextos específicos, o que acaba por desestimular o aluno, que não vê sentido em empregar tal modelo em outras situações. Independentemente dos aparatos tecnológicos da atualidade, o emprego social da língua revela-se muito mais significativo do que seu uso escolar, conforme ressalta a diretora de Divulgação Científica da UFMG: “A dinâmica da língua oral é sempre presente. Não falamos ou escrevemos da mesma forma que nossos avós”. Some-se a isso o fato de os jovens se revelarem os principais usuários das novas tecnologias, por meio das quais conseguem se comunicar com facilidade. A professora ressalta, porém, que as pessoas precisam ter discernimento quanto às distintas situações, a fim de dominar outros códigos.
+
+SILVA JR.: M. G.; FONSECA. V. **Revista Minas Faz Ciência**, n. 51, set.-nov. 2012 (adaptado).
+
+ 
+
+Na esteira do desenvolvimento das tecnologias de informação e de comunicação, usos particulares da escrita foram surgindo. Diante dessa nova realidade, segundo o texto, cabe à escola levar o aluno a
+
+# a
+interagir por meio da linguagem formal no contexto digital.
+
+# b
+buscar alternativas para estabelecer melhores contatos on-line.
+
+# c
+adotar o uso de uma mesma norma nos diferentes suportes tecnológicos.
+
+# d
+desenvolver habilidades para compreender os textos postados na web.
+
+# e
+perceber as especificidades das linguagens em diferentes ambientes digitais.
+
+# r
+e
+
+# s
+O texto apresenta uma crítica à escola, que, vez por outra, tradicionalmente “insiste em ensinar um registro utilizado apenas em contextos específicos”. O artigo passa a defender que “as pessoas precisam ter discernimento quanto às distintas situações” de utilização da língua. Dessa forma, veicula-se a tese de que a escola tem que explorar as novas realidades linguísticas, principalmente as digitais.

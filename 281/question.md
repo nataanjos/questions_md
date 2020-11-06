@@ -1,0 +1,27 @@
+# q
+Alguns sistemas de segurança incluem detectores de movimento. Nesses sensores, existe uma substância que se polariza na presença de radiação eletromagnética de certa região de frequência, gerando uma tensão que pode ser amplificada e empregada para efeito de controle. Quando uma pessoa se aproxima do sistema, a radiação emitida por seu corpo é detectada por esse tipo de sensor.
+
+WENDLING, M. Sensores. Disponível em: www2.feg.unesp.br. Acesso em: 7 maio 2014 (adaptado).
+
+A radiação captada por esse detector encontra-se na região de frequência
+
+# a
+da luz visível.
+
+# b
+do ultravioleta.
+
+# c
+do infravermelho.
+
+# d
+das micro-ondas.
+
+# e
+das ondas longas de rádio.
+
+# r
+c
+
+# s
+A radiação emitida por seres humanos e captada pelos detectores dos sistemas de segurança é o infravermelho.

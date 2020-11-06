@@ -1,0 +1,65 @@
+# q
+Cabra sola
+
+Hay quien dice que soy como la cabra;
+
+Lo dicen lo repiten, ya lo creo;
+
+Pero soy una cabra muy extraña
+
+Que lleva una medalla y siete cuernos.
+
+¡Cabra! En vez de mala leche yo soy llanto.
+
+¡Cabra! Por lo más peligroso me paseo.
+
+¡Cabra! Me llevo bien con alimañas todas,
+
+¡Cabra! Y escribo en los tebeos.
+
+Vivo sola, cabra sola,
+
+— que no quise cabrito en compañía —
+
+cuando subo a lo alto de este valle
+
+siempre encuentro un lirio de alegría.
+
+Y vivo por mi cuenta, cabra sola;
+
+Que yo a ningún rebaño pertenezco.
+
+Si sufrir es estar como una cabra,
+
+Entonces sí lo estoy, no dudar de ello.
+
+FUERTES, G. Poeta de guardia. Barcelona: Lumen, 1990.
+
+No poema, o eu lírico se compara à cabra e no quinto verso utiliza a expressão “mala leche” para se autorrepresentar como uma pessoa
+
+# a
+influenciável pela opinião das demais.
+
+# b
+consciente de sua diferença perante as outras.
+
+# c
+conformada por não pertencer a nenhum grupo.
+
+# d
+corajosa diante de situações arriscadas.
+
+# e
+capaz de transformar mau humor em pranto.
+
+# r
+e
+
+# s
+RESPOSTA OFICIAL ENEM E
+
+Texto poético que retrata a consciência do “eu lírico” de ser diferente às demais pessoas. (“Pero soy una cabra muy extraña”, verso 3 e “En vez de mala leche yo soy llanto”, verso 5). Esse último verso, retomado na questão, apenas sintetiza a consciência de ser distinto dos demais.
+
+Observação:
+
+O poema retrata um “eu lírico” distinto das demais pessoas e tem consciência desta sua diferença. Não poderíamos assinalar a alternativa E, porque não está especificado no verso 5 (En vez de mala leche yo doy llanto) que o “eu lírico” transforma o mau humor em pranto, mas que naturalmente e por ser diferente ele dá o pranto ao invés de mau humor, que o diferencia das demais pessoas. Não existe transformação, é natural e, portanto, é distinto. A alternativa que mais se aproxima é a alternativa B.

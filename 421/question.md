@@ -1,0 +1,29 @@
+# q
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F421%2F2efccc40-593d-1730-f7a9-a2e8b5513c15.png?alt=media\&token=74b278d4-e1f0-4812-9cab-007af9afd775)
+
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F421%2F5cd696a0-20f4-c64f-3a3c-722e69a304ee.png?alt=media\&token=db25a0af-8afd-469f-a3cf-759c3f54132e)
+
+*As imagens, que retratam D. Pedro I e D. Pedro II, procuram transmitir determinadas representações políticas **acerca dos dois monarcas e seus contextos de atuação. A ideia que cada imagem evoca é, respectivamente:*
+
+# a
+*Habilidade militar — riqueza pessoal.*
+
+# b
+*Liderança popular — estabilidade política.*
+
+# c
+*Instabilidade econômica — herança europeia.*
+
+# d
+*Isolamento político — centralização do poder.*
+
+# e
+*Nacionalismo exarcebado — inovação administrativa.*
+
+# r
+b
+
+# s
+A primeira imagem revela um D. Pedro I em primeiro plano, ao centro e acima dos demais personagens representados, entre eles muitos populares, realçando o aspecto de liderança do processo de independência.
+
+Já a segunda revela um D. Pedro II mais velho e sereno, aparentando a sabedoria necessária para a condução do processo político e suas nuances.

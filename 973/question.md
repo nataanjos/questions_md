@@ -1,0 +1,27 @@
+# q
+Em nosso país queremos substituir o egoísmo pela moral, a honra pela probidade, os usos pelos princípios, as conveniências pelos deveres, a tirania da moda pelo império da razão, o desprezo à desgraça pelo desprezo ao vício, a insolência pelo orgulho, a vaidade pela grandeza de alma, o amor ao dinheiro pelo amor à glória, a boa companhia pelas boas pessoas, a intriga pelo mérito, o espirituoso pelo gênio, o brilho pela verdade, o tédio da volúpia pelo encanto da felicidade, a mesquinharia dos grandes pela grandeza do homem.
+
+HUNT, L. Revolução Francesa e Vida Privada, in: PERROT, M. (Org). História da Vida Privada: da Revolução Francesa à Primeira Guerra. Vol. 4. São Paulo: Companhia das Letras, 1991 (adaptado).
+
+O discurso de Robespierre, de 5 de fevereiro de 1794, do qual o trecho transcrito é parte, relaciona-se a qual dos grupos político-sociais envolvidos na Revolução Francesa?
+
+# a
+À alta burguesia, que desejava participar do poder legislativo francês como força política dominante.
+
+# b
+Ao clero francês, que desejava justiça social e era ligado à alta burguesia.
+
+# c
+A militares oriundos da pequena e média burguesia, que derrotaram as potências rivais e queriam reorganizar a França internamente.
+
+# d
+À nobreza esclarecida, que, em função do seu contato com os intelectuais iluministas, desejava extinguir o absolutismo francês.
+
+# e
+Aos representantes da pequena e média burguesia e das camadas populares, que desejavam justiça social e direitos políticos.
+
+# r
+e
+
+# s
+O discurso de Robespierre caracteriza o pensamento jacobino do período da Convenção Nacional, no contexto da Revolução Francesa. Opondo-se às concepções liberais da alta burguesia, que entendiam democracia como mero direito à propriedade, os jacobinos entendiam-na como garantia de justiça social e direitos políticos, estendendo as transformações revolucionárias para a maioria da população.

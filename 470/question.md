@@ -1,0 +1,35 @@
+# q
+Querô
+
+DELEGADO — Então desce ele. Vê o que arrancam desse sacana.
+
+SARARÁ — Só que tem um porém. Ele é menor.
+
+DELEGADO — Então vai com jeito. Depois a gente entrega pro juiz. (Luz apaga no delegado e acende no repórter, que se dirige ao público.)
+
+REPÓRTER — E o Querô foi espremido, empilhado, esmagado de corpo e alma num cubículo imundo, com outros meninos. Meninos todos espremidos, empilhados, esmagados de corpo e alma, alucinados pelos seus desesperos, cegados por muitas aflições. Muitos meninos, com seus desesperos e seus ódios, empilhados, espremidos, esmagados de corpo e alma no imundo cubículo do reformatório. E foi lá que o Querô cresceu.
+
+MARCOS, P. Melhor teatro. São Paulo: Global, 2003 (fragmento).
+
+No discurso do repórter, a repetição causa um efeito de sentido de intensificação, construindo a ideia de
+
+# a
+opressão física e moral, que gera rancor nos meninos.
+
+# b
+repressão policial e social, que gera apatia nos meninos.
+
+# c
+polêmica judicial e midiática, que gera confusão entre os meninos.
+
+# d
+concepção educacional e carcerária, que gera comoção nos meninos.
+
+# e
+informação crítica e jornalística, que gera indignação entre os meninos.
+
+# r
+a
+
+# s
+A expressão “de corpo e alma”, que se repete associada aos adjetivos “espremido”, “empilhado” e “esmagado”, só pode sugerir que a opressão em questão é de natureza física (“corpo”) e moral (“alma”).

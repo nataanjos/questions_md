@@ -1,0 +1,33 @@
+# q
+Christiaan Huygens, em 1656, criou o relógio de pêndulo. Nesse dispositivo, a pontualidade baseia-se na regularidade das pequenas oscilações do pêndulo. Para manter a precisão desse relógio, diversos problemas foram contornados. Por exemplo, a haste passou por ajustes até que, no início do século XX, houve uma inovação, que foi sua fabricação usando uma liga metálica que se comporta regularmente em um largo intervalo de temperaturas.
+
+YODER, J. G. Unrolling Time: Christiaan Huygens and the mathematization of nature. Cambridge: Cambridge University Press, 2004 (adaptado).
+
+Desprezando a presença de forças dissipativas e considerando a aceleração da gravidade constante, para que esse tipo de relógio realize corretamente a contagem do tempo, é necessário que o(a)
+
+# a
+comprimento da haste seja mantido constante
+
+# b
+massa do corpo suspenso pela haste seja pequena.
+
+# c
+material da haste possua alta condutividade térmica.
+
+# d
+amplitude da oscilação seja constante a qualquer temperatura.
+
+# e
+energia potencial gravitacional do corpo suspenso se mantenha constante
+
+# r
+a
+
+# s
+A marcação do tempo num relógio de pêndulo está atrelada ao período das oscilações da massa pendular. Para oscilações de pequena amplitude, o período pode ser calculado por meio da expressão:
+
+$T = 2\pi \sqrt{\cfrac{l}{g}}$
+
+Para a contagem correta do tempo, o período das oscilações deve se manter constante.
+
+Para tal, uma vez que a aceleração da gravidade (g) é constante, o comprimento da haste (C) deve ser mantido constante.

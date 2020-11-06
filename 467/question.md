@@ -1,0 +1,29 @@
+# q
+Jogar limpo
+
+Argumentar não é ganhar uma discussão a qualquer preço. Convencer alguém de algo é, antes de tudo, uma alternativa à prática de ganhar uma questão no grito ou na violência física — ou não física. Não física, dois pontos. Um político que mente descaradamente pode cativar eleitores. Uma publicidade que joga baixo pode constranger multidões a consumir um produto danoso ao ambiente. Há manipulações psicológicas não só na religião. E é comum pessoas agirem emocionalmente, porque vítimas de ardilosa — e cangoteira — sedução. Embora a eficácia a todo preço não seja argumentar, tampouco se trata de admitir só verdades científicas — formar opinião apenas depois de ver a demonstração e as evidências, como a ciência faz. Argumentar é matéria da vida cotidiana, uma forma de retórica, mas é um raciocínio que tenta convencer sem se tornar mero cálculo manipulativo, e pode ser rigoroso sem ser científico.
+
+Língua Portuguesa, São Paulo, ano 5, n. 66, abr. 2011 (adaptado).
+
+No fragmento, opta-se por uma construção linguística bastante diferente em relação aos padrões normalmente empregados na escrita. Trata-se da frase “Não física, dois pontos”. Nesse contexto, a escolha por se representar por extenso o sinal de pontuação que deveria ser utilizado
+
+# a
+enfatiza a metáfora de que o autor se vale para desenvolver seu ponto de vista sobre a arte de argumentar.
+
+# b
+diz respeito a um recurso de metalinguagem, evidenciando as relações e as estruturas presentes no enunciado.
+
+# c
+é um recurso estilístico que promove satisfatoriamente a sequenciação de ideias, introduzindo apostos exemplificativos.
+
+# d
+ilustra a flexibilidade na estruturação do gênero textual, a qual se concretiza no emprego da linguagem conotativa.
+
+# e
+prejudica a sequência do texto, provocando estranheza no leitor ao não desenvolver explicitamente o raciocínio a partir de argumentos.
+
+# r
+c
+
+# s
+Ao empregar “dois-pontos” por extenso, e não o sinal de pontuação convencional (“:”), o autor chama a atenção, por meio desse recurso estilístico, para a função expressiva do sinal, que é a de explicar o termo anterior. No caso, o autor quer deixar claro que não se trata de violência física, mas psicológica e emocional. Por isso, ao enfatizar os “dois-pontos” (fugindo ao padrão gramatical), apresenta termos que explicam, esclarecem essa ideia (logo, com função apositiva).

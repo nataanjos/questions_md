@@ -1,0 +1,27 @@
+# q
+Quando adolescente, as nossas tardes, após as aulas, consistiam em tomar às mãos o violão e o dicionário de acordes de Almir Chediak e desafiar nosso amigo Hamilton a descobrir, apenas ouvindo o acorde, quais notas eram escolhidas. Sempre perdíamos a aposta, ele possui o ouvido absoluto. O ouvido absoluto é uma característica perceptual de poucos indivíduos capazes de identifcar notas isoladas sem outras referências, isto é, sem precisar relacioná-las com outras notas de uma melodia.
+
+LENT, R. O cérebro do meu professor de acordeão. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 15 ago. 2012 (adaptado).
+
+No contexto apresentado, a propriedade física das ondas que permite essa distinção entre as notas é a
+
+# a
+frequência.
+
+# b
+intensidade.
+
+# c
+forma da onda.
+
+# d
+amplitude da onda.
+
+# e
+velocidade de propagação.
+
+# r
+a
+
+# s
+A propriedade física que permite identifcar notas musicais diferentes é a frequência da onda sonora.

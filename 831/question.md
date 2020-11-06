@@ -1,0 +1,25 @@
+# q
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F831%2Ff77bea03-57b5-7842-36b6-40ebe9f39bd1.png?alt=media\&token=e63cc6a3-af33-4134-9d9c-2cd64e2dd64f)
+
+Os amigos são um dos principais indicadores de bem-estar na vida social das pessoas. Da mesma forma que em outras áreas, a internet também inovou as maneiras de vivenciar a amizade. Da leitura do infográfico, depreendem-se dois tipos de amizade virtual, a simétrica e a assimétrica, ambas com seus prós e contras. Enquanto a primeira se baseia na relação de reciprocidade, a segunda
+
+# a
+reduz o número de amigos virtuais, ao limitar o acesso à rede.
+
+# b
+parte do anonimato obrigatório para se difundir
+
+# c
+reforça a configuração de laços mais profundos de amizade
+
+# d
+facilita a interação entre pessoas em virtude de interesses comuns.
+
+# e
+tem a responsabilidade de promover a proximidade física.
+
+# r
+d
+
+# s
+O infográfico da revista Superinteressante apresenta como um motivo em favor da amizade assimétrica o seguinte enunciado: “torna muito mais fácil a formação de laços e comunidades”. Como as comunidades da internet se organizam em torno de interesses comuns, conclui-se que a amizade assimétrica “facilita a interação entre pessoas em virtude de interesses comuns”, tal como se afirma na alternativa D.

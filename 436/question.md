@@ -1,0 +1,33 @@
+# q
+National Geographic News
+
+Christine Dell’ Amore
+
+Published April 26, 2010
+
+Our bodies produce a small steady amount of natural morphine, a new study suggests. Traces of the chemical are often found in mouse and human urine, leading scientists to wonder whether the drug is being made naturally or being delivered by something the subjects consumed. The new research shows that mice produce the “incredible painkiller”— and that humans and other mammals possess the same chemical road map for making it, said study co-author Meinhart Zenk, who studies plant-based pharmaceuticals at the Donald Danforth Plant Science Center in St. Louis, Missouri.
+
+Disponível em: www.nationalgeographic.com. Acesso em: 27 jul. 2010.
+
+Ao ler a matéria publicada na National Geographic para a realização de um trabalho escolar, um estudante descobriu que
+
+# a
+os compostos químicos da morna, produzidos por humanos, são manipulados no Missouri.
+
+# b
+os ratos e os humanos possuem a mesma via metabólica para produção de morfina.
+
+# c
+a produção de morfina em grande quantidade minimiza a dor em ratos e humanos.
+
+# d
+os seres humanos têm uma predisposição genética para inibir a dor.
+
+# e
+a produção de morfina é um traço incomum entre os animais.
+
+# r
+b
+
+# s
+Lê-se no trecho “...and that humans and other mammals possess the same chemical road map for making it...” O “incrível analgésico” produzido pelos ratos, a que o texto se refere, é a morfina. Os humanos e outros mamíferos possuem o mesmo mapa químico para a sua produção.

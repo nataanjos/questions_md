@@ -1,0 +1,39 @@
+# q
+     Uma empresa de telefonia fixa oferece dois planos aos seus clientes: no plano K, o cliente paga R$ 29,90 por 200 minutos mensais e R$ 0,20 por cada minuto excedente; no plano Z, paga R$ 49,90 por 300 minutos mensais e R$ 0,10 por cada minuto excedente.
+
+O gráfico que representa o valor pago, em reais, nos dois planos em função dos minutos utilizados é
+
+# a
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F901%2Fd626c985-b1c9-caa4-7079-4bcb0abe9f30.png?alt=media\&token=7917ccaa-e3f9-4f0e-9314-7966ac9d2650)
+
+# b
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F901%2Fa9b49b51-95ce-44d9-00f7-b1cc5c18e3be.png?alt=media\&token=c5f8e349-80b2-4826-8594-c4c23ce83fc6)
+
+# c
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F901%2Fb0d93730-d1ce-64f2-789b-9f1fc7a52fdb.png?alt=media\&token=524b8e79-7af7-4182-b943-367d0f9fb745)
+
+# d
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F901%2F084820f7-7ca8-1f87-f67f-b4eb7db81cce.png?alt=media\&token=6e217522-c5aa-4d43-8728-60a12361cede)
+
+# e
+![](https://firebasestorage.googleapis.com/v0/b/firebase-enemio.appspot.com/o/questoes%2F901%2Fe0059e3c-d303-5108-d1c0-386dd969ac3c.png?alt=media\&token=65dcdc89-cdab-439a-915b-c9627dde0939)
+
+# r
+d
+
+# s
+Do enunciado, temos:
+
+Plano K:\
+Para x impulsos, temos:
+
+$K(x) =$ $29 ,90 \\, se\\, 0 \leq x \leq 200$\
+         $0,20x + 29,90 \\, se \\,x>200$
+
+Plano Z:\
+Para x impulsos, temos:
+
+$Z(x) =$ $49,90\\, se\\, 0 \leq x \leq 300$\
+            $0,10x + 49,90 \\, se\\, x > 300$
+
+O gráfico que representa o valor pago, em reais, nos dois planos, em função dos minutos utilizados, é da alternativa **D**.
