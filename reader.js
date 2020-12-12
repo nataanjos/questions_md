@@ -55,7 +55,7 @@ async function parseQuestionMd(filepath){
         solution,
         options,
         answer,
-        meta
+        ...meta
     }
 }
 
@@ -72,24 +72,17 @@ async function parseIndexMd(){
 
 (async () => {
     const notebookItem = await parseIndexMd()
-    await db.collection("notebook").where("")
-    const notebookDoc = await db.collection("notebook").add((({menu, ...rest})=>rest)(notebookItem))
+    const notebookDoc = await db.collection("questionsof").add((({menu, ...rest})=>rest)(notebookItem))
     const menuDocsFirebase = notebookItem.menu.map(x => notebookDoc.collection("menu").add(x))
-    Promise.all(menuDocsFirebase).then(x => {
-        console.log(x)
-    })
-
+    await Promise.all(menuDocsFirebase)
+    
     // console.log(teste)
-    // for await (const f of getFiles('./enem')) {
-    //     const pathArray = f.split('/')
-    //     const fileName = pathArray[pathArray.length - 1]
-    //     if(fileName.split('.')[1] == "md" && fileName.split('.')[0] != "index"){
-    //         //console.log(await parseQuestionMd(f));
-    //         // await db.collection('notebook').add({
-
-    //         // })
-    //         break;
-    //     }
-    // }
+    for await (const f of getFiles('./enem')) {
+        const pathArray = f.split('/')
+        const fileName = pathArray[pathArray.length - 1]
+        if(fileName.split('.')[1] == "md" && fileName.split('.')[0] != "index"){
+            await notebookDoc.collection("questions").add(await parseQuestionMd(f))
+        }
+    }
 })()
 
